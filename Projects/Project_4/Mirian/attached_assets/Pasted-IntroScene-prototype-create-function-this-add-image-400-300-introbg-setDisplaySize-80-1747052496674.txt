@@ -1,0 +1,62 @@
+IntroScene.prototype.create = function () {
+  this.add.image(400, 300, 'introbg').setDisplaySize(800, 600);
+  this.add.rectangle(400, 300, 800, 600, 0x000000, 0.5);
+
+  const texts = [
+    "Bem-vindo a Mirian, a vila dos pescadores.",
+    "Por gerações, vivemos em harmonia com o mar...",
+    "Mas algo mudou. Uma névoa estranha cobre as águas...",
+    "Peixes mortos, febres misteriosas... o desespero cresce.",
+    "Como último aprendiz da Casa do Bálsamo, eu devo agir.",
+    "Parto ao amanhecer. Não por glória... mas por esperança.",
+    "Cada planta pode ser a salvação de Mirian.",
+    "Agora, diga-me, como te chamas?"
+  ];
+
+  let textIndex = 0;
+  let currentText = this.add.text(100, 450, texts[textIndex], {
+    font: '20px Georgia',
+    fill: '#ffffff',
+    wordWrap: { width: 600 }
+  });
+
+  let nameInput = null;
+  let startText = null;
+
+  this.input.keyboard.on('keydown-SPACE', () => {
+    textIndex++;
+    if (textIndex < texts.length - 1) {
+      currentText.setText(texts[textIndex]);
+    } else if (textIndex === texts.length - 1) {
+      currentText.setText(texts[textIndex]);
+
+      // Cria input de nome
+      nameInput = document.createElement('input');
+      nameInput.type = 'text';
+      nameInput.placeholder = 'Digite seu nome...';
+      nameInput.style.position = 'absolute';
+      nameInput.style.left = '300px';
+      nameInput.style.top = '520px';
+      nameInput.style.fontSize = '20px';
+      document.body.appendChild(nameInput);
+
+      startText = this.add.text(100, 560, 'Pressione ENTER para começar', {
+        font: '18px Arial',
+        fill: '#ffffff'
+      });
+
+      this.input.keyboard.once('keydown-ENTER', () => {
+        if (nameInput && nameInput.value.trim() !== '') {
+          playerName = nameInput.value.trim();
+          nameInput.remove();
+          this.scene.start('VillageScene');
+        }
+      });
+    }
+  });
+
+  this.add.text(200, 550, 'Pressione ESPAÇO para continuar...', {
+    font: '16px Arial',
+    fill: '#bbbbbb'
+  });
+};

@@ -1,0 +1,59 @@
+IntroScene.prototype.create = function () {
+  this.add.image(400, 300, 'introbg').setDisplaySize(800, 600);
+  this.add.rectangle(400, 300, 800, 600, 0x000000, 0.5);
+
+  const texts = [
+    "Bem-vindo a Mirian, a vila dos pescadores.",
+    "Por gerações, vivemos em harmonia com o mar...",
+    "Mas algo mudou. Uma névoa estranha cobre as águas...",
+    "Peixes mortos, febres misteriosas... o desespero cresce.",
+    "Como último aprendiz da Casa do Bálsamo, eu devo agir.",
+    "Parto ao amanhecer. Não por glória... mas por esperança.",
+    "Cada planta pode ser a salvação de Mirian.",
+    "Agora, diga-me, como te chamas?"
+  ];
+
+  let index = 0;
+  const text1 = this.add.text(400, 220, '', { font: '20px Georgia', fill: '#fff', align: 'center', wordWrap: { width: 600 } }).setOrigin(0.5);
+  const text2 = this.add.text(400, 270, '', { font: '20px Georgia', fill: '#fff', align: 'center', wordWrap: { width: 600 } }).setOrigin(0.5);
+
+  let nameInput = null;
+  let enterText = null;
+
+  this.input.keyboard.on('keydown-SPACE', () => {
+    if (index < texts.length - 1) {
+      text1.setText(texts[index]);
+      text2.setText(texts[index + 1] || '');
+      index += 2;
+    } else if (index >= texts.length - 1 && !nameInput) {
+      text1.setText(texts[texts.length - 2]);
+      text2.setText(texts[texts.length - 1]);
+
+      nameInput = document.createElement('input');
+      nameInput.type = 'text';
+      nameInput.placeholder = 'Digite seu nome...';
+      nameInput.style.position = 'absolute';
+      nameInput.style.left = '300px';
+      nameInput.style.top = '500px';
+      nameInput.style.fontSize = '20px';
+      document.body.appendChild(nameInput);
+
+      enterText = this.add.text(400, 560, 'Pressione ENTER para começar', {
+        font: '18px Arial', fill: '#ffffff'
+      }).setOrigin(0.5);
+
+      this.input.keyboard.once('keydown-ENTER', () => {
+        if (nameInput && nameInput.value.trim() !== '') {
+          playerName = nameInput.value.trim();
+          nameInput.remove();
+          this.scene.start('VillageScene');
+        }
+      });
+    }
+  });
+
+  this.add.text(400, 550, 'Pressione ESPAÇO para continuar...', {
+    font: '16px Arial',
+    fill: '#bbbbbb'
+  }).setOrigin(0.5);
+};

@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Curandeiro de Mirian</title>
+  <script src="https://cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    canvas {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <script>
+    let playerName = 'Curandeiro';
+    let curedNPCs = {};
+    function resetGame() {
+      curedNPCs = {};
+    }
+    resetGame();
+    let currentTargetNPC = null;
+
+    const diseases = {
+      Maria: {
+        name: "Melancolia",
+        ingredients: ["Pedra Cordeal Composta", "Escorcioneiras", "Borragens"]
+      },
+      Joao: {
+        name: "Mordeduras de Víbora",
+        ingredients: ["Pedra Cordeal Composta", "Serpentaria", "Cardo Santo"]
+      },
+      Vitor: {
+        name: "Doença do Ar Corrupto",
+        ingredients: ["Pedra Cordeal Composta", "Agua Cozida", "Espinheiro Alvar", "Limadura Viado"]
+      },
+      Isabela: {
+        name: "Supressões da Urina",
+        ingredients: ["Pedra Cordeal Composta", "Antimonio", "Agua Commua", "Flor Buxo"]
+      }
+    };
+
+    function LoadingScene() {
+      Phaser.Scene.call(this, {key: 'LoadingScene'});
+    }
+    LoadingScene.prototype = Object.create(Phaser.Scene.prototype);
+    LoadingScene.prototype.constructor = LoadingScene;
+
+    LoadingScene.prototype.preload = function () {
+      this.load.image('titlebg', 'attached_assets/Foto de fundo.jpeg');
+      this.load.image('introbg', 'attached_assets/intro_scene_bg.jpeg');
+      this.load.audio('vilaBgm', 'attached_assets/Vila.mp3');
+      this.load.audio('missaoBgm', 'attached_assets/Missao.mp3');
+      this.load.audio('somBgm', 'attached_assets/Sombg.mp3');
+      this.load.audio('loadingBgm', 'attached_assets/Loading.mp3');
+    };
+
+    LoadingScene.prototype.create = function () {
+      const music = this.sound.add('loadingBgm', {loop: true, volume: 0.5});
+      music.play();
+      this.add.image(400, 300, 'titlebg').setDisplaySize(800, 600);
+
+      // Create border for progress bar
+      const borderWidth = 2;
+      const progressBorder = this.add.rectangle(400, 500, 404, 24, 0x006400).setOrigin(0.5);
+      const progressBox = this.add.rectangle(400, 500, 400, 20, 0x444444).setOrigin(0.5);
+      const progressBar = this.add.rectangle(200, 500, 0, 20, 0x006400).setOrigin(0, 0.5);
+
+      this.tweens.add({
+        targets: progressBar,
+        width: 400,
+        duration: 5000,
+        ease: 'Linear',
+        onComplete: () => {
+          // Add welcome message
+          const welcomeText = this.add.text(400, 300, 'Bem-vindo a Mirian', {
+            font: '40px Georgia',
+            fill: '#ffffff',
+            align: 'center'
+          }).setOrigin(0.5);
+
+          const continueText = this.add.text(400, 350, 'Pressione ESPAÇO para continuar', {
+            font: '18px Arial',
+            fill: '#bbbbbb'
+          }).setOrigin(0.5);
+
+          // Wait for spacebar press
+          const spaceKey = this.input.keyboard.addKey('SPACE');
+          spaceKey.once('down', () => {
+            this.sound.stopAll();
+            this.scene.start('IntroScene');
+          });
+        }
+      });
+    };
+
+    const config = {
+      type: Phaser.AUTO,
+      width: 800,
+      height: 600,
+      physics: {
+        default: 'arcade',
+        arcade: {gravity: {y: 500}, debug: false}
+      },
+      scene: [LoadingScene, IntroScene, TutorialScene, VillageScene, QuestScene, EndingScene]
+    };
+
+    if (window.game) window.game.destroy(true);
+    window.game = new Phaser.Game(config);
+
+    // IntroScene
+    function IntroScene() {Phaser.Scene.call(this, {key: 'IntroScene'});}
+    IntroScene.prototype = Object.create(Phaser.Scene.prototype);
+    IntroScene.prototype.constructor = IntroScene;
+    IntroScene.prototype.preload = function () {
+      this.load.image('introbg', 'attached_assets/introbg.png');
+    };
+    IntroScene.prototype.create = function () {
+      // Para qualquer música que esteja tocando
+      this.sound.stopAll();
+      this.sound.removeAll();
+
+      // Inicia a nova música
+      const music = this.sound.add('somBgm', {loop: true, volume: 0.5});
+      music.play();
+      this.add.image(400, 300, 'introbg').setDisplaySize(800, 600);
+      this.add.rectangle(400, 300, 800, 600, 0x000000, 0.5);
+
+      const texts = [
+        "Bem-vindo a Mirian, a vila dos pescadores.",
+        "Por gerações, vivemos em harmonia com o mar...",
+        "Mas algo mudou. Uma névoa estranha cobre as águas...",
+        "Peixes mortos, febres misteriosas... O desespero cresce.",
+        "Como último Curandeiro da Vila, todos precisam de mim.",
+        "Parto ao amanhecer. Não por glória... Mas por esperança.",
+        "Cada planta pode ser a salvação de Mirian.",
+        "Agora, diz-me, como te chamas?"
+      ];
+
+      let textIndex = 0;
+      let currentText = this.add.text(100, 450, texts[textIndex], {
+        font: '20px Georgia',
+        fill: '#ffffff',
+        wordWrap: {width: 600}
+      });
+
+      let nameInput = null;
+      let startText = null;
+      let textTimer = null;
+
+      const advanceText = () => {
+        textIndex++;
+        if (textIndex < texts.length - 1) {
+          currentText.setText(texts[textIndex]);
+          textTimer = this.time.delayedCall(4000, advanceText);
+        } else if (textIndex === texts.length - 1) {
+          currentText.setText(texts[textIndex]);
+          spaceText.destroy();
+
+          nameInput = document.createElement('input');
+          nameInput.type = 'text';
+          nameInput.placeholder = 'Digite o seu nome...';
+          nameInput.style.position = 'absolute';
+          nameInput.style.left = '300px';
+          nameInput.style.top = '520px';
+          nameInput.style.fontSize = '20px';
+          document.body.appendChild(nameInput);
+
+          startText = this.add.text(100, 560, 'Pressione ENTER para começar', {
+            font: '18px Arial',
+            fill: '#ffffff'
+          });
+        }
+      };
+
+      // Iniciar o temporizador
+      textTimer = this.time.delayedCall(4000, advanceText);
+
+      this.input.keyboard.on('keydown-SPACE', () => {
+        if (textTimer) {
+          textTimer.remove();
+        }
+        textIndex++;
+        if (textIndex < texts.length - 1) {
+          currentText.setText(texts[textIndex]);
+        } else if (textIndex === texts.length - 1) {
+          currentText.setText(texts[textIndex]);
+
+          // Remove o texto de pressionar espaço
+          spaceText.destroy();
+
+          // Cria input de nome
+          nameInput = document.createElement('input');
+          nameInput.type = 'text';
+          nameInput.placeholder = 'Digite o seu nome...';
+          nameInput.style.position = 'absolute';
+          nameInput.style.left = '300px';
+          nameInput.style.top = '520px';
+          nameInput.style.fontSize = '20px';
+          document.body.appendChild(nameInput);
+
+          startText = this.add.text(100, 560, 'Pressione ENTER para começar', {
+            font: '18px Arial',
+            fill: '#ffffff'
+          });
+
+          this.input.keyboard.once('keydown-ENTER', () => {
+            if (nameInput && nameInput.value.trim() !== '') {
+              playerName = nameInput.value.trim();
+              nameInput.remove();
+              this.scene.start('TutorialScene');
+            }
+          });
+        }
+      });
+
+      var spaceText = this.add.text(200, 550, 'Pressione ESPAÇO para continuar...', {
+        font: '16px Arial',
+        fill: '#bbbbbb'
+      });
+    };
+
+    // TutorialScene
+    function TutorialScene() {Phaser.Scene.call(this, {key: 'TutorialScene'});}
+    TutorialScene.prototype = Object.create(Phaser.Scene.prototype);
+    TutorialScene.prototype.constructor = TutorialScene;
+
+    TutorialScene.prototype.preload = function () {
+      this.load.image('preto', 'attached_assets/preto.jpg');
+    };
+
+    TutorialScene.prototype.create = function () {
+      this.add.image(400, 300, 'preto').setDisplaySize(800, 600);
+
+      const tutorialText = this.add.text(400, 100, 'Como Jogar', {
+        font: '32px Georgia',
+        fill: '#ffffff',
+        align: 'center'
+      }).setOrigin(0.5);
+
+      const controlsText = this.add.text(400, 200,
+        'Use as setas direcionais para mover o personagem.\n' +
+        'Seta para cima: Pular\n' +
+        'Setas esquerda/direita: Mover para os lados\n' +
+        'Pressione E para interagir com NPCs.',
+        {
+          font: '20px Arial',
+          fill: '#ffffff',
+          align: 'center',
+          wordWrap: {width: 600}
+        }).setOrigin(0.5);
+
+      const objectiveText = this.add.text(400, 400,
+        'O seu objetivo é coletar  os ingredientes para curar os moradores da vila.\n' +
+        'Interaja com os NPCs e complete as missões!',
+        {
+          font: '20px Arial',
+          fill: '#ffffff',
+          align: 'center',
+          wordWrap: {width: 600}
+        }).setOrigin(0.5);
+
+      const continueText = this.add.text(400, 500, 'Pressione ESPAÇO para continuar', {
+        font: '24px Arial',
+        fill: '#ffff00'
+      }).setOrigin(0.5);
+
+      const spaceKey = this.input.keyboard.addKey('SPACE');
+      spaceKey.once('down', () => {
+        this.scene.start('VillageScene');
+      });
+    };
+
+    // VillageScene
+    function VillageScene() {Phaser.Scene.call(this, {key: 'VillageScene'});}
+    VillageScene.prototype = Object.create(Phaser.Scene.prototype);
+    VillageScene.prototype.constructor = VillageScene;
+
+    VillageScene.prototype.preload = function () {
+      this.load.image('villagebg', 'attached_assets/imagem_de _fundo1.jpeg');
+      this.load.image('ground', 'https://labs.phaser.io/assets/sprites/platform.png');
+      this.load.spritesheet('player', 'https://labs.phaser.io/assets/sprites/dude.png', {frameWidth: 32, frameHeight: 48});
+      this.load.image('npc1', 'attached_assets/npc1.png');
+      this.load.image('npc2', 'attached_assets/npc2.png');
+      this.load.image('npc3', 'attached_assets/npc3.png');
+      this.load.image('npc4', 'attached_assets/npc4.png');
+      this.load.image('rei', 'attached_assets/rei.png');
+    };
+
+    VillageScene.prototype.create = function () {
+      // Para qualquer música que esteja tocando
+      this.sound.stopAll();
+      this.sound.removeAll();
+
+      // Inicia a nova música
+      const music = this.sound.add('vilaBgm', {loop: true, volume: 0.5});
+      music.play();
+      this.add.image(400, 300, 'villagebg').setDisplaySize(800, 600);
+      this.platforms = this.physics.add.staticGroup();
+      const platforms = this.platforms;
+      platforms.create(400, 590, 'ground').setScale(2, 0.5).refreshBody();
+      platforms.create(250, 470, 'ground').setScale(1.5, 0.5).refreshBody();
+      platforms.create(400, 350, 'ground').setScale(0.7, 0.5).refreshBody();
+      platforms.create(650, 230, 'ground').setScale(0.6, 0.5).refreshBody();
+
+      this.npcGroup = this.physics.add.staticGroup();
+
+      if (curedNPCs['Maria']) {
+        this.movingPlatform = this.physics.add.sprite(200, 150, 'ground');
+        this.movingPlatform.setImmovable(true);
+        this.movingPlatform.body.allowGravity = false;
+        this.movingPlatform.setScale(0.3, 0.5);
+        this.movingPlatform.setVelocityX(100);
+
+        // Adicionar NPC4 (Isabela) apenas quando a plataforma móvel estiver disponível
+        if (!curedNPCs['Isabela']) {
+          this.isabelaSprite = this.npcGroup.create(200, 115, 'npc4');
+          this.isabelaSprite.setScale(0.15);
+          this.isabelaSprite.setData('name', 'Isabela');
+        }
+      }
+
+      this.player = this.physics.add.sprite(100, 520, 'player');
+      this.player.setCollideWorldBounds(true);
+      this.player.setBounce(0.2);
+      this.player.setScale(1.2);
+      this.physics.add.collider(this.player, platforms);
+
+      if (!this.anims.exists('left')) {
+        this.anims.create({
+          key: 'left', frames: this.anims.generateFrameNumbers('player', {start: 0, end: 3}),
+          frameRate: 10, repeat: -1
+        });
+        this.anims.create({key: 'turn', frames: [{key: 'player', frame: 4}], frameRate: 20});
+        this.anims.create({
+          key: 'right', frames: this.anims.generateFrameNumbers('player', {start: 5, end: 8}),
+          frameRate: 10, repeat: -1
+        });
+      }
+
+      this.dialog = this.add.text(20, 20, '', {font: '16px Arial', fill: '#fff', wordWrap: {width: 760}});
+
+      const npcPositions = [
+        {name: 'Maria', x: 250, y: 430},
+        {name: 'Joao', x: 400, y: 310},
+        {name: 'Vitor', x: 650, y: 190}
+      ];
+
+      npcPositions.forEach((npc, index) => {
+        if (!curedNPCs[npc.name]) {
+          const sprite = this.npcGroup.create(npc.x, npc.y, `npc${index + 1}`);
+          sprite.setScale(0.15);
+          sprite.setData('name', npc.name);
+        }
+      });
+
+      this.cursors = this.input.keyboard.createCursorKeys();
+      this.interactKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.E);
+    };
+
+    VillageScene.prototype.update = function () {
+      // Check if all NPCs are cured
+      if (curedNPCs['Maria'] && curedNPCs['Joao'] && curedNPCs['Vitor'] && curedNPCs['Isabela'] && !curedNPCs['KingDialog'] && !this.kingSpawned) {
+        // Add king on João's platform position
+        this.kingSpawned = true;
+        const king = this.physics.add.sprite(400, 310, 'rei').setScale(0.09);
+        king.setCollideWorldBounds(true);
+        this.physics.add.collider(king, this.platforms);
+
+        // Add dialog prompt when near the king
+        const dialog = this.add.text(20, 20, '', {font: '16px Arial', fill: '#fff'});
+
+        this.physics.add.overlap(this.player, king, () => {
+          dialog.setText('Pressione E para falar com o Rei');
+
+          if (Phaser.Input.Keyboard.JustDown(this.interactKey)) {
+            const dialogBg = this.add.rectangle(400, 300, 750, 200, 0x000000, 0.8);
+            const dialogStyle = {font: '16px Arial', fill: '#ffffff', wordWrap: {width: 700}, align: 'center'};
+
+            const kingDialog = this.add.text(400, 300,
+              `Rei da Vila:\n"${playerName},  as suas ações transcenderam as habilidades de um curandeiro.\n` +
+              `Com coragem inabalável e sabedoria singular, você tornou-se no coração da nossa vila.\n` +
+              `Graças a você, o nosso povo está salvo, e a esperança floresce novamente nas nossas terras.\n` +
+              `Minha gratidão, nobre guardião, será eternamente sua."`, dialogStyle).setOrigin(0.5);
+
+            const continueText = this.add.text(400, 380, 'Pressione ESPAÇO para continuar...', {
+              font: '14px Arial',
+              fill: '#bbbbbb'
+            }).setOrigin(0.5);
+
+            const spaceKey = this.input.keyboard.addKey('SPACE');
+            spaceKey.once('down', () => {
+              kingDialog.destroy();
+              dialogBg.destroy();
+              continueText.destroy();
+              curedNPCs['KingDialog'] = true;
+              this.scene.start('EndingScene');
+            });
+          }
+        }, null, this);
+
+      } else if (curedNPCs['KingDialog']) {
+        this.scene.start('EndingScene');
+        return;
+      }
+
+      this.player.setVelocityX(0);
+      if (this.movingPlatform) {
+        if (this.movingPlatform.x >= 400) this.movingPlatform.setVelocityX(-100);
+        else if (this.movingPlatform.x <= 100) this.movingPlatform.setVelocityX(100);
+
+        if (this.isabelaSprite && !curedNPCs['Isabela']) {
+          this.isabelaSprite.x = this.movingPlatform.x;
+        }
+
+        // Adicionar colisão entre o jogador e a plataforma móvel
+        this.physics.add.collider(this.player, this.movingPlatform);
+      }
+      if (this.cursors.up.isDown && this.player.body.touching.down) this.player.setVelocityY(-350);
+      if (this.cursors.left.isDown) {
+        this.player.setVelocityX(-160);
+        this.player.anims.play('left', true);
+      } else if (this.cursors.right.isDown) {
+        this.player.setVelocityX(160);
+        this.player.anims.play('right', true);
+      } else this.player.anims.play('turn');
+
+      let interacted = false;
+      this.npcGroup.children.iterate(npc => {
+        if (npc && Phaser.Math.Distance.Between(this.player.x, this.player.y, npc.x, npc.y) < 50) {
+          this.dialog.setText(`Pressione E para falar com ${npc.getData('name')}`);
+          if (Phaser.Input.Keyboard.JustDown(this.interactKey)) {
+            const name = npc.getData('name');
+            const dialogBg = this.add.rectangle(400, 300, 750, 200, 0x000000, 0.8);
+            const dialogStyle = {font: '16px Arial', fill: '#ffffff', wordWrap: {width: 700}, align: 'center'};
+            const spaceKey = this.input.keyboard.addKey('SPACE');
+
+            if (name === 'Maria') {
+              const mariaDialog = this.add.text(400, 300, 'Maria:\n"Desde que ele partiu, só ouço o som do mar a chamar...\nJá não sinto fome, nem vontade de levantar.\nO mundo ficou cinzento, como o céu antes da tempestade."', dialogStyle).setOrigin(0.5);
+
+              const dialogStep = () => {
+                mariaDialog.destroy();
+                const healerDialog = this.add.text(400, 300, 'Curandeiro:\n"A tua alma foi enredada pela tristeza do mar, Maria.\nMas há cura, mesmo para a dor que o tempo não levou.\nPreciso da Pedra Cordeal Composta, que brilha com o calor do afeto perdido,\ndas Escorcioneiras, cujas folhas limpam as lembranças que doem,\ne das Borragens, que devolvem a vontade de viver.\n\nIrei até a Floresta Encantada, onde as árvores choram histórias antigas.\nTerei de ignorar os sussurros falsos e encontrar o caminho verdadeiro.\nTrago-te de volta à luz, nem que o próprio vento tente me enganar."', dialogStyle).setOrigin(0.5);
+
+                const finalStep = () => {
+                  healerDialog.destroy();
+                  dialogBg.destroy();
+                  currentTargetNPC = name;
+                  this.scene.start('QuestScene', {npcName: name});
+                };
+                spaceKey.once('down', finalStep);
+              };
+              spaceKey.once('down', dialogStep);
+            }
+            else if (name === 'Joao') {
+              const joaoDialog = this.add.text(400, 300, 'João:\n"A rede ficou presa nas pedras.\nPuxei com força... e senti a picada como um prego quente.\nO braço arde, e o mundo gira. Juro que ouvi o mar me chamar pra baixo..."', dialogStyle).setOrigin(0.5);
+
+              const dialogStep = () => {
+                joaoDialog.destroy();
+                const healerDialog = this.add.text(400, 300, 'Curandeiro:\n"O veneno da víbora corre em ti, João, mas não mais do que a coragem em teu sangue.\nA cura exige a poderosa Pedra Cordeal Composta, que estabiliza o espírito,\na raiz da Serpentaria Virginiana, nascida para enfrentar as mordidas traiçoeiras,\ne o amargo do Cardo Santo, que purga a corrupção do corpo.\n\nDescerei à Caverna da Serpente, onde o chão trai os pés e as sombras rastejam.\nCom a tocha sagrada em mãos, enfrentarei as profundezas.\nNão deixarei que a serpente leve o contador de histórias da vila."', dialogStyle).setOrigin(0.5);
+
+                const finalStep = () => {
+                  healerDialog.destroy();
+                  dialogBg.destroy();
+                  currentTargetNPC = name;
+                  this.scene.start('QuestScene', {npcName: name});
+                };
+                spaceKey.once('down', finalStep);
+              };
+              spaceKey.once('down', dialogStep);
+            }
+            else if (name === 'Vitor') {
+              const vitorDialog = this.add.text(400, 300, 'Vitor:\n"Dói cá dentro… como se os meus rins tivessem fechado as portas.\nO corpo pesa como se estivesse cheio de pedra.\nTentei ignorar, mas agora… parece que estou a secar por dentro."', dialogStyle).setOrigin(0.5);
+
+              const dialogStep = () => {
+                vitorDialog.destroy();
+                const healerDialog = this.add.text(400, 300, 'Curandeiro:\n"Vitor, guardaste a dor como se fosse tua penitência, mas o silêncio do corpo é um grito por socorro.\nA cura pede a reluzente Pedra Cordeal Composta, para reacender o fluxo vital,\na purificadora Água Cozida, que limpa o que o corpo não pode,\nas Folhas de Espinheiro Alvar, que libertam o que está preso,\ne as raras Limaduras de osso de veado, símbolo de força e movimento.\n\nTerei de ir à Floresta Seca, um lugar onde a vida foi levada pelo esquecimento.\nPrometo que farei o teu corpo cantar de novo, como um rio que volta a correr."', dialogStyle).setOrigin(0.5);
+
+                const finalStep = () => {
+                  healerDialog.destroy();
+                  dialogBg.destroy();
+                  currentTargetNPC = name;
+                  this.scene.start('QuestScene', {npcName: name});
+                };
+                spaceKey.once('down', finalStep);
+              };
+              spaceKey.once('down', dialogStep);
+            }
+            else if (name === 'Isabela') {
+              const isabelaDialog = this.add.text(400, 300, 'Isabela:\n"Achei que era só um corte...\nMas agora sinto a febre subir, e meu sangue queima.\nTem algo errado dentro de mim... como se estivesse a apodrecer."', dialogStyle).setOrigin(0.5);
+
+              const dialogStep = () => {
+                isabelaDialog.destroy();
+                const healerDialog = this.add.text(400, 300, 'Curandeiro:\n"O ferro que moldas não pode te salvar desta dor, Isabela.\nMas eu posso.\nA cura exige a reluzente Pedra Cordeal Composta,\no antigo Antimônio Diaphoretico, que expulsa o mal de dentro,\na Água Commua, fonte de equilíbrio,\ne a Flor de Buxo, que renasce mesmo em solo envenenado.\n\nPartirei para o Jardim Venenoso, onde o próprio ar castiga os passos.\nEnfrentarei espinhos e enigmas,\nmas nem o veneno vencerá a chama de alguém que ainda tem muito a forjar."', dialogStyle).setOrigin(0.5);
+
+                const finalStep = () => {
+                  healerDialog.destroy();
+                  dialogBg.destroy();
+                  currentTargetNPC = name;
+                  this.scene.start('QuestScene', {npcName: name});
+                };
+                spaceKey.once('down', finalStep);
+              };
+              spaceKey.once('down', dialogStep);
+            }
+          }
+          interacted = true;
+        }
+      });
+      if (!interacted) this.dialog.setText('');
+    };
+
+    // QuestScene
+    function QuestScene() {Phaser.Scene.call(this, {key: 'QuestScene'});}
+    QuestScene.prototype = Object.create(Phaser.Scene.prototype);
+    QuestScene.prototype.constructor = QuestScene;
+
+    QuestScene.prototype.init = function (data) {
+      this.targetNPC = data.npcName;
+    };
+
+    QuestScene.prototype.preload = function () {
+      this.load.image('skyMaria', 'attached_assets/missao1.jpeg');
+      this.load.image('skyJoao', 'attached_assets/Serpente.jpeg');
+      this.load.image('skyVitor', 'attached_assets/FlorestaSeca.jpeg');
+      this.load.image('skyIsabela', 'attached_assets/SangueEnvenenado.jpeg');
+      this.load.image('ground', 'https://labs.phaser.io/assets/sprites/platform.png');
+      this.load.image('Borragens', 'attached_assets/Borragens.jpeg');
+      this.load.image('Escorcioneiras', 'attached_assets/Escorcioneira.png');
+      this.load.image('Pedra Cordeal Composta', 'attached_assets/PedraCordeal.png');
+      this.load.image('Serpentaria', 'attached_assets/Serpentaria.png');
+      this.load.image('Cardo Santo', 'attached_assets/CardoSanto.png');
+      this.load.image('Agua Cozida', 'attached_assets/AguaCozida.png');
+      this.load.image('Espinheiro Alvar', 'attached_assets/EspinheiroAlvar.png');
+      this.load.image('Limadura Viado', 'attached_assets/LimaduraViado.png');
+      this.load.image('Antimonio', 'attached_assets/Antimonio.png');
+      this.load.image('Agua Commua', 'attached_assets/AguaCommua.png');
+      this.load.image('Flor Buxo', 'attached_assets/FlorBuxo.png');
+      this.load.image('portal', 'attached_assets/portal.png');
+      this.load.image('monster', 'https://labs.phaser.io/assets/sprites/slime.png');
+      this.load.spritesheet('player', 'https://labs.phaser.io/assets/sprites/dude.png', {frameWidth: 32, frameHeight: 48});
+    };
+
+    QuestScene.prototype.create = function () {
+      // Para qualquer música que esteja tocando
+      this.sound.stopAll();
+      this.sound.removeAll();
+
+      // Inicia a nova música
+      const music = this.sound.add('missaoBgm', {loop: true, volume: 0.5});
+      music.play();
+      const skyKey = 'sky' + this.targetNPC;
+      this.add.image(400, 300, skyKey);
+      this.collectedIngredients = 0;
+      const platforms = this.physics.add.staticGroup();
+      platforms.create(400, 590, 'ground').setScale(2, 0.5).refreshBody();
+
+      let platformPositions;
+      if (this.targetNPC === 'Maria') {
+        platformPositions = [
+          {x: 600, y: 500}, {x: 200, y: 420}, {x: 550, y: 340},
+          {x: 150, y: 260}, {x: 450, y: 180}, {x: 250, y: 100}
+        ];
+      } else if (this.targetNPC === 'Joao') {
+        // Plataformas em formato de zigue-zague
+        platformPositions = [
+          {x: 600, y: 520}, {x: 150, y: 440}, {x: 550, y: 360},
+          {x: 100, y: 280}, {x: 500, y: 200}, {x: 200, y: 120}
+        ];
+      } else if (this.targetNPC === 'Vitor') {
+        // Plataformas mais espaçadas e altas
+        platformPositions = [
+          {x: 200, y: 500}, {x: 600, y: 400}, {x: 150, y: 300},
+          {x: 550, y: 200}, {x: 300, y: 100}
+        ];
+      } else if (this.targetNPC === 'Isabela') {
+        platformPositions = [
+          {x: 150, y: 520}, // plataforma inicial
+          {x: 600, y: 440}, // segunda plataforma
+          {x: 150, y: 360}, // terceira plataforma
+          {x: 600, y: 280}, // quarta plataforma
+          {x: 150, y: 200}, // quinta plataforma
+          {x: 600, y: 120}  // plataforma topo
+        ];
+      }
+
+      platformPositions.forEach(pos => {
+        platforms.create(pos.x, pos.y, 'ground').setScale(0.8, 0.5).refreshBody();
+      });
+
+      // Criar grupo de monstros
+      this.monsters = this.physics.add.group();
+
+      if (this.targetNPC === 'Maria') {
+        // Monstros normais para Maria
+        platformPositions.forEach(pos => {
+          const monster = this.monsters.create(pos.x, pos.y - 40, 'monster');
+          monster.setScale(0.5);
+          monster.setCollideWorldBounds(true);
+          monster.setVelocityX(100);
+          monster.originalX = pos.x;
+        });
+      } else if (this.targetNPC === 'Joao') {
+        // Cobras que se movem mais rápido
+        platformPositions.forEach(pos => {
+          const snake = this.monsters.create(pos.x, pos.y - 40, 'monster');
+          snake.setScale(0.3);
+          snake.setTint(0x00ff00);
+          snake.setCollideWorldBounds(true);
+          snake.setVelocityX(150);
+          snake.originalX = pos.x;
+        });
+      } else if (this.targetNPC === 'Vitor') {
+        // Bonecos que atiram pedras
+        platformPositions.forEach(pos => {
+          const thrower = this.monsters.create(pos.x, pos.y - 40, 'monster');
+          thrower.setScale(0.6);
+          thrower.setTint(0xff0000);
+          thrower.setCollideWorldBounds(true);
+          thrower.setVelocityX(80);
+          thrower.originalX = pos.x;
+          thrower.shootTime = 0;
+
+          // Configurar timer para atirar pedras
+          this.time.addEvent({
+            delay: 2000,
+            callback: () => {
+              if (thrower.active) {
+                const stone = this.physics.add.sprite(thrower.x, thrower.y, 'monster');
+                stone.setScale(0.2);
+                stone.setTint(0x808080);
+                stone.setVelocityY(200);
+                stone.setVelocityX((Math.random() - 0.5) * 200);
+
+                // Colisão das pedras com o jogador
+                this.physics.add.collider(this.player, stone, () => {
+                  stone.destroy();
+                  this.player.setPosition(100, 500);
+                });
+
+                // Destruir pedra após 2 segundos
+                this.time.delayedCall(2000, () => stone.destroy());
+              }
+            },
+            loop: true
+          });
+        });
+      } else if (this.targetNPC === 'Isabela') {
+        // Pássaros que voam em padrões
+        platformPositions.forEach(pos => {
+          const bird = this.monsters.create(pos.x, pos.y - 60, 'monster');
+          bird.setScale(0.4);
+          bird.setTint(0x0000ff);
+          bird.setCollideWorldBounds(true);
+
+          // Movimento aleatório para os pássaros
+          const randomPath = () => {
+            const targetX = Phaser.Math.Between(50, 750);
+            const targetY = Phaser.Math.Between(50, 500);
+
+            this.tweens.add({
+              targets: bird,
+              x: targetX,
+              y: targetY,
+              duration: 3000,
+              ease: 'Sine.easeInOut',
+              onComplete: () => randomPath(),
+              onCompleteScope: this
+            });
+          };
+
+          randomPath();
+        });
+      }
+
+      this.physics.add.collider(this.monsters, platforms);
+
+      this.player = this.physics.add.sprite(100, 500, 'player');
+      this.player.setBounce(0.2);
+      this.player.setCollideWorldBounds(true);
+      this.physics.add.collider(this.player, platforms);
+
+      if (!this.anims.exists('left')) {
+        this.anims.create({
+          key: 'left',
+          frames: this.anims.generateFrameNumbers('player', {start: 0, end: 3}),
+          frameRate: 10,
+          repeat: -1
+        });
+        this.anims.create({
+          key: 'turn',
+          frames: [{key: 'player', frame: 4}],
+          frameRate: 20
+        });
+        this.anims.create({
+          key: 'right',
+          frames: this.anims.generateFrameNumbers('player', {start: 5, end: 8}),
+          frameRate: 10,
+          repeat: -1
+        });
+      }
+
+      this.cursors = this.input.keyboard.createCursorKeys();
+      this.collectedIngredients = 0;
+      this.progressText = this.add.text(20, 20, '0/3 Ingredientes', {font: '18px Arial', fill: '#ffffff'});
+
+      const ingredients = diseases[this.targetNPC].ingredients;
+      let ingredientPositions;
+      if (this.targetNPC === 'Maria') {
+        ingredientPositions = [
+          {x: 200, y: 380}, // Posicionamento específico para Maria
+          {x: 550, y: 300},
+          {x: 500, y: 150}
+        ];
+      } else if (this.targetNPC === 'Joao') {
+        ingredientPositions = [
+          {x: 200, y: 380}, // Posicionamento específico para João
+          {x: 600, y: 300},
+          {x: 550, y: 150}
+        ];
+      } else if (this.targetNPC === 'Vitor') {
+        ingredientPositions = [
+          {x: 200, y: 440}, // Posicionamento específico para Vitor
+          {x: 600, y: 340},
+          {x: 450, y: 160},
+          {x: 390, y: 50}
+        ];
+      } else if (this.targetNPC === 'Isabela') {
+        ingredientPositions = [
+          {x: 400, y: 410}, // Ingrediente na segunda plataforma
+          {x: 150, y: 330}, // Ingrediente na terceira plataforma
+          {x: 400, y: 250}, // Ingrediente na quarta plataforma
+          {x: 400, y: 90}   // Ingrediente no topo
+        ];
+      }
+      this.ingredientGroup = this.physics.add.group();
+      ingredients.forEach((name, i) => {
+        const sprite = this.ingredientGroup.create(ingredientPositions[i].x, ingredientPositions[i].y, name);
+        sprite.setScale(0.08);
+        sprite.setData('name', name);
+        sprite.body.allowGravity = false;
+        sprite.body.immovable = true;
+      });
+
+      this.physics.add.collider(this.ingredientGroup, platforms);
+
+      this.physics.add.overlap(this.player, this.ingredientGroup, (player, ingredient) => {
+        if (ingredient.getData('collected')) return;
+
+        ingredient.setData('collected', true);
+        const label = ingredient.getData('name');
+        ingredient.destroy();
+        this.collectedIngredients++;
+        const totalIngredients = diseases[this.targetNPC].ingredients.length;
+        this.progressText.setText(`${this.collectedIngredients}/${totalIngredients} Ingredientes`);
+        this.add.text(20, 60 + this.collectedIngredients * 20, `${label} coletado!`, {font: '16px Arial', fill: '#00ff00'});
+
+        if (this.collectedIngredients === totalIngredients) {
+          // Esperar 2 segundos antes de mostrar o diálogo
+          this.time.delayedCall(2000, () => {
+            // Create black overlay
+            const overlay = this.add.rectangle(400, 300, 800, 600, 0x000000);
+
+            const dialogStyle = {font: '16px Arial', fill: '#ffffff', wordWrap: {width: 700}, align: 'center'};
+            let healerDialog, npcDialog;
+
+            if (this.targetNPC === 'Maria') {
+              healerDialog = this.add.text(400, 250, 'Curandeiro:\n"Maria, consegui os ingredientes. Prepara-te: a cura começa agora. O mar já não te levará."', dialogStyle).setOrigin(0.5);
+              npcDialog = this.add.text(400, 350, 'Maria:\n"Sinto... o calor a voltar. Obrigada, curandeiro... obrigada por me devolver a luz."', dialogStyle).setOrigin(0.5);
+            } else if (this.targetNPC === 'Joao') {
+              healerDialog = this.add.text(400, 250, 'Curandeiro:\n"João, trouxe tudo. Segura firme, a febre vai passar. A serpente não te levará hoje."', dialogStyle).setOrigin(0.5);
+              npcDialog = this.add.text(400, 350, 'João:\n"Ah... já não arde tanto. Obrigado, curandeiro! Sabia que não me deixarias afundar."', dialogStyle).setOrigin(0.5);
+            } else if (this.targetNPC === 'Vitor') {
+              healerDialog = this.add.text(400, 250, 'Curandeiro:\n"Vitor, aqui estão os elementos. Prepara-te, a vida voltará a correr em ti."', dialogStyle).setOrigin(0.5);
+              npcDialog = this.add.text(400, 350, 'Vitor:\n"Sinto... os rins aliviados. Obrigado, curandeiro. Pensava que era o meu fim."', dialogStyle).setOrigin(0.5);
+            } else if (this.targetNPC === 'Isabela') {
+              healerDialog = this.add.text(400, 250, 'Curandeiro:\n"Isabela, consegui tudo. O veneno será vencido. Aguenta só mais um instante."', dialogStyle).setOrigin(0.5);
+              npcDialog = this.add.text(400, 350, 'Isabela:\n"A febre... está a baixar. Obrigada, curandeiro! Ainda tenho muito para forjar."', dialogStyle).setOrigin(0.5);
+            }
+
+            // Add instruction text
+            const continueText = this.add.text(400, 450, 'Pressione ESPAÇO para continuar', {font: '14px Arial', fill: '#ffffff'}).setOrigin(0.5);
+
+            // Wait for spacebar press
+            const spaceKey = this.input.keyboard.addKey('SPACE');
+            spaceKey.once('down', () => {
+              curedNPCs[this.targetNPC] = true;
+              this.scene.stop('QuestScene');
+              this.scene.start('VillageScene');
+            });
+          });
+        }
+      }, null, this);
+
+      // Add a button to return to the village scene
+      const returnButton = this.add.text(700, 20, 'Voltar à Vila', {font: '16px Arial', fill: '#ffffff', backgroundColor: '#000000'})
+        .setInteractive()
+        .setOrigin(0.5)
+        .on('pointerdown', () => {
+          this.sound.stopAll();
+          this.scene.stop('QuestScene');
+          this.scene.start('VillageScene');
+        });
+    };
+
+    function EndingScene() {
+      Phaser.Scene.call(this, {key: 'EndingScene'});
+    }
+    EndingScene.prototype = Object.create(Phaser.Scene.prototype);
+    EndingScene.prototype.constructor = EndingScene;
+
+    EndingScene.prototype.preload = function () {
+      this.load.image('endingbg', 'attached_assets/EndingScene.jpeg');
+    };
+
+    EndingScene.prototype.create = function () {
+      // Para qualquer música que esteja tocando
+      this.sound.stopAll();
+      this.sound.removeAll();
+
+      // Inicia a nova música
+      const music = this.sound.add('somBgm', {loop: true, volume: 0.5});
+      music.play();
+      this.add.image(400, 300, 'endingbg').setDisplaySize(800, 600);
+      this.add.rectangle(400, 300, 800, 600, 0x000000, 0.4);
+
+      const endingText = [
+        "O último antídoto foi dado.",
+        "Os olhos outrora febris agora brilham de esperança.",
+        "As redes voltam a mergulhar no mar,",
+        "E a névoa... começa a recuar.",
+        "",
+        "As histórias de tua jornada espalham-se como o vento:",
+        "O curandeiro que enfrentou o esquecimento,",
+        "Que ouviu os segredos das plantas e devolveu a vida à terra.",
+        "",
+        "Mirian respira de novo.",
+        `E o teu nome ecoará nas canções da vila,`,
+        `Sempre que a maré trouxer o sussurro da cura.`,
+        "",
+        `Obrigado, ${playerName}.`
+      ];
+
+      let index = 0;
+      const textDisplay = this.add.text(400, 150, '', {
+        font: '20px Georgia',
+        fill: '#ffffff',
+        align: 'center',
+        wordWrap: {width: 600}
+      }).setOrigin(0.5);
+
+      let textTimer = null;
+
+      const advanceEndingText = () => {
+        if (index < endingText.length) {
+          textDisplay.setText(endingText.slice(0, index + 1).join('\n'));
+          index++;
+          textTimer = this.time.delayedCall(4000, advanceEndingText);
+        } else {
+          this.add.text(400, 550, 'Pressione R para reiniciar', {
+            font: '18px Arial',
+            fill: '#bbbbbb'
+          }).setOrigin(0.5);
+
+          this.input.keyboard.once('keydown-R', () => {
+            resetGame();
+            this.scene.start('LoadingScene');
+          });
+        }
+      };
+
+      // Iniciar o temporizador
+      textTimer = this.time.delayedCall(4000, advanceEndingText);
+
+      this.input.keyboard.on('keydown-SPACE', () => {
+        if (textTimer) {
+          textTimer.remove();
+        }
+        if (index < endingText.length) {
+          textDisplay.setText(endingText.slice(0, index + 1).join('\n'));
+          index++;
+        } else {
+          this.add.text(400, 550, 'Pressione R para reiniciar', {
+            font: '18px Arial',
+            fill: '#bbbbbb'
+          }).setOrigin(0.5);
+
+          this.input.keyboard.once('keydown-R', () => {
+            resetGame();
+            this.scene.start('LoadingScene');
+          });
+        }
+      });
+
+      this.add.text(400, 500, 'Pressione ESPAÇO para continuar...', {
+        font: '16px Arial',
+        fill: '#bbbbbb'
+      }).setOrigin(0.5);
+    };
+
+    QuestScene.prototype.update = function () {
+      this.player.setVelocityX(0);
+      if (this.cursors.left.isDown) {
+        this.player.setVelocityX(-160);
+        this.player.anims.play('left', true);
+      } else if (this.cursors.right.isDown) {
+        this.player.setVelocityX(160);
+        this.player.anims.play('right', true);
+      } else this.player.anims.play('turn');
+      if (this.cursors.up.isDown && this.player.body.touching.down) {
+        this.player.setVelocityY(-350);
+      }
+
+      // Movimento dos monstros
+      if (this.targetNPC === 'Maria' || this.targetNPC === 'Joao') {
+        this.monsters.children.iterate(function (monster) {
+          const speed = this.targetNPC === 'Joao' ? 150 : 100;
+          if (monster.x >= monster.originalX + 100) {
+            monster.setVelocityX(-speed);
+          } else if (monster.x <= monster.originalX - 100) {
+            monster.setVelocityX(speed);
+          }
+        }, this);
+      } else if (this.targetNPC === 'Vitor') {
+        this.monsters.children.iterate(function (monster) {
+          if (monster.x >= monster.originalX + 50) {
+            monster.setVelocityX(-80);
+          } else if (monster.x <= monster.originalX - 50) {
+            monster.setVelocityX(80);
+          }
+        }, this);
+      }
+      // Os pássaros da Isabela já têm seu movimento controlado pelos tweens
+
+      // Colisão com monstros
+      this.physics.add.collider(this.player, this.monsters, (player, monster) => {
+        player.setPosition(100, 500);
+      });
+    };
+  </script>
+</body>
+
+</html>
