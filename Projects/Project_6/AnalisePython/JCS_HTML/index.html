@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Joao Curvo Semmedo" />
+  <meta name="dcterms.date" content="1700-01-01" />
+  <title>Memorial de Varios Simplices</title>
+  <style>
+    div.sitenav { display: flex; flex-direction: row; flex-wrap: wrap; }
+    span.navlink { flex: 1; }
+    span.navlink-label { display: inline-block; min-width: 4em; }
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<nav id="sitenav">
+<div class="sitenav">
+<span class="navlink">
+</span>
+<span class="navlink">
+</span>
+</div>
+<div class="sitenav">
+<span class="navlink">
+<span class="navlink-label">Next:</span> <a href="1-memorial-de-varios-simplices.html" accesskey="n" rel="next">MEMORIAL DE VARIOS SIMPLICES</a>
+</span>
+<span class="navlink">
+</span>
+</div>
+</nav>
+<header id="title-block-header">
+<h1 class="title">Memorial de Varios Simplices</h1>
+<p class="author">Joao Curvo Semmedo</p>
+<p class="date">1700</p>
+</header>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a
+href="1-memorial-de-varios-simplices.html#memorial-de-varios-simplices"
+id="toc-memorial-de-varios-simplices">MEMORIAL DE VARIOS SIMPLICES</a>
+<ul>
+<li><a
+href="1-memorial-de-varios-simplices.html#que-da-india-oriental-da-america-e-de-outras-par-"
+id="toc-que-da-india-oriental-da-america-e-de-outras-par-">Que da India
+Oriental, da America, e de outras par-</a></li>
+</ul></li>
+<li><a href="2-pedra-bazar-simplez..html#pedra-bazar-simplez."
+id="toc-pedra-bazar-simplez.">PEDRA BAZAR SIMPLEZ.</a>
+<ul>
+<li><a
+href="2-pedra-bazar-simplez..html#regimento-e-virtudes-da-pedra-bazar-simplez-ou-natural-que-naſce-nos-buchos-de-huns-animaes-muy-ſemelhantes-aos-cabritos."
+id="toc-regimento-e-virtudes-da-pedra-bazar-simplez-ou-natural-que-naſce-nos-buchos-de-huns-animaes-muy-ſemelhantes-aos-cabritos.">Regimento,
+e virtudes da Pedra Bazar Simplez, ou natural, que naſce nos buchos de
+huns animaes muy ſemelhantes aos cabritos.</a></li>
+</ul></li>
+<li><a href="3-pedra-cordeal-composta..html#pedra-cordeal-composta."
+id="toc-pedra-cordeal-composta.">PEDRA CORDEAL COMPOSTA.</a>
+<ul>
+<li><a
+href="3-pedra-cordeal-composta..html#regimento-virtudes-das-pedras-cordeaes-compoſtas."
+id="toc-regimento-virtudes-das-pedras-cordeaes-compoſtas.">Regimento,
+&amp; virtudes das pedras Cordeaes compoſtas.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-de-porco-eſpim-natural-ſuas-virtudes."
+id="toc-pedra-de-porco-eſpim-natural-ſuas-virtudes.">Pedra de Porco
+Eſpim natural, &amp; ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-de-canamor-ſuas-virtudes."
+id="toc-pedra-de-canamor-ſuas-virtudes.">Pedra de Canamor, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#ouvido-do-peyxe-boy-ſuas-virtudes."
+id="toc-ouvido-do-peyxe-boy-ſuas-virtudes.">Ouvido do Peyxe Boy, &amp;
+ſuas virtudes.</a></li>
+<li><a href="3-pedra-cordeal-composta..html#pedra-candar-ſuas-virtudes."
+id="toc-pedra-candar-ſuas-virtudes.">Pedra Candar, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-da-cabeça-da-cobra-de-pate-a-que-vulgarmente-chamaõ-pedra-de-mombaça.-virtudes-que-tem-e-como-se-applica."
+id="toc-pedra-da-cabeça-da-cobra-de-pate-a-que-vulgarmente-chamaõ-pedra-de-mombaça.-virtudes-que-tem-e-como-se-applica.">Pedra
+da cabeça da Cobra de Pate, a que vulgarmente chamaõ Pedra de/ Mombaça.
+Virtudes que tem, e como se applica.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-safira-e-suas-virtudes."
+id="toc-pedra-safira-e-suas-virtudes.">Pedra Safira, e suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-de-cobra-de-dio-e-suas-virtudes."
+id="toc-pedra-de-cobra-de-dio-e-suas-virtudes.">Pedra de Cobra de Dio, e
+suas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-pauzari-e-suas-virtudes."
+id="toc-pedra-pauzari-e-suas-virtudes.">Pedra Pauzari, e suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#erva-do-paraguay-e-sua-virtude."
+id="toc-erva-do-paraguay-e-sua-virtude.">Erva do Paraguay, e sua
+virtude.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#caranguejo-de-aynaõ-e-suas-virtudes."
+id="toc-caranguejo-de-aynaõ-e-suas-virtudes.">Caranguejo de Aynaõ, e
+suas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#dente-de-peixe-mulher-virgem-e-ſuas-virtudes."
+id="toc-dente-de-peixe-mulher-virgem-e-ſuas-virtudes.">Dente de peixe
+mulher virgem, e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#coſtella-de-peixe-mulher-virgem-e-suas-virtudes."
+id="toc-coſtella-de-peixe-mulher-virgem-e-suas-virtudes.">Coſtella de
+peixe mulher virgem, e suas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#priapo-ou-genital-do-cavallo-marinho-e-ſuas-virtudes."
+id="toc-priapo-ou-genital-do-cavallo-marinho-e-ſuas-virtudes.">Priapo,
+ou genital do cavallo marinho, e ſuas virtudes.</a></li>
+<li><a href="3-pedra-cordeal-composta..html#priapo-ou-genital-do-veado."
+id="toc-priapo-ou-genital-do-veado.">Priapo, ou genital do
+Veado.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#dente-de-cavallo-marinho-e-suas-virtudes."
+id="toc-dente-de-cavallo-marinho-e-suas-virtudes.">Dente de cavallo
+marinho, e suas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#dente-de-dentro-da-boca-do-elefante-e-ſuas-virtudes."
+id="toc-dente-de-dentro-da-boca-do-elefante-e-ſuas-virtudes.">Dente de
+dentro da boca do Elefante, e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#unha-do-graõ-beſta-e-ſuas-virtudes."
+id="toc-unha-do-graõ-beſta-e-ſuas-virtudes.">Unha do graõ Beſta, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#oſſos-do-eſpinhaço-da-cobra-zuchi-ou-zuichi-e-ſuas-virtudes."
+id="toc-oſſos-do-eſpinhaço-da-cobra-zuchi-ou-zuichi-e-ſuas-virtudes.">Oſſos
+do eſpinhaço da Cobra Zuchi, ou Zuichi, e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#dentes-de-engala-e-ſuas-virtudes."
+id="toc-dentes-de-engala-e-ſuas-virtudes.">Dentes de Engala, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-da-manica-e-ſuas-virtudes."
+id="toc-raiz-da-manica-e-ſuas-virtudes.">Raiz da Manica, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-da-madre-de-deos-e-ſuas-virtudes."
+id="toc-raiz-da-madre-de-deos-e-ſuas-virtudes.">Raiz da Madre de Deos, e
+ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-do-cypò-e-ſuas-virtudes."
+id="toc-raiz-do-cypò-e-ſuas-virtudes.">Raiz do Cypò, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-solor-e-ſuas-virtudes."
+id="toc-raiz-de-solor-e-ſuas-virtudes.">Raiz de Solor, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#províncias-e-as-suas-localizações."
+id="toc-províncias-e-as-suas-localizações.">Províncias e as suas
+localizações.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-calumba-e-ſuas-virtudes"
+id="toc-raiz-de-calumba-e-ſuas-virtudes">Raiz de Calumba, e ſuas
+virtudes</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#serpentaria-virginiana-e-ſuas-virtudes."
+id="toc-serpentaria-virginiana-e-ſuas-virtudes.">Serpentaria virginiana,
+e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-sapuche-e-suas-virtudes."
+id="toc-raiz-de-sapuche-e-suas-virtudes.">Raiz de Sapuche, e suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-joão-lopes-pinheiro-e-ſuas-virtudes."
+id="toc-raiz-de-joão-lopes-pinheiro-e-ſuas-virtudes.">Raiz de João Lopes
+Pinheiro, e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-butua-chamada-parreira-brava-e-ſuas-virtudes."
+id="toc-raiz-de-butua-chamada-parreira-brava-e-ſuas-virtudes.">Raiz de
+Butua, chamada parreira brava, e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raíz-divina-e-ꭍuas-virtudes."
+id="toc-raíz-divina-e-ꭍuas-virtudes.">Raíz divina, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#unguento-de-bicuiva-e-ꭍuas-virtudes."
+id="toc-unguento-de-bicuiva-e-ꭍuas-virtudes.">Unguento de bicuiva, e
+ꭍuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#maçaa-de-leaõ-e-ꭍuas-virtudes."
+id="toc-maçaa-de-leaõ-e-ꭍuas-virtudes.">Maçaa de Leaõ, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#maçao-do-elefante-e-ꭍuas-virtudes."
+id="toc-maçao-do-elefante-e-ꭍuas-virtudes.">Maçao do elefante, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#triaga-braꭍilica-e-ꭍuas-virtudes"
+id="toc-triaga-braꭍilica-e-ꭍuas-virtudes">Triaga Braꭍilica, e ꭍuas
+virtudes</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#oleo-do-elefante-e-ꭍuas-virtudes."
+id="toc-oleo-do-elefante-e-ꭍuas-virtudes.">Oleo do Elefante, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#cobra-de-caꭍcavel-e-ꭍuas-virtudes."
+id="toc-cobra-de-caꭍcavel-e-ꭍuas-virtudes.">Cobra de caꭍcavel, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#maçaõ-da-vaca-e-ꭍuas-virtudes."
+id="toc-maçaõ-da-vaca-e-ꭍuas-virtudes.">Maçaõ da Vaca, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-joão-pires-chamada-entre-os-medicos-esula-e-ꭍuas-virtudes."
+id="toc-raiz-de-joão-pires-chamada-entre-os-medicos-esula-e-ꭍuas-virtudes.">Raiz
+de João Pires, chamada entre os Medicos Esula, e ꭍuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pedra-que-ꭍe-cria-dentro-no-fel-da-vaca-e-ꭍuas-virtudes"
+id="toc-pedra-que-ꭍe-cria-dentro-no-fel-da-vaca-e-ꭍuas-virtudes">Pedra
+que ꭍe cria dentro no fel da vaca, e ꭍuas virtudes</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pao-de-largis-e-ꭍuas-virtudes."
+id="toc-pao-de-largis-e-ꭍuas-virtudes.">Pao de Largis, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pào-de-cobra-e-ꭍuas-virtudes"
+id="toc-pào-de-cobra-e-ꭍuas-virtudes">Pào de Cobra, e ꭍuas
+virtudes</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#contraẏerva-e-ꭍuas-virtudes."
+id="toc-contraẏerva-e-ꭍuas-virtudes.">Contraẏerva, e ꭍuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#arvore-angelica-e-ꭍuas-virtudes."
+id="toc-arvore-angelica-e-ꭍuas-virtudes.">Arvore Angelica, e ꭍuas
+virtudes.</a></li>
+<li><a href="3-pedra-cordeal-composta..html#meringanga-e-ꭍuas-virtudes."
+id="toc-meringanga-e-ꭍuas-virtudes.">Meringanga, e ꭍuas
+virtudes.</a></li>
+<li><a href="3-pedra-cordeal-composta..html#artequim-ſuas-virtudes."
+id="toc-artequim-ſuas-virtudes.">Artequim, &amp; ſuas virtudes.</a></li>
+<li><a href="3-pedra-cordeal-composta..html#páo-quiriato-ſuas-virtudes."
+id="toc-páo-quiriato-ſuas-virtudes.">Páo Quiriato, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-monguz-ſuas-virtudes."
+id="toc-raiz-de-monguz-ſuas-virtudes.">Raiz de Monguz, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#coco-de-maldiva-ſuas-virtudes."
+id="toc-coco-de-maldiva-ſuas-virtudes.">Coco de Maldiva, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#coquinho-de-melinde.-ou-macoma-ſuas-virtudes."
+id="toc-coquinho-de-melinde.-ou-macoma-ſuas-virtudes.">Coquinho de
+Melinde. ou Macoma, &amp; ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-milhomẽs-ſuas-virtudes."
+id="toc-raiz-de-milhomẽs-ſuas-virtudes.">Raiz de Milhomẽs, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-tambuape-ſuas-virtudes."
+id="toc-raiz-de-tambuape-ſuas-virtudes.">Raiz de Tambuape, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#batatas-do-campo-ſuas-virtudes."
+id="toc-batatas-do-campo-ſuas-virtudes.">Batatas do Campo, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#fava-de-melinde-ſuas-virtudes."
+id="toc-fava-de-melinde-ſuas-virtudes.">Fava de Melinde, &amp; ,ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-do-queijo-ſuas-virtudes."
+id="toc-raiz-do-queijo-ſuas-virtudes.">Raiz do Queijo, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-ginsão-ſuas-virtudes"
+id="toc-raiz-de-ginsão-ſuas-virtudes">Raiz de Ginsão, &amp; ſuas
+Virtudes</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-moçuaquim-ſuas-virtudes."
+id="toc-raiz-de-moçuaquim-ſuas-virtudes.">Raiz de Moçuaquim, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#aranhas-do-peru-ſuas-virtudes."
+id="toc-aranhas-do-peru-ſuas-virtudes.">Aranhas do Peru, &amp; ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#páo-de-angariani-ſua-ſemente-ſuas-virtudes."
+id="toc-páo-de-angariani-ſua-ſemente-ſuas-virtudes.">Páo de Angariani,
+ſua ſemente, &amp; ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#do-unicorne-que-a-ave-inbuma-ou-anbuma-tem-na-reſta-e-do-eſporaõ-triangu-"
+id="toc-do-unicorne-que-a-ave-inbuma-ou-anbuma-tem-na-reſta-e-do-eſporaõ-triangu-">Do
+Unicorne que a Ave Inbuma, ou Anbuma tem na reſta, e do eſporaõ
+triangu-</a></li>
+<li><a href="3-pedra-cordeal-composta..html#famvarandim-e-ſuas-virtudes"
+id="toc-famvarandim-e-ſuas-virtudes">Famvarandim, e ſuas
+virtudes:</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#da-tinta-negra-que-vem-da-china-chamada-dolanquim-que-roçando-a"
+id="toc-da-tinta-negra-que-vem-da-china-chamada-dolanquim-que-roçando-a">Da
+tinta negra, que vem da China, chamada Dolanquim, que roçando-a</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-da-maranga-e-pao-da-meſma-arvore-que-tem-ſemelhante-vir-"
+id="toc-raiz-da-maranga-e-pao-da-meſma-arvore-que-tem-ſemelhante-vir-">Raiz
+da Maranga, e pao da meſma arvore, que tem ſemelhante vir-</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-das-febres-que-vem-do-canará-e-ſuas-virtudes."
+id="toc-raiz-das-febres-que-vem-do-canará-e-ſuas-virtudes.">Raiz das
+febres, que vem do Canará, e ſuas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-dos-apoſtemas-e-ſuas-virtudes."
+id="toc-raiz-dos-apoſtemas-e-ſuas-virtudes.">Raiz dos Apoſtemas, e ſuas
+virtudes.</a></li>
+<li><a href="3-pedra-cordeal-composta..html#raiz-do-ar-e-ſuas-virtudes."
+id="toc-raiz-do-ar-e-ſuas-virtudes.">Raiz’ do Ar, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#arvore-quiriato-e-ſuas-virtudes."
+id="toc-arvore-quiriato-e-ſuas-virtudes.">Arvore Quiriato, e ſuas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#oleo-de-alambre-e-suas-virtudes."
+id="toc-oleo-de-alambre-e-suas-virtudes.">Oleo de Alambre, e Suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#oleo-tranquillo-suas-virtudes-e-qualidades."
+id="toc-oleo-tranquillo-suas-virtudes-e-qualidades.">Oleo Tranquillo,
+Suas virtudes, e qualidades.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#ponta-da-abbada-e-suas-virtudes."
+id="toc-ponta-da-abbada-e-suas-virtudes.">Ponta da Abbada, e Suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-da-minhaminha-ou-quiminha-e-suas-virtudes."
+id="toc-raiz-da-minhaminha-ou-quiminha-e-suas-virtudes.">Raiz da
+Minhaminha, ou Quiminha, e suas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#raiz-de-mutututu-e-as-suas-virtudea"
+id="toc-raiz-de-mutututu-e-as-suas-virtudea">Raiz de Mutututu e as Suas
+virtudea</a></li>
+<li><a href="3-pedra-cordeal-composta..html#bucho-da-emasuas-virtudes."
+id="toc-bucho-da-emasuas-virtudes.">Búcho da Ema,suas virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pao-do-muhamgo-e-suas-virtudes."
+id="toc-pao-do-muhamgo-e-suas-virtudes.">Pao do Muhamgo, e Suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#linguas-de-s.-paulo-e-suas-virtudes"
+id="toc-linguas-de-s.-paulo-e-suas-virtudes">Linguas de S. Paulo, e Suas
+virtudes</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#pao-quieseco-e-suas-virtudes."
+id="toc-pao-quieseco-e-suas-virtudes.">Pao QuieSeco, e Suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#herva-quitumbata-e-suas-virtudes."
+id="toc-herva-quitumbata-e-suas-virtudes.">Herva Quitumbata, e Suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#orelha-de-onça-e-suas-virtudes."
+id="toc-orelha-de-onça-e-suas-virtudes.">Orelha de Onça, e Suas
+virtudes.</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#peço-muito-aos-leitores-que-iraõ-ponderar-as-seguintes-razoens-com-animo"
+id="toc-peço-muito-aos-leitores-que-iraõ-ponderar-as-seguintes-razoens-com-animo">Peço
+muito aos leitores que iraõ ponderar as seguintes razoens com
+animo</a></li>
+<li><a
+href="3-pedra-cordeal-composta..html#as-doenças-para-quem-ſervem-os-taes-remedios-ſaõ-as-seguintes."
+id="toc-as-doenças-para-quem-ſervem-os-taes-remedios-ſaõ-as-seguintes.">As
+doenças para quem ſervem os taes remedios, ſaõ as seguintes.</a></li>
+</ul></li>
+</ul>
+</nav>
+
+</body>
+</html>

@@ -1,0 +1,1896 @@
+---
+title: Memorial de Varios Simplices
+author: Joao Curvo Semmedo
+date: 1700
+---
+ 
+
+
+#  MEMORIAL DE VARIOS SIMPLICES
+
+
+##  Que da India Oriental, da America, e de outras partes do mundo vem ao noſſo Reino para remedio de muitas doenças, no qual se acharaõ as virtudes de cada hũ, e o modo com que ſe devem usar.
+
+
+DA India, e de outra partes da Europa vem para eſte Reyno
+muitos remedios de singulares virtudes, conteudas, e anexas
+a differentes pedras, raizes, pàos, sementes, e frutos; mas porque
+nem das doenças para que os taes remedios ſervem, nem do modo com que se devem applicar, haja algum roteiro impreſſo que
+o enſine; daqui procede, que tendo muitas peſſoas em suas casas
+os ditos remedios, e padecendo varias enfermidades, que facilmente ſe podiaõ curar com elles, por falta de noticia dos preſtimos que tem os ditos remedios, ficaõ ſem utilidade alguma, e
+os doentes ſem ſaude: eſta conſideraçaõ, e ſentimento incitou
+a minha curioſidade, e o zelo do bem commum, para que o cuſto de grandes diligencias buſcaſſe naõ ſó a algumas peſſoas, que assiſtiraõ na India, e outras terras do mundo; mas deſcobriſſe varios papeis manuscritos, para que informandome de hun, e outros, soubeſſe com fundamento as virtudes das sobreditas pedras, pàes, raizes, e frutos, e fizeſſe eſte Memorial em ſocorro da natureza humana; ſe por eſte ſerviço que
+faço ao bem publico naõ merecer agradecimento, naõ merecerey reprehençaõ, e se ma
+derem, acabarey de entender que ha homens taõ ingratos, e de animo taõ depravado,
+que fazem por malicia, o que os meninos fazem por innocencia, mamaõ o leite, e mordem o peito, que os ſuſtentou.
+
+
+Os remedios que vem da India Oriental, de outras partes, ou sejaõ pedras, páos, oſſos,
+frutas, sementes, ou raizes, e daõ moidos, ou roçados em agua commua, outros os daõ
+misturados em agua de arroz, a que os naturaes daquellas terras chamaõ Ambatacanja; alguns os daõ em çumo de limaõ gallego, e aquelles que ſe daõ para as febres, ſe bebem e á
+entrada, e á deſpedida dellas.
+
+
+A experiencia dos Mouros, e Gentios da Aſia, foy a meſtra que deo o conhecimento
+para o uſo dos taes remedios. Tambem a experiencia de algum curiosos tem mostrado
+grandes proveitos, que muitas vezes reſultaõ das suas operaçoens, naõ encontrando as
+gerses evacuaçoens da Medicina, de que os Panditos, que aſſistem naquellas terras, també
+usaõ deſde o príncipio das enfermidades com qualquer deſcarga procedente, naõ dilatando tempo em os applicar: e neſta forma curaõ as mais agudas, e malignas doenças, regulando o tempo da ſangria, purga, ajuda, ou vomitorio para o tempo do cordeal, de maneira que ſe naõ applique tudo no meſmo inſtante, nem ſe encontre hum remedio com outro, antes faça cada hum o ſeu effeito livremente.
+
+
+Muitos Medicos, e outras pessoas que o naõ ſaõ, tem para ſi que os bezoarticos; e remedios que vem da India, e de outras terras, nem fazem em Portugal as mesmas maravilhas, que fazem na India, e nas terras em que ſe crearaõ, aſſim pela differença do clima
+como porque quando chegaõ cá, já naõ tem aquelle vigor, que tinhaõ nas terras em q̄ nasceraõ. A eſta duvida reſpondo, que todos os simplices conſervaõ as virtudes, com que
+Deos o creou, em quanto no corpo dos taes simplices naõ entra corrupçaõ. Vemos, e
+experimentamos, que dos simplices, que vem das Conquistas para as boticas de nosso Reyno, ſe fazem muitos remedios compostos, e tornaõ para as mesmas Conquistas para ſerviço dos enfermos, e lá fazem os mesmos bons effeitos, que fizeraõ em Portugal vindo de
+
+||
+
+diversos climas; e ſendo muito simplices das boticas mais sugeitos à corrupçaõ, que
+nenhum dos bezoarticos da India, que tem duraçaõ muito mais larga, e perduravel.
+
+
+Nem falta homem curioſo, que poderá moſtrar muitos remedios, que virão da India
+ha mais de trinta annos, que eſtão hoje com as mesmas virtudes, com que virão daquelle
+Estado, e fazem os mesmos bons effeitos em Portugal, que faziaõ na India.
+
+
+Iſto ſuppoſto como verdade experimentada, iremos tratando de cada hum dos ſimplices com relaçaõ individual de suas virtudes, começando pela pedra Bazar, que he a mais
+conhecida, e uſada, aſſim em Portugal, como em todo o mundo.
+
+||
+ 
+
+
+#   PEDRA BAZAR SIMPLEZ.
+
+##   Regimento, e virtudes da Pedra Bazar Simplez, ou natural, que naſce nos buchos de huns animaes muy ſemelhantes aos cabritos.
+
+
+PRimeiramente he nesseſſario examinar com grande cuidado ſe a Pedra Bazar he verdadeira, ou falſa, porque, ſe he verdadeira, obra excelentes efeitos, com tal condiçaõ, que ſe deve dar em quantidade de vinte e quatro grãos de cada vez, porque, dando sómena tres , ou quatro grãos, como coſtumaõ dar os barbeiros, que ſaõ os Medicos da
+gente ordinaria, nenhum effeito faz, pela pouca quantidade em que a daõ, e deſte modo
+fica o remedio infamado, a vida do doente perdida, e o dinheiro mal gaſtado; e naõ ſuccederia aſſim, ſe a pedra foſſe verdadeira, e a deſſem na quantidade ſobredita.
+
+He neceſſario que os Medicos principiantes advirtaõ duas couſas muito importantes,
+A primeira, que a dita pedra ſe deve miſturar com cinco, ou ſeis onças de agua commua
+cozida com eſcorcioneira, ou com papoulas, ou com cardo ſanto, porque os que daõ a dita pedra miſturada com aguas deſtilladas, erraõ o alvo em claro, pelas razoens que os curioſos podem ver na minha Polyanthea da terceira impreſſaõ trat.2. cap. 130. fol. 675. n.1.
+
+A ſegunda couſa, que devem advertir os que derem a dita pedra, he, que a miſturem
+com cinco ou ſeis onças de agua cõmua cozida com qualquer das couſas ſobreditas; porque os que a daõ miſturada com duas colheres de agua, como fazem os barbeiros, tambem
+erraõ o alvo, porque taõ pouca quantidade de agua naõ he vehiculo baſtante para levar
+a pedra aos lugares diſtantes aonde he de ſervir; mas mſturando-a com grande quantidade de agua, faz muito bons efeitos nas ancias do coraçaõ, nos vàgados, nas faltas de reſpiraçaõ, e em todas as febres agudas, e malignas, dando-a a qualquer hora que a neceſſidade o pedir, e ſobre ſangrias.
+
+Nas ſuppreſſoens altas da ourina tem a pedra Bazar, ſendo verdadeira, grande virtude,
+com tal condiçaõ, que antes de applicar, façaõ tomar ao doente hum vomitorio de tres
+onças de agua Benedicta, ou de ſeis grãos de Tartaro emetico, ou de meya oitava de caparroſa branca, ſangrando-o ao outro dia nos braços quatro vezes, ao outro dia tres, e ao
+outro outras tres, porque como eſte caſo he taõ perigoſo, e apreſſado, he neceſſario fazerem ſe os remedios com grande brevidade, porque ſe naõ ourinaõ atè o ſeptimo dia, ordinariamente morrem: e por eſta razaõ requeiro da parte de Deos aos Medicos principiantes, que comecem infallivelmente a cura das ſuppreſſoens, ſejaõ altas, ou baixas, por vomitorios, e ſangrias repetidas nos braços; porque eſte conſelho ſe funda na experiencia
+de cincoenta e oito annos, e nas muitas ſuppreſſoens que curey felizmente por eſte eſtylo
+como os curioſos pódem ver na minha Polyanthea d, terceira impreſſaõ trat.2. cap.83 fol.
+448. n. 37. vſq. ad49. aonde acharàõ nomeados os doentes que curey de ſuppreſſoens
+por eſte eſtylo eſtando alguns delles ungidos quando me chamàraõ.
+
+Permita-s -me haver feito eſta digreſſaõ, porque me obriga o zelo da vida dos proximos, a dar eſte aviſo taõ importante aos preſentes, e os futuros Medicos.
+
+Trornando ao propoſito da Pedra Bazar, digo, que depois de dados os vomitorios, e
+ſangrias altas, que ſaõ remedios preciſamente neceſſarios para curar as ſuppreſſoens da
+ourina, ſe dava a tal pedra em quantidade de vinte e quatro, ou de quarenta grãos miſturados com oito onças de agua quente, que primeiro ſeja cozida com huma onça de pào
+de faveira ſeca , e em falta delle, com meya onça de eroca marinha, e em falta deſta com
+duas oitavas de erva ſapinha, e melhor que tudo, com meya onça de erva chamada
+virga aurca. Finalmente ſerve a pedra Brazar, applicada na dita quantidade, para faci-
+
+||
+
+facilitar a camara aos dureyros, com tal condição que o doente a tome ſeis dias ſuceſſivos
+eſtando em jejum, miſturada com hũa oytava de cremores de Tartaro verdadeyros, deſatando tudo em hum quartilho de agua cozida com borragens, ou ameyxas. Digo, cremores de Tartaro verdadeyros, porque hoje vem de fóra do Reyno muytos falſificados com
+pedra hume, & em lugar de facilitarem a camara, a impediráõ Os que porèm quizerem livrarſe deſte eſcrepulo, tomem, em lugar dos cremores de Tartaro, hũa oytava de farro de
+vinho branco feyto em pò ſubtiliſſimo, & experimentaráõ grande facilidade na camara.
+
+#  PEDRA CORDEAL COMPOSTA.
+
+##  Regimento, & virtudes das pedras Cordeaes compoſtas.
+
+
+EStas pedras não ſaõ creadas pela natureza nas entranhas de alguns animaes, mas ſaõ
+compoſtas por artificio, conſtão de varios ingredientes, todos eſcolhidos, & dotados
+de grandes virtudes cardiacas, & bezoarticas; daqui procede, que o artifice, que faz eſtas
+pedras compoſtas, he hum Religioſo da Companhia de JESUS, morador na India, que as
+fórma mayores, ou menores, conforme as quer fazer: eſtas taes pedras ſendo feytas pelas
+mãos deſte Religioſo, tem virtudes ſingulares para curar as enfermidades ſeguintes.
+
+Nas febres malignas, & ardentes, qundo o enfermo eſtiver com grandes ancias, ſe lhe
+darão 24. grãos pulverizados com ſeis onças de agua commua cozida com eſcorcioneyra,
+ou com papoulas, ou com cereijas negras, porque tomando-a neſta quantidade mitiga a
+quentura, & a ſecura, que a febre cauſa, & faz que a malignidade não commetta o coração,
+antes o defende, conforta, & alegra: ſe o doente ou pela grande fraqueza, ou pela muyta
+velhice appetecer vinho, ſe lhe daráõ 24. grãos da dita pedra deſfeytos em duas colheres
+de vinho generoſo: nem pareça aos Medicos mais novatos que he erro, ou temeridade dar eſta
+pedra em vinho, porque graviſſimos Authores o permittem, quando a fraqueza he muyto
+grande, por ſer o vinho generos promptiſſimo remedio em reparar as forças & alentar o
+coração, quando eſtá muyto desfalecido.
+
+A qualquer tempo que a melancolia apertar com os doentes, ou com os ſaõs, tenhão febre, ou a não tenhão, ſe póde dar a pedra na quantidade ſobredita, ſenão ouver febre, em
+vinho excellente; & ſe a ouver, em agua cozida com eſcorcioneyra, ou com borragẽs.
+
+Tomada a dita pedra em agua cozida com huma oytava de raiz de contrayerva, ou de
+ſerpentaria virginiana, ou em falta deſtas raizes, cozida com cardo ſanto, he remedio efficaz contra todo o genero de peçonha, aſſim bebida, como procedida de mordedura de vibora, de lacràos, de aranha, ou de outros animaes venenoſos; & ſe applicará a dita pedra
+ſobre a mordedura.
+
+Tomada em vinho em jejum, preſerva das doenças, que procederem do ar corrupto.
+
+Cura por modo de milagre aos leproſo, (não eſtando ainda confirmados) com tanto
+que ſe tome dous mezes ſuccſſivos em jejum, miſturando 24. grãos della com outros 24.
+de antimonio diaphoretico calcinado quatro vezes, & reverberado duas horas com fogo
+fortiſſimo, dando tudo em meyo quartilho de agua commua levemente cozida com flor da
+arvore buxo, por ſer a dita flor muyto purificativa do ſangue ſalgado, & dos ſoros mordazes, & corroſivos.
+
+Para as peſſoas muyto eſquentadas do figado ſe tomão 24. grãos da dita pedra, por tempo de dous mezes, em jejum, em meyo quartilho de agua cozida com a raiz da braſſica marina, ou do vimal, porque qualquer deſtas ervas tem efficaciſſima virtude para temperar a
+quentura do figado, & entranhas.
+
+Tomada a dita pedra, por quarenta dias em jejum, em meyo quartilho de agua cozida
+com hũa maõ chea de folhas de espinheyro alvar, a que chamamos Rhamno, & com limaduras de oſſo de veado, mata infallivelmente as lombrigas, & cura as comichões, & coſtras,
+ou boſtelas do corpo.
+
+Tomando por ſeis dias continuos em jejum 24 grãos do pó deſta pedra em quatro onças
+de vinho do Rhim, ou branco, em que ouveſſe eſtado de infuſão hũa oytava de pò da raiz
+de butua, ou de pào da faveyra ſeca, ou da erva chamada ſapinho, ourinará o doente, &
+ſe livrará da ſupreſſaõ da ourina, por mais que ſeja rebelde, com tanto que enha tomado
+no primeyro dia hum vomitorio de ſeis grãos de tartaro emetico, ou de tres onças de
+
+||
+
+agua Benedicta, & ſeis sangrias nos braços por dous dias suceſſivos.
+
+Confeſſo ingenuamente, que depois que (por mercè de Deos, & boa fortuna dos
+doentes) inventey o meu Benzoartico chamado Curviano contra as febres malignas, bexigas, & doenças venenoſas, não uſey mais da pedra Bazar, porque ſuppoſto tenho muyto
+bom conceyto della, ſadeyra, offerecem-ſe-me algumas duvidas, & razões muy
+forçoſas para a não uſar, porque vejo que da India vem cada anno arrobas, & arrobas dellas & he moralmente impossível que tanta quantidade de pedras ſejão verdadeyras; & alèm
+desta razaõ, me conſta de peſſoas fidedignas, que eſtiverão na India muytos annos, que
+nem todos os animaes, em que as taes pedras ſe criaõ, & quando algum tem duas,
+he hũ milagre: logo razão tenho para não uſar dellas, ſalvo me conſtar certamente que ſaõ
+verdadeyras.
+
+E no que pertence ás pedras cordeaes compoſtas, ſe me offerece outra grande, & muy
+justificada deſconfiança para não uſar dellas, & he, que os meſmos Religioſos da Companhia de JESUS, que em Goa as fazem verdadeyras, & merecedoras de toda a eſtimação, ſe
+queyxão que lá ſe falsificão, & ſe espalhão por todo o mundo com o decoroſo nome de ſerem feytas pelos meſmos Padres: & prouvera a Deos que ſó là ouveſſe taes falſificadores;
+mas tambem em Lisboa ha quem falſifica as taes pedras, & as faz tão parecidas, & ſemelhantes com as verdadeyras, que não ſe conhece o engano, & falſidade dellas, ſenão depois
+que ſe partem algumas, & ſe acha que ſaõ feytas de barro de que ſe faz a louça branca, a que
+chamão greda: á vista pois deſtes enganos, & falſidades razão tenho para não uſar das pedras cordeaes compoſtas, ſalvo me conſta certamente que ſaõ eytas pelos Padres da Companhia de Goa, aonde ſó ſe fazem verdadeyras, por ſer ſegredo que foy do Padre Gaſpar
+Antonio, & por ſua morte paſſou ao Padre Jorge Ungarete & hoje paſſou a outro Religioſo, Boticarios todos da meſma Companhia, & grandes artifices na Arte Pharmaceutica.
+
+Por me tirar pois deſtas duvidas, & embaraços da minha conſciencia, uſo ſempre nas febres malignas, & nas bexigas, & aonde vejo ancias do coraçaõ, do meu Benzoartico, de
+cujas virtudes, & maravilhoſos proveytos eſtou certo, não ſó pelo que tenho viſto, & experimentado no diſcurſo de 50. anos; mas pelas noticias que de todo o Reyno, & ſuas
+Conquiſtas me tem vindo por cartas gratulatorias, que tenho guardadas para moſtrar aos
+que duvidarem da minha verdade.
+
+Os que com o meu Benzoartico quiserem fazer curas, que pareção milagroſas, devem
+advertir tres couſas muyto neceſſarias. A primeyra, que o Benzoartico ſeja verdadeyramente meu, & não falſificado, como hoje ſe vende muyto neſta Corte, & em todo o Reyno, & ſuas Conquistas debayxo do meu nome, ſem lhes fazer eſcrupulo enganar aos doentes em materia tão importante como he a ſaude, vendendo hum remedio falſificado com
+o nome de verdadeyro, fazendo deſte modo dous furtos, hum do dinheyro que devem
+reſtituir, & outro das vidas que não tem reſtituição. A ſegunda, que o tal Benzoartico, ſe
+ſe der em pò, ſe dè em quantidade de meya oytava para cada vez; & ſe ſe der miſturado com
+cozimento de eſcorcioneyra, & pevides de cidra, (como eu o dou) ſe deytem tres oytavas delle em cada meya canada do tal cozimento, & de oyto em oyto horas ſe dè ao doente
+huma chicara de ſeis onças porque os que derem menos quantidade, ou o derem huma ſó
+vez no dia, como alguns o dão, não tarão grandes curas; he neceſſario continuallo todos os
+dias duas, ou tres vezes, em quanto o doente tiver ancias, ou ſymptomas malignos. A terceyra, que ſe applique, tanto que o Medico vir algum final da febre ſer pernicioſa, & maligna, ſem eſperar que os doentes eſtejaõ agonizando, como muytos fazem; donde ſe ſeguẽ
+dous grandes damnos: o primeyro he, morrerem os doentes, porque lhes acudiraõ tarde
+com o remedio, que lhes poderia ſalvar a vida, ſe foſſe aplicado a tempo: o ſegundo he inamar o remedio, & ficarem os parentes dos mortos atemorizados para o naõ quererem tomar em outras occaſiões, por mais perigoſos que ſe vejaõ.
+
+##  Pedra de Porco Eſpim natural, & ſuas virtudes.
+
+Pedra de Porco Eſpim verdadeyra, he hum dos melhores antidotos, que vem da Indía para remedio da ſaude, como ſe deyxa ver aſſim pelos bons effeytos que faz, como
+pelo muyto dinheyro que val, porque qualquer pedra do tamanho de huma azeytona pequena, cuſta ao menos cem mil reis.
+
+Entre as virtudes que a dita pedra tem, a principal he, ſer grande antidoto das febres
+
+||
+
+malignas, de forte que depois do meu Bezoartico Curviano, de nenhum outro remedio
+tenho viſto tanta utilidade como da tal pedra. O final de ella ſer bem fina, & verdadeyra
+he, que metendo-a em agua hum quarto de hora, a faz amargoſiſſima, & tanto mais amargoſa a fizer, tanto moſtra que he mais fina, & excellente. A quantidade que ſe dá da tal
+agua, ſaõ tres, ou quatro colheres para cada vez, advertindo que a tal agua ſe deve dar pura, ſem lhe miſturarem outra agua, como erradamente fazem alguns barbeyros, & a gente
+rude, dando por razaõ que he quente, & que para lhe moderar a quentura, & o amargor,
+a deſtemperaõ com outra agua; & não advertem eſtes pobres homens, cegos na luz do
+meyo dia, que ao paſſo que lhe abatem o grande amargor, lhe enfraquecem, & tirão a virtude; & que quando os doentes podiaõ ſalvar a vida, & vencer a febre, ſe tomaſſem a dita
+agua pura, & como toda a ſua virtude, & amargor, ſe achão enganados, & preſos com os,
+grilhões da morte. Não faço eſtas advertencias para os Medicos doutos, & experiméntados,
+faço-a para os principiantes, & para os Cirurgiões, que curão em terras aonde não ha Medico, & para as peſſoas leygas, & ignorantes de Medicina, porque eſtas como conhecem
+as couſas ſuperficialmente, & ſó pela caſca, cuydão que ſe derem a dita agua pura, & com
+todo o ſeu amargor, que matararáõ aos doentes, ou lhes augmentaráõ a febre, & por eſta razaõ a deſtemperaõ, & lhe tirão a virtude, do meſmo modo que a tirarião, os que tiraſſem
+o amargor à quinaquina: & agora ſaverão a razão porque ſaõ taõ prohibidos os doces, &
+os azedos aos que tomaõ quinaquina, ou agua de Inglaterra; porque como a virtude da
+quinaquina conſiſte no amargor, quem lho tirar, ou rebater com muyta quantidade de doce, ou de azedo, a deytou a perder. Diſſe, muyta quantidade de doce, ou de azedo; porque
+ſe o doce for taõ pouco como huma azeytona, ou como huma avelãa, nenhum damno faz,
+porque para o fazer era neceſſario que o doce, ou azedo foſſem tantos que rebateſſem, ou
+apagaſſem o amargor da quinaquina; mas como ſendo o doce pouco o não rebate, não pòde
+fazer damno, como me conſta por mil experencias; porque os permitto àquelles doentes,
+que eſtão coſtumados a não beber agua ſem doce. Vejaõ os curioſos a minha Polyanthea da
+terceyra impreſſaõ ſobre eſte ponto tract.2.cap.103.fol. 550. num 22.
+
+Nem ſó he eſte o erro que fazem os que deſtemperaõ a agua de Porco Eſpim, para lhe tirar o amaragor, & quentura; outro comettem muyto peyor, & he, que levados do ruſtico
+medo, de que a agua de Porco Eſpim he quente, não ſe atrevem a  dar mais que huma colher della para cada vez, ſem advertirem que tão pouca quantidade he pequeno remedio
+para vencer huma doença tão venenoſa, como he huma febre maligna: eu nunca dou menos de quatro colheres para cada vez; & tive alguns doentes, para quem fuy chamado ſetando ungidos, & agonizando por cauſa de febres malignas, a quem dey tres onças da dita
+agua, & com ella os livrey da morte.
+
+Hum caſo deſtes obſservey em caſa de Manoel de Caſtro Guimarães, Eſcrivaõ do Deſembargo do Paço. Outro caſo ſuccedeo com Dona Antonia Mauricia, Religioſa de Santa Clara, para quem fuy chamado eſtando com o ſcirro na garganta, & com o officio da agonia rezado, & dando lhe por meu conſelho quatro colheres de agua de Porco Eſpim,
+miſturada com cinco onças do meu Bezoartico, eſcapou da morte, & vive hoje por mercè
+de Deos, & beneficio deſte remedio. Naõ refiro outros muytos caſos felizmente ſuccedidos com a agua de Porco Eſpim dada em mayor quantidade, & miſturada com o meu Bezoartico, por naõ enfadar aos Leytores; por tanto digo, que nas febres malignas, & ancias
+do coraçaõ ſe devem dar ao menos tres colheres de cada vez, ſem ſer deſtemperada.
+
+Nos ſoluços, ou ſejaõ procedidos da febre ſer maligna, ou de ventoſidades, obra a dita
+agua effeytos maravilhoſos, de que pudera allegar innumeraveis exemplos, ſenaõ temèra
+enfadar.
+
+Nos accidentes uterinos he a agua de Porco Eſpim remedio taõ efficaz, que parece divino, como me conſta por alguns caſos, a que me achey preſente, em os quaes dey tres onças da dita agua, & obrou effeytos maravilhosos.
+
+Nas dores de colica, a que os Naturaes da India Chamaõ Mordexim, obra tambem a dita
+agua preſentaneos proveytos.
+
+Nas dores, & pontadas cauſadas de frio ſe tomaõ duas onças de agua de macella, em que
+pedra de Porco Eſpim eſtiveſſe de infuſaõ ſeis Ave Marias, & obra por modo de encantamento.
+
+Finalmente ſe a Medicina tem eſpadas de mais de marca, que ſejaõ capazes de reſiſtir
+contender, & vencer as febres malignas, ſaõ ſó a pedra de Porco Eſpim, & o meu Bezoar-
+
+||
+
+tico Curviano, porque de todos os mais remedios, de que o povo, faz grande eſtimaçaõ,
+faço eu taõ pouco caſo, como da lama da rua. Iſto diz hum Medico, que ſobre 50. annos
+de experiencia, & 79. de idade, tem livrado da morte com eſtes dous remedios a infinitos
+doentes, que por cauſa de febres malignas, & de veneno que lhes deraõ para os matar, eſtavão expirando, como os curioſos pódem ver na minha Polynthea da terceyra impreſaõ
+de fol. 654. atè 662. aonde acharàõ nomeadas as peſſoas, que tirey da ſepultura com os ditos remedios, & podem ſer teſtemunhas deſta verdade.
+
+
+ 
+
+
+||
+##  Dentes de porco Eſpim, & ſuas vurtudes.
+
+Roçado o dente de Porco Eſpim em pedra de ſular, ou feyto em pò ſubtiliſſimo, tem
+grande virtude contras as febres, contra as dores de cólica, & dores de pedra; he grade
+contraveneno, & faz grande poyecto nas dores, & torceduras da barriga.
+
+##  Pedra de Canamor, & ſuas virtudes.
+
+A Pedra de Cananot, ou he verde como limos do rio, ou amarella como enxofre, ambas
+ſaõ boas, & de ambas uſaõ os Medicos; mas a verde ſe eſtima mais. De qualquer deſtas
+pedras moidas, ou ſuladas muyto ſubtilmente, ſe faz com agua de fonte huma agua
+chamada de Cananor, ou de pedra fria: deſta agua ſe uſa geralmente em todas as febres, &
+he muyto bom cordeal, mas terá muyto mais ſingular, ſe a agua, em que a tal pedra ſe preparar,
+for primeyro ferrada com ouro virgem, & deſte modo uſando- ſe della por algumas
+manhãs em jejum, he excellente para os doentes eſquentados do figado, & para os que padecem
+amagores de boca, os quaes ordinariamente procedem de grandiſſima quentura
+das entranhas, & do figado, ou de comerem muyta quantidade de doces, porque ſe convertem
+em colera.
+
+Tambem ſe uſa della para a inflamação dos olhos, ſem ſer ferrada, & para a inflammaçaõ
+da garganta, & boca, gargarejando com ella; deſta agua ſe coſtuma dar meyo quartilho
+para cada vez, & ſe pòde repetir duas vezes no dia, ou na declinação da febre, ou algumas
+horas antes de entrar; refreſca muyto, & adoça a acrimonia dos humores, por certa
+virtude acculta abſorbente, abranda os incendios do figado, & entranhas natures, com
+manifeſto alivio dos enfermos.
+
+Se as amendoadas, q te dão aos que não podem dormir por cauſa do grande incêndio das
+febres, ou pelos vapores, que havião de conciliar o ſomno, ſubirem muyto que~tes ao cérebro,
+ſe fizerem na dita agua de Cananor, terão os que aſſim as romarem, conhecido alivio.
+
+He marabilhoſa para curar as ictericias, tomanda nove dias em jejum, & miſturada com a
+agua que deytar de ſi huma clara de ovo freſco bem batido.
+
+##  Ouvido do Peyxe Boy, & ſuas virtudes.
+
+O Ouvido do Peyxe Boy tem grandes virtudes; as que atè eſte tempo ſabemos, & de
+que ſe tem experiencia, ſaõ, que aproveyta muyto para curar os eſquentamentos de
+qualidade gallica, cura as camaras de toda a ſorte, principalmente as de ſangue, dá grande
+alivio nas dores de pedra, & da bexiga, faz deytar as areas dos rins: applicaſe moído em pò
+ſubtiliſſimo, em quantidade de vinte & quatro grãos, em agua cozida com raiz de Ononis, /
+chamada Rilha Boy, ou Remora Aratri, ou com a virga aurea, que ſaõ muyto próprias /
+para deytar a pedra, & área, tomada duas vezes cada dia, Se ſe der para ardores da ourina,
+ou queyxas dos rins, ſe dará em agua deſtillada de flor de favas; & te ſe der para os eſquentamentos
+gálicos, ſe darà em agua bem cozida co falſas das hortas, continuando-ſe quinze,
+
+##  Pedra Candar, & ſuas virtudes.
+
+A Pedra Candar, chamada vulgarmente pedra Quadrada, porque verdadeyramente o
+he, tem o feytio de hum dado, & tem cor de ferro, &he muyto peſada; trazem a dos
+confins da Tartarea os Joques, os quaes dizem que tem muytas virtudes, & por eſtas razão
+afurão, & pendurão ao peſcoço cahida ſobre os peytos, chegada à carne
+
+
+||
+
+
+Serve eſta pedra, atada ao musſculo da perna eſquerda, para facilitar o parto, eſtando a
+mulher em termos de parir, porque a experiencia tem moſtado, que aplicado neſte eſtado
+obra o que ſe deſeja. E no caſo que eſta diligencia naõ baſte, esfregaraõ a dita pedra,
+meyo quarto de hora, com, huma onça de oleo de gergelim quente, e o daraõ a beber
+à mulher, e logo parira, e deitaràs pareas, e a criança ſem riſco, nem perigo da mãy;
+advertindo, que tanto que a mulher parir, e deitar a criança, e as pareas, ſe tire logo
+logo a dita pedra, porque ſe a deixarem ficar atada muito tempo ſahirà a madre fòra do
+ſeu lugar, e a entranhas todas, como eu vi, e obſervey em huma mulher na rua das Gaveas,
+a qual eſtando muito apertada ſem poder parir, ſe aplicou a dita pedra, e porque
+ſe deſcuidaraõ de a tirar tanto que pario, fahio a madre fòra do ſeu lugar, e foy
+neceſſario applicalla em ſima para que a madre ſe recolheſſe
+E porque algumas mulheres ſaõ melindrotas, e inimigas de tomar remédios pela boca,
+baſtarà que com o oleo de gergelim, em que ſe esdfregou a dita pedra hum quarto de hora,
+ſe estregue todo o ventre, e embigo à roda, com a meſma condição, que tanto que a
+mulher parir. ſe alimpe muito bem o azeite.
+
+Serve a agua da ſua unfuſaõ, ou em que eſtiver raſpada qualquer migalha da dita pedra,
+bebida por tempo de hum muez, para curar os fluxos de ſangue das almorreimas,
+por mais copiolos, e teymoſos «, que ſejaõ, com duas condiçoens: a primeira, que o doente
+nem b. ba vinho, nem como iguarias adubadas com eſpeciarias quentes: a ſegunda, que
+a agua em que ſe fizer, ſeja primeiro cozida com huma mão chea de erva poligano,
+chamada dos Herbolarios erva andorinha.
+
+He excelente para curarlas vertigens, e deſmayos, com tal condição, que ſe deite de
+infuſaõ por tempo de duas horas, ou ſe esfregue tempo de vinte. Ave Marias em três onças
+de agua de cerejas negras, ou em agua ordinária, em que primeiro ſe cozeſle levemento
+meya oitava de manjerona. Quem tomar eſte remedio por vinte duas ſucceſſivos,
+conhecerà grande alivio. He boa para a melancolia, deitada de infuſaõ em agua /#quebra de linha
+de borragens, ou de erva cidreira.
+Para as dores de cabeça ſe bebem alguns dias em jejum duas onças de agua de cardo
+ſanto, em que a dita pedra eſtiveſſem duas horas de infuſaõ.
+
+Nas pontadas, nas cólicas, nas dores de ventre, e nos Pleurizes, tem a dita pedra prodigioſa
+virtude, ſe deitada de infuſaõ, ou roçada em quatro onças de agua deſtillada das
+cabeças de macela, a derem a beber aos que tiverem qualquer queixa deſtas. Nem faça
+medo aos Medicos medroſos o ſer a agua da macela quente, para deixarem de a aplicar;
+porque Euſtachio Rudio, que foy Lente de Prima em Padua, e Galeno que foy Oraculo
+da Medicina, louvaõ por toberano remédio para os Pleurizes, inflammaçoesns internas
+a tal agua ainda ſem ſer ajudada da virtude da pedra Candar, quanto melhor ferá
+acompanhada com ella? Galeni lin.3 ſimplic. medicam.30. e Eſtachio lib.1.cap.45. de
+Pleuride, mibifol.173.
+
+Nas dores de pedra, e dificuldades de ourinar, obra efeitos admiraveis, com tal condição,
+que o doente tenha tomado primeiro hum vomitório de agua Benedita, ou de
+Tartaro emético, e algumas ſangrias nos braços, e feita eſta preparação, ſe roçara a pedra
+por hum quarto de hora em que quatro onças de vinho do Rhim, ſe o houver, e em ſua
+falta, em vinho branco, ajuntando a eſte vinho huma onça de çumo de limão azedo, e ſe tenha
+cozido meya oitava da raiz da burla, ou de ſemente da bardana, ou da eſteva.
+
+Atando eſta pedra ſobvre o embigo, faz recolher as tripas aos quebrados, ſem embargo
+de que eu enſino outro remédio muito mais experimentado para recolher as tripas, que
+ſe acharà no livro das minhas Obſervaçoens Latinas, e Portuguezas, na Obs. 41. pag.252
+& 253.
+Para os que o ſangue pizado, ou coalhado por causſa de alguma quèda; ou pancada,
+o adelgaça outra vez, e o faz capaz para ſe continue a ciculaçaõ principalmente ſe
+a tal pedra for roçada em ſeis onças de agua cozida com duas oitavas de raizes de vincetoxico,
+ou folhas de cerfolio, a que ajuntem hum eſcrupulo de eſperma ceri.
+
+Quem beber por ſeis mezes agua levemente cozida com huma maõ chea de flor de verbaſco,
+na qual agua depois de coada roçarem a pedra Candar, experimentarà maravilhoſos
+efeitos nos bócios, e alporcas.
+
+Tem a dita pedra grande domínio ſobre a melancolia, roçando-a em agua de borrage~s.
+
+||
+
+
+Para os que ourinaõ ſangues, ſe daõ cinco onças de agua de tanchagem, em que ſe roçou
+eſta pedra.
+
+Para aſthma, roçada em agua de boſta de boy deſtillada em Mayo, he grande remédio.
+
+##  Pedra da cabeça da Cobra de Pate, a que vulgarmente chamaõ Pedra de/ Mombaça. Virtudes que tem, e como se applica.
+
+Esta pedra he gerada na cabeça das cobras, que se criaõ nos bosques da Ilha de Pate
+tem muitas virtudes; mas a que excede a todas, he em facilitar o parto, atando-a
+ao musculo da perna esquerda, quando a mulher estiver apertada, em termos de parir,
+porque certamente parira logo, mas he necessário advertir, que tanto que a mulher deitar
+a criança, e as pareas, se tire logo a pedra, porque de outra sorte sahira a madre/ fóra do seu lugar.
+
+Moida muito ſubtilmente, e dando deste pò o pezo de vinte grãos de trigo em tres
+onças de vinho branco, ou em ſeis onças de agua cozida com alfavaca de cobra, ou com
+meya oitava da ſemente das carapetas da esteva, mitiga muito as dores de pedra, e a faz
+lançar.Nas ſuppreſſoens altas da ourina tem muita virtude, com tal condição que antes de
+a darem, tome o doente logo logo no primeiro dia da ſupreſſaõ hum vomitório de tres
+onças de agua Benedicta, ou dous eſcrúpulos de vitriolo branco formado em pilulas; ou
+seis gãros de Tartaro emético.
+
+Serve para as dores de cólica, e para toda a sorte de febre, e para toda a mordedura de
+bichos peçonhentos, aſſim tomada por dentro, como applicado o pò della sobre a mordedura
+Serve, tomada em vinho, ou em agua cozida com semente de bisnaga, para os accidentes
+uterino. E finalmente ferve contra toda a peçonha, ou veneno, que pur erro, ou
+malicia se deu pela boca, e tem as mesmas virtudes, que se attribuem à pedra Bazar
+verdadeira.
+
+Caetano de Mello de Castro, que foy Viso- Rey da India, tem a tal pedra, que he redonda,
+e chea de eſcamas como casca de pinha. Certifica o dito Senhor Viso-Rey, que
+para facilitar o parto, tem presentanea virtude, como lhe consta por mil experiencias.
+
+##  Pedra Safira, e suas virtudes.
+
+Sendo a pedra Safira prefeitiſſima, tem quasi milagrosa virtude para fazer abrir os
+olhos aos doentes, que por causa de bexigas os tem tão inchados, que os naõ podem
+abrir: mas eſfregando a dita inchação com a dita pedra, por tempo de quarenta Ave
+Marias, infallivelmente os abrem; cousa que he muito necessária, para que pelo muito
+tempo de estarem fechados, se naõ gere alguma nevoa, como muitas veezs succede.
+
+Nos antrazes, e arbunculos pestilenciais, obra effeitos maravilhosos, roçando-os com
+a dita pedra; porque faz exhalar o veneno, como se fosse fumo por huma chaminé; assim
+o certificaõ Vanhelmonte, Guaynere, e outros Doutores gravissimos.
+
+##  Pedra de Cobra de Dio, e suas virtudes.
+
+Estas pedras naõ saõ naturaes, saõ artificiaes, e huma família única de Gentios daquella
+Cidade tem o segredo, e faz toda a quantidade dellas, q~ se espalhão pelo mundo.
+
+A principal virtude destas pedras he contra as mordeduras dos bichos peçonhentos;
+posta sobre a mordedura com advertência, que se não tiver sangue, se farà na mesma mordedura
+com o tico de hum alfinete, para pegar a pedra, a qual se deixa estar pegada atè
+cahir por se, depois se deita em leite, ou agua rosada, e se a limparà, ou enxugarà, muyto
+bem, e se hade repetir a postura em quanto pegar, e tanto que naõ pegar, està acabada a
+cura, e he final infailivel de ter jà tirado todo o veneno.
+
+Tambem serve, feita em pò, e bebida, para a dor de cólica; e posta nas bexigas, tambem
+as obriga a sahir, ou inchar com presteza. Nem falta Author grave que nas febres
+malignas, em que houver pintas, as manda picar, e pô: sobre a picada as ditas pedras, pela
+grande virtude, que tem de chamar para fóra o veneno, e malignidade.
+
+||
+
+
+Desta pedra tenho visto maravilhosos effeitos posta sobre as mordeduras de aranha, ou
+de quaisquer bichos venenosos, porque chupa, e attrahe para si todo o veneno, e he cousa
+digna de admiração ver como desfaz as inchaçoens procedidas das mordeduras venenosas,
+por mais grandes, e disformes que sejaõ, sem que haja descarga alguma, nem despejo
+manifesto por sangrias, camaras vomitos, suor, nem ourina, por onde a inchação se
+desfizesse. He porèm de advertir, que tanto que a dita pedia cahir, se deite logo logo em
+hum pouco de meite de mulher, ou qualquer outro, porque naõ se deitando, fica o veneno
+dentro na tal pedra, e rebenta feita em pedaços.
+
+A hum criado do Doutor Francisco Roballo Freire, mordeo hum bicho de taõ venenosa
+qualidade, que me menos de huma hora lhe inchou o braço taõ disformemente, que
+foy necessário rasgarlhe a manga do gibão para lho despirem, e estando o pobre lacayo
+com insoportaveis ancias, e desmayos, se lhe applicou a dita pedra, e brevemente desinchou,
+e ficou saõ. A huma filha de hum livreiro, morador na rua Nova, mordeo huma aranha
+em o rosto, e inchou de tal forte que ninguém a conhecia, e tendo noticia que eu tinha
+esta pedra, ma pedio, e pondolha desinchou, e sarou em breves horas. O mesmo bom
+effeito desta pedra tenho visto em varias mordeduras de aranha. Estime-se muito a tal
+pedra; porque certissimamente aproveita nas mordeduras venenosas, nem atè este dia
+faltou em fazer este proveito a todos, que se valeraõ della. Com tal condição, que seja
+verdadeira, porque já a malicia, e a ambiçaõ dos homens a falcificaõ hoje.
+
+
+##  Pedra Pauzari, e suas virtudes.
+
+Estas pedras vem da Babylonia onde se criaõ, e saõ raras. Pauzari quer dizer, liza;
+a cor he de azeitonas d’Elva, e feitio, mas he mayor.
+
+Posta sobre os rins tem virtude efficacissima para quebrar a pedra, e tirar a dor em
+breves horas; para a suppressaõ baixa, posta sobre a bexiga, he muito estimada de todos os Principes da Afia.
+
+##  Erva do Paraguay, e sua virtude.
+
+Das Indias de Castella vem a Cadiz huma erva, chamada Paraguay, da qual erva se
+deita huma pouca, quanta seja hum pugillo, em quatro onças de agua bem quente,
+e depois que agua tiver recebido em si a virtude da erva, se coará, e se dará ao doente
+hum achicara, e com ella a limpará bem o estomago por vomito com grande suavidade, e
+brandura. Obra effeitos maravilhosos em todas as doenças, que procederem do estomago.
+
+##  Caranguejo de Aynaõ, e suas virtudes.
+
+Tem tal qualidade o lodo, ou baza do mar faz terras de Aynaõ da Provincia da
+China, Ilha vizinha Macào, que o caranguejo que se mete naquele lodo, se
+converte totalmente em huma dura pedra, e se enchem, e unem todas as partes delle,
+ como se fosse huma cousa lavrada, e engastada pela natureza; o que succede em muy
+breve espaço, porque os que se metem nesta baza, ou lodo, logo ficaõ immoveis; o que se vè com os olhos, em quanto a marè vaza.
+
+O mate, ou baza desta praya de Aynaõ tem as mesmas virtudes que o caranguejo; porem
+nem toda a praya faz esta conversaõ de caranguejo em pedra, se naõ huma parte desta
+Ilha, que he a em que viveo S.Francisco Xavier.
+
+Moida esta pedra com vinagre, e applicandoa muitas vezes no dia, desfazer todo o
+genero de inchaçoens, e carnosidades duras, e hérnias carnosas.
+
+Huma oitava de peso deste caranguejo feito em pò subtilíssimo, e misturado com seis
+onças de agua tomada duas vezes cada dia, cura por modo de milagre as camaras de
+sangue, e os puxos, repetindo este remedio cinco, ou seis dias.
+
+Huma oitava deste caranguejo de Aynaõ, feito em pò, e misturado com agua rosada;
+e çumo de limaõ galego, freve para o todo o genero de febres com abafamentos
+A mesma quantidade tomada em bom vinho, serve para as camaras soltas.
+
+A mesma quantidade botada em agua deſtillada de cerejas negras, ou em agua’cozida
+com raízes de valeriana agreste, tem grandiſſima virtude para curar os accidentes de gotta coral;
+
+
+
+
+
+
+
+
+
+
+ 
+||
+
+
+##  Dente de peixe mulher virgem, e ſuas virtudes.
+
+Serve para eſtancar os fluxos de ſangue da boca poſto ſobre o peito, e para eſtancar
+o fluxos baixos, poſta pela parte baixa.
+Serve trazido atado no braço eſquerdo, chegado à carne, cõtra o ar, accidétes, e vágados.
+
+##  Coſtella de peixe mulher virgem, e suas virtudes.
+
+Serve, preparada em agua, e bebida, para as febres, e para as dores de Pleurizes
+pontadas, e eſtupores, advertindo que naõ ſendo virgem, naõ tem virtude.
+
+##  Priapo, ou genital do cavallo marinho, e ſuas virtudes.
+
+Dando a beber meya oitava do pò do priapo do cavallo marinho miſturado com
+ſeis onças de agua commua cozida com hum pao de faveira sec(a), ou com duas oitavas
+de raiz de Eroca Marinha, ou com caſcas de rabãos, provoca muito a ourina ſupprimida,
+com duas condiçoens: a primeira, que o doente tenha tomado primeiro que tudo
+hum vomitorio de ſeis grãos de Tartaro emético, ou duas onças de agua Benedicta,
+ſangrando-se ao outro dia quatro vezes nos braços, e aoutro dia tres, e obſervando estes
+conſelhos certamente ourin(ar)à muito o doente.
+
+He remedio eſtupendo para os pleurizes, e camaras de ſangue, como se tem sabido por
+innumeraveis experiencias, com tal condiçaõ, que ſe darà para cada vez meya oitava do
+dito pò miſturado para os Pleurizes em agua cozida com flores de papoulas, ou com a caſca
+da raiz de bardana; e para camaras em agua cozida com alquitira, repetindo-se eſte
+remedio tres vezes cada dia, aſſeguro he grande remedio.
+
+##  Priapo, ou genital do Veado.
+
+Tem maravilhoſa virtude para as camaras de ſangue, e para as pontadas do Pleuriz,
+dando meya oitava do ſeu pò, miſturado com agua cozida com papoulas, continuando-o
+tres , ou quatro dias pela manhâa em jejum, e às noites tres horas antes de cear.
+
+##  Dente de cavallo marinho, e suas virtudes.
+
+O Pò fustiliſſimo deſte dente tem grande virtude para ſupreſſoens da ourina; com
+tal condiçaõ que se darà para cada vez huma oitava delle miſturado cõ meyo quartilho
+de agua cozida com raiz de eſp(a)rgo, ou com raiz de rilha boy, chamada dos latinos
+Ononis, ou Remora aratri, ou com pao de virga aurca: aproveita muito para as febres, dado
+na meſma quantidade, miſturado na agua das tisanas, trazido junto da carne, tem certa
+qualidade occulta contra o ar. Eſte dente tem as meſmas virtudes, que o dente de Engala;
+poſto sobre as cadeiras, aprove(i)ta muito para as almorreimas, eſtanca o ſangue: de qualquer
+parte que ſahir por modo de milagre: hum anel feito deſte dente, ſuſp(e)nde o ſangue
+das almorreimas, e tira as dores dellas em menos de huma hora.
+Dente
+||
+
+
+##  Dente de dentro da boca do Elefante, e ſuas virtudes.
+
+Serve para toda a eſpecie de febre, para as dores de coſtado, para as dores de rheumatiſm(o),
+e preparando-o tambem em fórma que ſe cubra com a maſſa, ou polme do
+dente preparado em agua, e ſe for roſada, ſerá melhor, mas deve ſer morna.
+
+##  Unha do graõ Beſta, e ſuas virtudes.
+
+O Graõ Beſta he hum animal, que na língua dos Etiopes Mouros ſe chama Nhumbo
+e na língua Portugueza val o meſmo que animal fermoſo. A ſua fórma he de hum
+perfeito cavallo em tudo menos: ſua cauda tem muy pouco pello, e o caſco he fendido
+como unha de cabra; ordinariamente naqueles contornos ſaõ manchados como Tigres;
+alguns, que ſaõ raros, de cor caſtanho claro.
+
+Só as unhas do pè eſquerdo ſaõ  as que tem virtudes; as outras, ſendo do meſmo animal,
+naõ tem ſerventia, e muitas vezes ſe dà qualquer das ditas unhas, ou vende, e ſendo do
+meſmo animal não tem preſtimo; e tem a circunſtancia de que hade ſer tirada a unha ſem
+ſer metida no fogo, nem em agua quente, porque perde a virtude.
+
+O animal he ſugeito a accidentes repetidos, e tem tal inſtincto, que aſſim como ſe vê
+ameaçado do accidente, mete a unha do pè eſquerdo no ouvido, e aſſim que lhe passa logo a
+força delle.
+
+Serve a unha do grão beſta, trazendo-a junto à carne do umſculo do braço eſquerdo, ou
+ao peſcoço, e ainda ſobre o peito, ou no dedo da maõ eſquerda, engaſtoada em ouro, de
+forte que a unha toque na carne; ſerve contra os accidentes de gotta coral, e vàgados, e
+contra o ar. Preparada em agua, e bebida ſerve contra o veneno, e contra as febres
+intermitentes.
+
+Nos accidentes de aſthma ſe darà hum escrúpulo de pó da dita unha miſturado com
+huma chicara de agua de cereijas negras: por quanto a aſthma he hum acidente [de gotta
+coral do bese, com diz Vanelmoncio: Asthma est caducum pulmonis.
+
+##  Oſſos do eſpinhaço da Cobra Zuchi, ou Zuichi, e ſuas virtudes.
+
+Em Angola ſe criaõ humas cobras, a que os naturaes chamaõ Zuchi, que quer dizer
+cuſpidora; eſta quando ſe vè perseguida dos que a querem matar, eſguicha da boca
+hum cuſpinho taõ delgado, e taõ alvo, que em qualquer parte que cahe, a faz log(o) muito
+branca, e para deitar o tal cuſpinho ergue o collo, e enche o papo, e deita o cuſpinho
+aos olhos de quem a perſegue, e selhe naõ acodem logo com o leite, penetra o ſeu veneno
+pelos olhos de sorte, que os cega, e muitas vezes os mata.
+
+Sem embargo porèm da dita cobra ter eſta maldade, pozlhe Deos nos oſſos do seu eſpinhaço
+huma grande virtude, que ſecaõ, e curaõ as alporcas, com tal condiçaõ, que o doente
+os traga ao peſcoço junto da carne por tempo de hum anno.
+
+Para ſe tirarem estes ossos, depois de morta a cobra, ſe enterra, e como paſſaõ quinze
+dias apodrece a carne, e com facilidade ſe deſpegaõ, e ſe alimpaõ muito bem de alguma
+carne, ſe lhe ficou pegada, e ſe guardaõ; e quando quizerem applicallos a algum doente
+deſta enfermidade, ou q’ tenhaõ dores de garganta, ſe infiaõ em hum fio de retroz, e
+penduraõ ao peſcoço a modo de huma gargantilha. Muitas ſaõ as peſſoas que tem viſto,
+e experimentado a grande virtude deſtes oſſos para as ſobreditas enfermidades.
+
+##  Dentes de Engala, e ſuas virtudes.
+
+Em Angola ſe criaõ huns animaes da corpulencia de hum porco, na boca deſtes ſe achaõ
+dous dentes fortes á maneira de dentes de porco javali; ſaõ  do comprimento de
+1 ú palmo, pouco mais, ou menos, o pò deſtes dentes tem grandiſſima virtude para rebater
+as febres malignas, e naõ falta quem diga que he melhor que a pedra Bazar verdadeira: faz
+madurar, e abrir os apoſtemas, e leicentos, applicando-o ſobres elles em forma de polme
+tres, ou quatro vezes cada dia: ajuda muito a ſahirem as bexigas, e os ſarampãos; conſta d’
+muito tal volatil, e por iſſo nos Pleuizes faz tão boens effeitos como o dente de porco
+montez, com tal condiçaõ, que se dè de cada vez meya oitava do ſeu pó lubriliſſimo mistu
+
+
+||
+
+
+rado com huma onça de lambedor de papoulas morno, bebedolhe em firma meyo quartilho de agua cozida com flores de papoulas, e com calcas de raiz de Bardana. Poſto aſſegurar com a experi(e)ncia de 58.annos, que nos Pleurizes he grande remedio, com tal comdição, que ſe aplique duas, ou tres vezes cada dia atè qie o doente acabe de ſarar. No
+meu Peculio revelo hum grande remedio para Pleurizes, no capitulo, Pleurizes.
+
+##  Raiz da Manica, e ſuas virtudes.
+
+ESta raiz he de grandiſſima eſtimaçaõ, aſſim por ſer creada entre o ouro no Reyno de
+Manica, donde tomou o nome, como também por ſuas admiraveis virtudes.
+
+Serve eſta raiz para febres, dando ſe bem moida em quantidade de hum eſerupulo miſturada com ſeis onças de tiſana: da-ſe no principio do frio, do meſmo modo que ſe dá
+a agua de Inglaterra; e ſe a febre entrar ſem frio, ſe dará do meſmo modo no fim da febre para fazer ſuar.
+
+He admiravel contraveneno, porque o rebate eficazmente.
+
+Serve para toda a ſorte de fraqueza do eſtomago, para comſervar o comer nelle, de
+ſorte que s naõ vomite.
+
+Serve para desfazer as ventoſidades procedidas de cauſa fria.
+
+Serve para quem tem faſtio, tomada duas horas antes de comer, porque comforta o
+eſtomago, excita a vontade de comer, e he grande remedio para impedir os vomitos.
+
+Serve para feridas freſcas, moída com agua, de modo que fique como polme, applicando-o cada vinte e quatro horas, enchendo o vaõ da ferida com elle, e brevemente ficarà
+o doente ſaõ.
+
+Serve para chagas podres moida do meſmo modo, e aplicada á chaga em lugar de
+ungento; e iſto ſe fará huma vez cada dia, e ſarara em breve tempo, ſem nesseſſitar de
+outra cura, ou remedio humano.
+
+Tambem a dita Manica he hum remedio, ou antidoto muy eficaz contra herpes, moendo-ſe, e pondo ſe os pos ſobre a ferida, e aplicando-ſe tambem da parte de ſima,
+para que os herpes naõ ſubaõ, nem vaõ por diante.
+
+Serve para dor de colica chamada nas terras da India, xeringola, roçada em pedra
+com çumo de limaõ, e lançada por ajuda.
+
+He grande contrapeçonha, moída ſubtiliſſimamente, e dada a beber com çumo de
+limaõ galego.
+
+Serve para mal de Loanda moida, e dada com agua, e untando com aquelle polme
+as gengivas muitas vezes no dia, fararà o enfermo maravilhoſamente.
+
+Serve da meſma ſorte moida, e aplicando o dito polme na face, e na cova do dente,
+que doer, porque rira todo a dor delle.
+
+S(e)rve para dor de ouvidos, moendo-a com a gua aquentada em huma colher de prata, e laçando tres, ou quatro gottas no ouvido ſaõ  primeiro, e depois no que tiver a
+dor.
+
+Peſſoas fidedignas, que eſtiveraõ na India affirmaõ que o pò deſta raiz ſubtiliſſimamtente pulverizado, e miſturado com o que for nesseſſario de agua roſada, para fazer hum
+polme, barrando a reſta, e fontes da cabeça com elle, abranda muito as ditas dores.
+
+Serve para eſtancar os fluxos de ſangue, ou s já tomada pela boca miſiturada em agua
+de tranchagem, ou ſeja deitada por ajuda.
+
+Peſſoa houve taõ confiada, que ſe atreveo a dizer que o pò ſubtiliſſimo deſta raiz, tomado muitos dias em jejum com xarope de hera terreſtre, ou de unguka cabalina, curava
+cerramente as chagas do bofe; eu lhe naõ  dou inteiro credito, mas em doença, em que
+a certeza da morte (por cauſa da chaga do bofe) he infalível, naõ duvidaria eu de fazer
+o remedio, porque ſe naõ  aproveitar, naõ  ſara damno.
+
+Para as feridas freſcas com ſangue, enchendo o caõ da ferida com o pò fino deſta raiz,
+e curando-as abertas, obra taõ maravilhoſamente como o oleo de ouro.
+
+Finalmente he a raiz da M(a)niaca remedio ſupremo para rebater todo o g(e)nero de veneno; advertindo, que ſe tenha grande cuidado, e cautela, que quem tomar eſta raiz naõ
+toque qualque género de oleo, ou azeite, porque intallivelmente ſe converterà em veneno preſentaneo.
+Raiz
+||
+
+
+##  Raiz da Madre de Deos, e ſuas virtudes.
+
+VInte grãos de pó deſta raiz miſturados com quatro onças de agua cozida com o páo
+da faveira ſeca, ou com hum molho de folhas de cesfelio, provoca a ourina ſupprimia. Serve o pò deſta raiz para todo o género de febre, rpincipalmete para as que entrarem com frio, dando-se duas vezes cada dia: para grandes dores de cabeça ſe applica o polme deſta raiz feito com çumo de limaõ galego nas capelladas dos olhos, e nas
+fontes: ſerve eſta raiz para inflammaçoens do bofe, como he a Peripneumonia; contra
+qualquer outras inflammaçoens interiores: he eſta raiz muito cordeal e reſiſte ao veneno das febres malignas, e as mordeduras das cobras venenoſas.
+
+##  Raiz do Cypò, e ſuas virtudes.
+
+AEſta raiz, a quem os Portuguezes chamaõ Cypò, chama o Gentio da America Pieaquanha que he o meſmo, que dizer pica de caõ: há duas fortes de Cypò, hum he
+mais groſſo, mais branco, e mais forte, outro hem asi delgado, mais eſcuro, e mais benigno no obrar: ambas eſtas raízes tem virtude taõ maravilhoſa para curar camaras de
+ſangue, que rariſſimas vezes faltaõ com o efeito deſejado, advertindo, que as tacs raízes
+tem virtude de provocar vomito, a branca o provoca com mais violenvia, o remedio para
+que o naõ provoque, he deitallas vinte e quatro horas de infuſaõ em vinagre forte; a
+quantidade que ſe dá de pò de qualder deſtas raízes, he de dous eſerupulos atè huma
+citava, toma-ſe em caldo de galinha, e ſe repete quatro, ou ſeis dias.
+
+##  Raiz de Solor, e ſuas virtudes.
+
+Esta raiz com as outras fobreditas também he de ſinguar eſtimaçaõ; uſa-ſe della para
+toda a eſpecie de febres, e pontadas, e para o veneno, e para dores Nephriticas.
+Tambem serve tomando bochechas, para alimpar a limgua groſſa, e para abrir a vontade
+de comer, quando o enfermo tem faſtio levando algumas bochechas para baixo.
+
+
+##  Províncias e as suas localizações.
+
+ 
+
+## Raiz de Calumba, e ſuas virtudes
+
+Esta raiz serve para todas as febres moida com agua por quaſi hum quarto de hora
+e ſe beberà pela manhã, e à tarde,e ainda que ſeja mais quantidade de quartilho,
+nao importa, e para febres, e frios ſe moerà com çumo de limão gallego.
+
+Serve para mordechim, e para dores de colica, e indigeſtoens do eſtomago; ſe forem
+de frio, ſe darà com vinho; e ſe forem de quentura, ſe dàrà em agua pela manhã em jejum, ou a toda a hora que a neceſſidade o pedir.
+
+Nas ſuppreſſoens de ourina, altas, ou baixas, he remedio que obra effeitos maravilho
+sos, com tal condição, que o doente tenha tomado primeiro hum, ou dous vomitorios de
+ſeis grãos de Tartato emetico, ou de meya oitava de caparrola branca, ou de duas onças
+de agua Benedicta, e ſe tenha ſangrado depois diſto oito vezes nos braços. Da-ſe pò
+deſte remedio em agua cozida com os pàos da faveira ſeca, ou com raizes de eſpargo.
+
+Serve para camaras moida com çumo de limão gallego, ſe deſtemperada com agua,
+ſe untarà a barriga com o polme deſta raiz pela manhãa, e á tarde.
+
+Serve para mulher que eſtiver de parto, ainda que eſteja mortal, e lha darão moida
+com vinho, e lançarà a criança, ainda que eſteja morta.
+
+Serve para mordedura de todos os bichos peçonhentos, moida com agua, e ſenão houver tempo de ſe moer, tome-ſe hum pedaço, e maſtigue ſe, e engulir o çumo, e ſe deitará delle na mordedura, e ſe for muito refinada peçonha, ſe dará a alguma peſſoa a dita
+raiz para que a maſtigue, e tendo-a na boca.
+
+Serve para toda a peçonha que ſe der no comer, ou beber moida com agua: e ſe não
+houver tempo para iſſo, tome hum pedaço na boca, e maſtigue-o, levando o çumo, ou
+cuſpa para baixo.
+
+Serve para quem tomar Anfião miſturado com azeite, porque ſe então converte o dito
+Anfião em refinado veneno: ſeu unico remedio, he dar ao doente hum pouco de pò deſta
+raiz.
+
+
+
+|| raiz 14
+||
+
+raiz miſturado com agua. Tambem he grande remedio esfregar os dentes com o pò
+deſta raiz. Anfião he o meſmo que Opio, como diz o Doutor Franſcisco Roballo Freyre, que foy Fiſico mór no Eſtado da India, e D. Rafael Bluteau no primeiro tomo do
+ſeu Vocabulario Portuguez, e Latino fol. 373. col.1.
+
+Serve para uzagre do meſmo modo, fazendo primeiro lavatorio.
+
+Serve para provocar o ſangue menſal, com tal condição, que, a mulher a quem faltar o
+dito ſangue, tome oito dias em jejum quatro onças da agua, em que tenhão cozido
+meya oitava do pò da dita raiz.
+
+Serve para quem tiver dor de dentes, metendo na cova do dente hum pedacinho deſta raiz, tirará a dor.
+
+Serve para eryſipela, moida com çumo de limão gallego, untando com ella o lugar
+que tiver a dor, ou inchação; não havendo febre, ſe poderá beber em agua.
+
+Serve para quem for tocado do ar, moida com çumo de limão gallego, para ſe untar.
+
+Serve para a peſſoa, que eſtiver com ventoſidades,moida com vinho, e ſe forem de
+quentura, com agua, e ſe beberà. Nas terçans, e quartas tão rebeldes, que ſe não tirão
+com a quinaquina, obra maravilhoſos effeitos, tomando-a cinco, ou ſeis dias.
+
+## Serpentaria virginiana, e ſuas virtudes.
+
+Esta erva não he naſcida na India Oriental, mas he natural das Indias de Caſtella;
+he grande contraveneno, e grande defenſivo das febres malignas, e ſoccorre às
+doenças venenoſas. Tem eſtupenda virtude, e he o mayor remedio que tem o mundo
+para vencer o mortal veneno das mordeduras da cobra de Caſcavel, a que os Inglezes
+chamao~ Rattle Snakes.
+
+## Raiz de Sapuche, e suas virtudes.
+
+Esta raiz tambem he de grande eſtimação, e he o mais fino contraveneno para as
+cobras que ſe tem deſcuberto: quando naſce esta planta, as cobras lhe coſtumão
+tirar a folha por inſtincto natural, para que ſe não conheça; mas por iſſo mesmo he co
+nhecida: atada ao braço chegada à carne, eſtá livre quem a trouxer ( ainda que durma
+na charneca) de lhe tocar bicho peçonhento.
+
+He excellente antidoto contra todo o veneno de bichos, e contra os outros venenos:
+preparada em agua, e bebida, cura os enformos de dores do eſtomago: e bebida pelas
+manhãs em jejum desfaz todas as obſtrucçoens, e ajuda a circulação do ſangue.
+
+## Raiz de João Lopes Pinheiro, e ſuas virtudes.
+
+Vinte grãos de pò deſta raiz, dados em meya chicara de agua commua, he admiravel
+remedio para as febres terçãs, e quartãs.
+
+Serve preparada em agua, e bebida, contrafebres; e preparada em pó ſubril, para as
+feridas freſcas com o ſangue, fazendo cura aberta; e para as caneladas freſcas, cobrindo as com os pòs.
+
+Serve para as pontadas, moida, e miſturada com vinho, untando com o tal polme a
+pontada, a cura bem.
+
+Serve, preparada em agua, e bebida, para desfazer as opilaçoens do ventre ſendo continuada; e para as obſtrucçoens do eſtomago.
+
+Serve, preparada em agua, e tomada em bochechas  repetidas,para dor de dentes;
+faz effeitos milagroſos naquellas peſſoas a quem mordeo  huma caſta de viboras que ha
+na India tão venenoſas, que ſe ferem a alguma peſſoa, logo cabe por terra amortecida, e deſmayada, de forte que não póde fallar, nem ſe póde mover, nem tem acção
+alguma de vivente; cujo unico remedio, e eſperança de vida conſiſte em fazerlhe huma
+pequena ferida no alto da cabeça com huma lanceta, ou alfinete, de forte que faça ſangue, e deitando huma migalha daquelle pò na tal ferida, logo de improvito falla o homem,e fica livre do perigo.
+
+## Raiz de Butua, chamada parreira brava, e ſuas virtudes.
+
+Esta raiz tomou o nome do Reino da Butua onde ſe cria, chama-ſe aſſim nos Rios
+de Sena entre o Gentio; entre os Portuguezes ſe chama Parreira brava, ou Raiz
+da Butua.
+
+Serve o pó deſta raiz, miſturado com agua commua, para beberem as peſſoas, que tiverem algum apoſtema, ou abſeſſo interior, porque ſe o tal apoſtema, ou abſeſſo for novo, e eſtiver ainda no principio, o reſolverá, e desfará em poucos dias; mas ſe for já
+velho, ou tiver já materia, o farà abrir, e rebentar, e deitar fora toda a materia por
+ſima, ou por baixo, pela camara, ou pela ourina.
+
+Tambem o pò da dita raiz miſturado com vinagre deſtéperado de modo que fique em
+fòrma de polme, applicado sobre os apoſtemas, ou abſeſſos exteriores, os reſolve, e deſfaz, com tal condição, que ſe applique ſete, ou oito dias ſucceſſivos aſſim o obſervey
+muitas vezes, principalmente na mulher de Manoel de Araujo, morando junto da Igreja
+da Annunciada: tinha a dita mulher huma perna inchada com tão exceſſiva deformidade, que a todos pareceo impoſſivel eſcapar da morte, e applicando ſobre a inchação o
+polme deſta raiz, ſarou dentro de ſeis dias, ſem neceſſitar de outro remedio.
+
+Serve para o Pleuriz, dando a beber o pò della em agua quente, que primeiro ſeja
+cozida com papoulas, ou com cevadas. Tambem ſe unta, ou esfrega a pontada com o
+polme da tal raiz, porque faz reſolver, e deſcoalhar o ſangue, que por eſtar reprezado
+e groſſo, ſenão pode circular, e porque ſenão circula, ſe azeda, e por ſe azedar, faz a
+dor, e pontada do Pleuriz.
+
+Serve para pancadas, e quedas, dando a beber meya oitava do ſeu pò miſturado com
+agua cozida como huma raiz de tormentilla, chamada vulgarmente ſolda, ou pentafilão,
+untando por alguns dias a parte doloroſa com o polme da dita raiz.
+
+Serve para eſquinencia, ou garrotilho, dando a beber o ſeu cozimento, fazendo com
+elle gargariſmos, e untando a garganta com o ſeu polme.
+
+Serve para fazer deitar as parcas, danda a beber a agua em que for cozida, tambem
+facilita o parto, e faz deitar as molas com facilidade.
+
+Serve para deſinchar toda a forte de tumor, untando por oito dias a parte com o dito polme.
+
+Serve para eryſipelas bem cozida em agua commua, applicando-a muitas vezes no dia
+em panos picados mornos, com condição que os não deixem ſecar.
+
+Serve para toda a chaga, ou inflammação do figado cozida em agua commua, lavando a parte queixoſa repetidas vezes com o tal cozimento: advertindo que quando ſo
+quizer cozer, ſe farà em laſquinhas miudas, ou ſe machucará, para largar melhor na
+agua a ſua grande virtude.
+
+Serve para curar hernias ventoſas, aquoſas, e carnoſas applicando-ſe ſobre a parte
+queixoſa o cozimento da dita raiz quente, repentindo-ſe muitas vezes no dia pannos enſopados na dita agua quente, porque logo mitiga a dor, e a inflammação. Confeſſo que eſta
+raiz tem grande virtude pra curar hernias; mas o mayor remedio que ſe ſabe depois
+que Deos creou o mundo, para hernias, he oleo verdadeiro de canela, como o poder à
+certificar o Doutor Mathias Mendes Ouvidor da Alfandega. Não he menos efficaz para
+as quebraduras o oleo das gemas de ovos, de que poſſo apontar muitos exemplos.
+
+Serve para dores de dentes o cozimento deſta raiz, tomando-o na boca, ou metendo na
+cova do dente o pò deſta raiz, miſturado com agua da Rainha de Hungria,  de que te
+nho visto maravilhoſos proveitos.
+
+Serve para dores de cabeça, e de xaqueca, miſturando-ſe o pò da tal raiz com agua
+rolado, ou de murta, e barrar toda a teſta de orelha a orelha com eſte polme.
+
+Serve para curar as dores de colica, e de barriga, que procedem de ventoſidades
+ou de cauſa fria; bebendo o cozimento da dita raiz, e untando o ventre com o ſeu polme.
+
+Serve para desfazer as inchaçoens do baço, e da barriga, tomando em vinte manhaãs
+hum eſcrupulo do ſeu ſubtiliſſimo, miſturado com duas onças de bom vinho branco
+aguado, e fazendo com eſte remedio algum exercicio, ſe o doente o puder fazer.
+
+Serve para curar as camaras, principalmente as de ſangue, bebendo o ſeu pò miſturado
+com agua de tanchagem, ou com agua commua cozida co’alquitira, uſando deſte remedio
+por cinco, e ou s[e]is dias ſuceſſivos pela manhã, e à noite. Luis Serrão Pimental, Cos-
+
+
+|| mografo 16
+||
+
+mografo mòr do Reyno, pòde ſer teſtemunha deſta verdade, pois eſtando elle ſem eſperanças de remedio humano, ſarou de camaras com o pò deſta raiz. O meſmo admiravel
+proveito vi em huma mulher moradora à Boa Viſta na rua chamada Poço das taboas;
+tinha a dita mulher camaras tão deſenfreadas, e antigas, que ſuſpeitoulhe tinhão dado
+algum feitiço, que a foſſe mantando lentamente, e tomando eſta raiz em ſeis dias depois
+de mil remédios baldados, ſarou por modo de milagre.
+
+Serve para as dores de eſtomago, e para azedumes da boca, bebendo a agua em que
+for cozida, miſturando o ſeu pò com a ourina do meſmo doente, e untando o eſtomago
+com o polme da dita raiz feito com a ſua ourina.
+
+Serve para as carnoſidades, bebendo por muitos dias a agua da ſua infuſão, e ſiringando o cano com ella.
+
+Serve para todas as ſuppreſſoens da ourina, dando a beber ao doente a agua que for
+levemente cozida com a tal raiz, mas com tal condiçao que antes de uſar deſta agua,
+tome o primeiro dia hum vomitoria de tres onças de agua Benedicta, ou ſeis grãos de
+Tartaro emetico,  e nos dous dias ſeguintes tome ſeis ſangrias nos braços, e no terceiro
+comece o doente a tomar a tal agua, e conhecerão o muito que me devem por lhes dar,
+eſte conselho.
+
+Serve para as pugaçoens da madre de qualquer cor que ſejão, bebendo por 30. dias
+em jejum, e à noite ſeis onças da agua da ſua infuſão,  a que ajuntem doze grãos de pò
+ſubril da dita raiz. Toda a caſa do Senhor de Aguas bellas póde ſer teſtemunha deſta
+verdade, porque eſtando na dita caſa huma criada que havia nove annos padecia a dita
+purgação, que a nenhum remedio obedecia, ſó com eſta raiz ſarou.
+
+Serve a agua deſta raiz, tomada por vinte dias em jejum, para provocar a conjunção
+às mulheres, que por falta deſta deſcarga padecem mil achaques; mas he neceſſario fazer com o tal remedio exercicio de huma hora. Toma-ſe trinta meya oitava do pó
+deſta raiz em caldo de grãos pardos.
+
+Hum Religioso, cujo nome não me lembra, eſtando tão ſuffocado com flatos, que não
+podia reſpirar, ſó com o pò deſta raiz livrou delles, e da morte.
+
+Serve para abafamentos, e flatos melancolicos, dando a beber a agua da dita raiz.
+
+Serve caneladas, untando-as com o polme da dita raiz.
+
+Serve para curar feridas freſcas, lançando nellas o pó finiſſimo da dita raiz.
+
+Serve contra o garrotilho, e eſquinencia, untando toda a garganta com o polme que
+ſe faz da raiz da Butua pulverizada ſubtilmente, e miſturada com vinagre.
+
+Serve o cozimento deſta raiz para curar fogo salvagem, e leicenços, lavando-ſe muytas noites com elle.
+
+Serve em falta do meu Bezoartico, para rebater toda a forte de veneno; e he grande
+remedio para os apeſtados, com tal condição que ſe deve beber o ſeu cozimento, e un
+tar a parte offendida com o polme da dita raiz.
+
+Serve contra todas as mordeduras de cão danado, e bichos peçonhentos, bebendo-ſe
+a agua da sua infuſão, untando a mordedura com o ſeu polme.
+
+O Doutor Franciſco Roballo Freyre, Cavalleiro profeſſo da Ordem de Santiago, e
+Fiſico mór no Eſtado da India, certifica que dera em tres dias ſucceſſivos o cozimento
+deſta raiz a huma mulher, que tinha na região da madre huma inchação fleumonoſa, que
+ſenão pode curar em largos tempos, e ſó com o cozimento da raiz da Butua ſe madurou
+o apoſtema, rebentou, e deitou muito humor, e ficou ſaã.
+
+Serve para curar a Ictericia, e he para iſſo o mayor remedio que tem o mundo.
+
+Serve para curar os eſquentamentos, tomando nove dias hum eſcrupulo, miſturado co'
+outro eſcrupulo de Terebentina, feita em pirolas. De meya onça de raiz da Butua feita
+em laſquinhas miudas, e outra meya onça de centaurca menor, levemente cozidas em hua’
+canada de agua ordinaria, ſe fazem cinco ajudas, que aproveitão muito nas febres intermittentes, e não duvido que eſtas ſão as ajudas tão afamadas de Pedro Caſtello.
+### Grupo 5 - Michel e Alexandre
+# Memorial de varios simplices
+
+|| 16
+
+##  Raíz divina, e ꭍuas virtudes.
+
+  Esta raiz naꭍce em Portugal, em hum lugar vizinho a Cetuval, a que chamam Troya:
+naõ sabemos que haja Author que eꭍcreveꭍꭍe della; porém a experiencia dos bons ef
+feitos que obra em algumas enfermidades, ꭍaõ as mais qualificadas das teꭍtemunhas das tuas
+virtu-
+
+|| 17
+
+virtudes. He a dita raiz inclinante a quente, por cuja cauꭍa ꭍe nao deve uꭍar della muito cozida, mas com huma moderada fervura, de forte que com duas canadas de agua ꭍe
+coza huma oitava da dita raiz levemente machucada: deꭍopila muito as veas, provoca
+a conjunçaõ das mulheres, e aproveita nas inchaçoens do ventre das mulheres que parecem hydropicas: naõ duvido tenha outras muitas virtudes, que o tempò irá deꭍcobrindo; mas por ora fallo ꭍó naquellas, de que jà temos experiencia. Chama-ꭍe esta
+raiz Divina pelos ꭍeus grandes preꭍtimos.
+
+##  Unguento de bicuiva, e ꭍuas virtudes.
+
+  Do Rio de Janeiro, e algumas vezes do para, vem a Portugal dentro de huns canudos
+o unguento chamado Bicuivo, o qual ꭍe faz de ꭍemente, ou fruto de huma arvore
+chamada Becoybeira. Conꭍta por repetidas experiencias ꭍer dito unguento, remedio efficaciꭍꭍimo para curar dores, e pontadas em qualquer parte que eꭍtejaõ, com tal condiçaõ
+que procedaõ de cauꭍa fria: na fraqueza de nervos, ou encolhimento delles, por mais que
+o doente eꭍteja tolhido, e aleijado, faz o dito unguento maravilhoso proveito, e se] naquei
+las partes houver algum tumor, dureza, ou inchaçõ, a desfaz em breves dias, porèm he
+neceꭍꭍario advertir duas couꭍas muito importantes, para que o dito unguento faça o proveito deꭍejàdo. A primeira, que a formentaçaõ ꭍe faça com grande cautela, e reꭍguardo
+do ar, porque ab:e muito os poros: a ꭍegunda, que a cauꭍa da doença proceda de frialdade: a terceira que a parte queixoꭍa se] esfregue com o tal unguento moderadamente quente, tanto tempo, quanto parecer que baꭍta para que a virtude do remedio penetre dentroEm falta deꭍte unguento ferve com a meꭍma efficacia o pó da meꭍma ꭍemente esfregando a parte ofendida com elle quente.
+
+##      Maçaa de Leaõ, e ꭍuas virtudes.
+  Aꭍꭍim como no bucho de algumas vacas ꭍe gera uma maçaa do tamanho de huma
+laranja pequenam tambem no bucho de alguns Leoens ꭍe cria huma bola, ou
+maça, do tamanho de hum ovo; eꭍta bola roçada em agua, ou vinho, ou hum pouco de
+pò deꭍꭍa dado às mulheres que naõ podem parir, no mesmo inꭍtante parem, e deitaõ as
+pareas, e provoca efficazmente a conjunçaõ dos mezes.
+
+##      Maçao do elefante, e ꭍuas virtudes.
+  Nos buchos dos elefantes muito velhos, ꭍe achaõ muitas vezes humas maçãs,ou
+bolas tamanhas como hum ovo de galinha; deꭍta pedra, ou maçaa ꭍe tem achado
+que he taõ boa como a mais excllente pedra bazar que vem da India, he verdade que
+amarga muito quando ꭍe toma, e eꭍte he hum grande final de ella ꭍer boa; a quantidade em que ꭍe toma ꭍaõ de 10 grãos atè 16 toma-ꭍe miꭍturada com quatro onças de
+agua de cardo fanto, ou de papoulas, e ꭍe abafa o doente muito bem para ꭍuar; aproveita muito para as dores de barriga, para febres, para dores de coꭍta, abre as opilaçoens
+do figado.
+
+##      Triaga Braꭍilica, e ꭍuas virtudes
+  No collegio dos Religioꭍos da Companhia de JESUS da Bahia, ꭍe faz huma Triaga chamada Braꭍilica, compoꭍta de varias plantas, raizes, ervas, frutos, e outras que
+naꭍcem no Braꭍil, dotadas de taõ excellentes virtudes, q cada hua ꭍoper ꭍi pode ꭍervir em
+lugar de Triaga magna; pois com algumas das raizes, de que ꭍe compoem eꭍte Antidoto, ꭍe
+curao no Braꭍil de qualquer peçonha, e mordedura venenoꭍa, como tambem de outras enfermidades, ꭍó com maꭍtigallas; e a experiencia tem moꭍtrado, que ꭍenaõ he melhor que a
+Triaga magna, naõ he inferior a ella; porque he efficaciꭍꭍima cotra todo o veneno (excepto os corroꭍivos) como he o ꭍolimaõ, e roꭍalgar, ainda que contra eꭍtes dado logo o pezo
+de huma ate duas oitavas, ajuda aos deitar fora por vomito; e depois com bem leite, e
+com amendoadas em que miꭍturam mucilagens de marmelo, ficaõ ꭍeguros. Serve contra
+qualquer bebida venenoꭍa, e contra as mordeduras de animais peçonhentos, tomando pela boca o pezo de huma oitava até duas em vinho, calda, ou em outro qualquer licor, e iꭍo
+|| do. 18
+
+de quatro em quatro horas, atè que o doente ꭍe sinta aliviado, untandolhe tambem com
+ella os pulꭍos, nariz, e coraçaõ, e poꭍta na mordedura a modo de emplaꭍtro, desfeita
+em vinho.
+
+  Serve para qualquer dor intrinꭍeca, como de eꭍtomago, vomitos, colica, flatos, e pontadas, principalmente ꭍe forem cauꭍadas de frio: para lombrigas, e qualquer humor corrupto, que ꭍe gera nos inteꭍtinos, he bom remedio,e para eꭍtancar camaras, para dores de
+rins, bexiga, area, e pedra, porque he ciuretica, e faz ourinar, tomando a miado meya
+oitava em agua com cerfolio, ou com raiz de eꭍpargo, ou de rilhaboy.
+
+  Serve para qualquer achaque da cabeça cauꭍada de intemperança fria, como parleꭍia.
+epilepꭍia, apoplexia, melancolia, applicando juntamente os remedios geraes, que os Medicos ꭍabem.
+
+  He boa para a putrefaçaõ do ar, contra as doenças epidemicas: nas febres malignas
+tem moꭍtrado grande efficacia tomando logo huma oitava com agua de cardo ianto,
+ou de eꭍcorcioneira tres vezes no dia.
+
+  O mesmo proveito faz nas bexigas, e ꭍarampaõ, ajudando-as a ꭍahir para fora.
+
+  He experimentado remedio para ꭍuffocaçaõ da madre, convulꭍaõ, flatos, dores, retençaõ do menꭍtruos, para opilaçaõ da madre, para facilitar o parto, expellir as pareas, corroborar a madre depois do parto; e finalmente para quaꭍi todas as doenças das mulheres.
+
+  Serve tambem para as crianças que tem febres, colicas, e outras enfermidades cauꭍadas das lombrigas; e para outras muitas doenças.
+
+##      Oleo do Elefante, e ꭍuas virtudes.
+  AS canelas, e mãos do Elefante depois de tirada a carne ꭍe penduraõ com o oꭍꭍo para
+baixo e pondo-as ao Sol, e deꭍtes oꭍꭍos que ꭍaõ eꭍponjoꭍos deꭍtilla, ou faz hum oleo
+que ꭍe apra em hum vazo limpo, e ꭍe guarda em vazo de vidro bem fechado, e ꭍe eꭍtima
+como remedio eꭍpecifico, e admiravel para aꭍthma, e faltas de reꭍpiraçao; applica-ꭍe
+quente ao peito esfregando-o com brandura por tempo de vinte Ave Marias, porque deꭍte modo communique melhor a ꭍua virtude; tambem aproveita muito esfregando com
+elle a parte em que eꭍtiver alguma dor de cauꭍa fria, advertindo, que quando ꭍe applicar
+eꭍte oleo, ꭍeja com grande reꭍguardo do ar frio, porque he muito penetrativo.
+
+##      Cobra de caꭍcavel, e ꭍuas virtudes.
+  NAs terras do Brasil ꭍe criaõ humas cobras taõ venenoꭍas, que mordendo em qualquer
+parte do corpo, communicaõ repentinamente huma qualidade taõ peꭍtilente ao ꭍangue, que o adelgaça, e faz ꭍahir do corpo com tal furia, que ꭍahe pelos ouvidos, pela boca, pelo nariz, pelos olhos, pelo cano da ourina, atè ꭍe eꭍgotar, e morrer a peꭍꭍoa mordida.
+Chama-ꭍe eꭍta cobra naquellas terras Xenninga, e entre os Ingleses ꭍe chama RattheInaKes. Tem na cabeça hum caꭍcavel, que a natureza lhe creou, para que vindo tangendo ꭍe ouça de longe, e tenha a gente tempo para fugir. Eꭍte caꭍcavel trazido ao peꭍcoço,
+affirmaõ os naturaes daquella terra, que tem virtude de preꭍervar de accidente de gotta
+coral, e de cágados. E ꭍobre tudo faz milagre em preꭍervar as mulheres de accidentes
+da madre, como ꭍe obꭍervou por muitas vezes em huma ꭍobrinha de Franciꭍco Ferreira
+Nobre, e em outras muitas mulheres, que naõ nomeyo por eꭍcuꭍar enfado.
+
+  O remedio com que eꭍcapaõ da morte as peꭍꭍoas mordidas por eꭍta venenoꭍiꭍꭍima cobra
+he tomar huma oitava de pò de unicorne da Ave chamada Inhame, ou Anhame, ou huma
+oitava de pò da raiz de ꭍerpentaria virginiana, e em falta deꭍtes remedios, pòde tomar
+hum pouco de eꭍterco de homem acabado de ꭍahir do corpo; e naõ tem outro remedio
+eꭍte veneno.
+
+##      Maçaõ da Vaca, e ꭍuas virtudes.
+  Nos buchos de algumas vacas ꭍe criao bols redondas como laranjas, que sãõ de
+de cor parda muito leves, e por dentro eꭍtaõ cheas de cabelos: eꭍta bala, ou mação
+roçada com agua atè que faça hum polme, dado por alguns dias aos camarentos, os alivia
+muito. He remedio q raras vezes falha como me comꭍta por muitas experiencias feitas
+em camaras de que jà naõ havia eꭍerança,
+              Raiz
+|| 19
+
+##     Raiz de João Pires, chamada entre os Medicos Esula, e ꭍuas virtudes.
+  Na casca deꭍta raíz se encerraõ grandes virtudes, com tanto que ꭍeja bem preparada
+trazida primeiro dous dias de infusaõ em vinagre branco: a primeira virtude deꭍte
+remedio he para purgar os humores groꭍꭍos, para os hydropicos, para paraliticos, a alporquentos: a quantidade em que ꭍe dà he de quinze grãos atè vinte e quatro, e aos
+robusꭍtos| meiao oitava, em forma de pilulas: os curioꭍos podem ver as muitas doenças,
+que Martim Rullando, Medico dos Principes Palatinos, curou com a Eíula.
+
+##      Pedra que ꭍe cria dentro no fel da vaca, e ꭍuas virtudes
+  Dentro no fel de algumas vacas ꭍ criam humas pedras taõ amarellas como he o açafraõ; eꭍtas taes pedras tem grande virtude para curar a Ictericia, com tal comdiçaõ,
+que o doente eꭍteja primeiro bem evacuado: tomaõ-ꭍe vinte grãos da tal pedra pulverizada, quinze dias em jejum, miꭍturando-a com ꭍeis onças de agua cozida com folhas
+de morangos, ou com raizes de grama.
+
+  Em minha caꭍa tenho hum remedio, ou ꭍegredo taõ efficaz para curar a Ictericia, que
+ꭍendo eu Medico ha cincoenta e oito annos, ainda naõ acheẏ outro taõ certo como eꭍte,
+e o tenho em minha caꭍa ꭍó a fim de tirar a occaꭍiaõ a alguns Boticarios pouco eꭍcrupuloꭍos, para que naõ vendaõ o tal remedio, dizendo, que lho reveleẏ, como dizem hoje
+muitos, que eu lhes reveleẏ o meu Bezoartico, e outros remedios que inventou a minha
+curioꭍidade, e que ninguem ꭍabe como ꭍaõ compoꭍtos, nem os ingredientes que entraõ na
+fabrica delles: e tem embargo diꭍꭍo, raras ꭍaõ as boticas, aonde ꭍe peça o Bezoartico do
+Curvo, e outros ꭍegredos mais, que naõ digaõ que o tem, ꭍem fazer eꭍcrupulo dos graves
+daninos, que ꭍe ꭍeguem de vender os remedios adulterados por verdadeiros.
+
+##      Pao de Largis, e ꭍuas virtudes.
+  A arvore chamada Largis he pequena como hum peꭍꭍegueẏro, as ꭍuas folhas ꭍaõ
+coradas, cria-ꭍe nos confins da Perꭍia junto a Turquia,; ꭍaõ poucas, e muẏ raras as
+ditas arvores.
+
+  A principal virtude da caꭍca deꭍta arvore he contra a Ictericia, trazida no peꭍcoço
+junto a carne: naõ ꭍe toma cozida, nem preparada em agua, como cá ꭍe tem introduzido.
+Da caꭍca deꭍta arvore chamada Largis, com raiz de loꭍna, e uvas paꭍꭍadas ꭍe faz hum
+quaꭍi divino xarope para Ictericias, como ꭍe pòde ver na minha Polyanthea da terceira
+impreꭍꭍaõ trat. 2. cap. 65. fol. 360. n. 13. Eꭍte xarope, em que entra Largis, he taõ efficaz
+para a Ictericia, como he a quinaquina para as cezoens, e como he a falta parrilha, e o azougue para o gallico. O modo com que ꭍe faz o dito xarope para a Ictericia, e a quantidade
+em que ꭍe toma, acharaõ os curioꭍos no lugar citado da minha Polyanthea
+Eꭍta caꭍca de pào chamado Largis, cura os olhos rameloꭍos, humidos, e inflammados,
+deitando hum eꭍcropulo della de infuꭍaõ em duas onças de agua rofada.
+
+##      Pào de Cobra, e ꭍuas virtudes
+  Este pào na lingua do Gentio, ꭍe chama Dangya Catenga, outros lhe chamaõ Catubia; o nome de pào Cobra lhe deraõ os Portuguezes, por ꭍer o mais efficaz remedio
+do mundo para as mordeduras das cobras mais venenoꭍas.
+  Serve o pò deꭍte pào fulado, ou moido muito ꭍubtilmente, para remedio das grandes
+febres, dando-o a beber em agua, e untando com o ꭍeu polme o corpo: ferve para qualquer dor quente, ou fria, ou inchaçao, ou gotta, untando cõ o ꭍeu polme a parte doloroꭍa,
+tomando a raiz que fica para a parte do naꭍcente, porque a do poente, naõ tem virtude; antes dizem que he prejudical.
+
+  Do pò deꭍta raiz ꭍe pòde dar meẏa miꭍturada com agua.
+
+  Applica-ꭍe com grande utilidade ꭍobre as pontadas, tomando-o tambem pela boca.
+
+
+|| Na 20
+
+  Na inchaçao das pernas faz o tal polme conꭍideravel proveito.
+
+  O pò deꭍta daiz miꭍturado com agua em que tiverem cozida a erva Anagalia, a que
+chamamos Marugem, ou miꭍturando com eꭍpirito de vinho alcanforado, cura por modo de
+encantamento as Erẏꭍipelas, co tal condiçaõ que ꭍe applique morno, e naõ ꭍe deixe ꭍecar.
+
+  Nas parleꭍias ꭍe pòde dar pela boca a agua em que for sulada eꭍta raiz, untando tambem a parte paralitica com o ꭍeu polme muitas vezes no dia.
+  Nas dores de eꭍtomago faz maravilhoꭍo proveito o tal polme já bebido, jà untando-o
+com elle: doente houve, que eꭍtando deꭍeꭍperado com dores de eꭍtomago, o untou
+com o polme da tal raiz, e porque o doente molhou a mão no dito polme para esfregar com
+elle o lugar da dor, naõ ꭍó melhorou della, mas tendo a maõ com gotta, ꭍe tirou a gotta,
+nem a teve mais em ꭍua vida.
+
+  Nas feridas obra maravilhoꭍos effeitos: deitandolhes os ditos pòs ferve eꭍte pò para dores da madre, ou ꭍeja bebido, ou ꭍeja untando o pentem com elle, alimpa os rins de areas.
+
+##      Contraẏerva, e ꭍuas virtudes.
+  Nas Indias de Caꭍtella ꭍe cria huma erva que os naturaes daquella terra chamaõ
+Contraẏerva, na lingua Portugueza val o meꭍmo que contraveneno; he admiravel
+antidoto, ou ꭍeja para rebater o veneno, que malicioꭍamente ꭍe deo para matar a alguem. Para as febres
+malignas he remedio quaꭍi Divino, nem até eꭍte tempo ꭍe tem achado outro mais poderoꭍo do que eꭍta raiz, como conꭍta affim pelo que dizem della os grandes Herbolarios,
+como pelas muitas febres maligniꭍꭍimas, que eu Joaõ Curvo Semmedo tenho curado em
+tantas doenças que naõ tem numero, os quaes jà eꭍtavaõ agonizando quando fuẏ chamado para os curar, e dandolhes eu o Cordeal Bozoartico Curviano, que he ꭍegredo, e invento meu, e em cuja compoꭍiçaõ entra a dita Contraẏerva, eꭍcaparaõ quaꭍi todos, como
+os curioꭍos poderaõ examinar dos meꭍmos doentes quaꭍi reꭍuꭍcitados com o dito Bozoartico, cujos nomes acharaõ apontados na minha Polyanthea da terceira impreꭍꭍaõ no trat. 2. 106. deꭍde a folha 571. atè 579.
+
+  Ajuda a vir a conjuçaõ mental, com tal condiçaõ que ꭍe tome nove dias em jenum
+em quantidade de huma oitava feita em pò, e miꭍturada com meẏo quartilho de caldo
+e grãos pardos. Em certo homem muito perꭍeguido de accidentes de pedra tem feito
+maravilhas a dita raiz, dando huma oitava della miꭍturada com meẏa oitava de bom
+almiꭍcar, desfazendo eꭍtas duas couꭍas em meẏo quartilho de agua cozida, e bem eꭍpremida com a erva chamada alꭍavaca de cobra, ou com a raiz da erva chamada Ononis, ou remora aratri, que em Portuguez ꭍe chama rilha boy.
+
+##      Arvore Angelica, e ꭍuas virtudes.
+  Esta arvore ꭍe cria no Certaõ, ou matos das terras da America, cujos frutos ꭍaõ tamanhos como huma ameixa pequena; he ꭍama publica, e conꭍtante que o pò deꭍtes
+fritos mata infallivelmente as lombrigas: tem admiravel virtude para as febres malignas, como conꭍta, pois ꭍe mandou huma pouca ao Senhor Rey D. Pedro II. por grande contraveneno.
+
+##      Meringanga, e ꭍuas virtudes.
+  He huma pedra artificioꭍa, que hum Gentio enꭍinou a fazer a hum Religioꭍo da
+Companhia de JESUS, em Goa, onde ꭍe conꭍerva a receita della: ferve contra
+os eꭍtillicidios, para o ꭍchirro dos moribundos, e para os que eꭍtaõ taõ apertados da garganta, que naõ pòdem engulir; conforta muito o eꭍtomago. He boa para ꭍciatica, e
+tem tantas virtudes para outras doenças; que ꭍe fazem incriveis; a quantidade em que
+ꭍe applica taõ de quatro grãos, atè ꭍeis em mel de abelhas, ou em marmelada.
+
+ 
+
+
+##  	Artequim, & ſuas virtudes.
+
+Artequim he hũa fruta comprida, do tamanho de hũa grande ameyxa faragoçana, tem
+quatro quinas; eſta ſe cria em certas arvores longe da India, & ſe traz a ella por
+#QL
+nego-
+
+||
+
+negocio para fazer tinta amarella, & em muytos ſeculos ſe naõ ſoube, que tiveſſe outros
+preſtimos, atè que Deos compadecido das novas doenças que os homens padecem, permittio
+que le descubrissem novos remedios com que ſe curaſſem. Muytos exemplos pudèra
+allegar em confirmação deſta verdade, baſte por todos o Artequim, do qual ſe deſcubrio
+que cura a lepra, & a todas as comichões deſeſperadas, ſem ſer neceſſario tomalla pela boca,
+o que ſe ſoube casualmente, porque vindo huma embarcaçaõ carregada de Artequins, ſe deytou algũas noytes hum leproſo paſſageyro, que vinha na meſma embarcação encoſtado
+ſobre ſacos cheyos de Artequins, & dentro de poucos dias ſe achou perfeytamente
+ſão: eu tenho eſta fruta para aos moſtrar a curioſos.
+
+## 		Páo Quiriato, & ſuas virtudes.
+
+Ralado em pò subtiliſſimo, & dado a beber em agua, he grande contrapeçonha, &
+contra mordeduras venenoſas.
+
+## 		Raiz de Monguz, & ſuas virtudes.
+
+Eſta raiz tomou o nome de hum animalejo, que tem a fórma, & corpo de hum foraõ;
+eſte coſtuma pelejar com as cobras, & tanto que ſe ſente ferido, larga a peleja, & vay
+buſcar a raiz, & maſtigando-a volta a continuar a briga, & aſſim ſe cura, & defende das
+mordeduras da cobra, atè que a mata, & o Monguz fica ſalvando a vida neſta fórma.
+#P ſerve moida em agua, & bebida, & poſta ſobre a mordedura, contra toda a outra eſpecie de veneno,
+& contra as febres, & dores Nephriticas; & fará muyto melhor os ſeus effeytos, ſe
+ſe der a beber depois que o doente tiver tomado tres onças de agua Benediɛta, ou ſeis grãos
+de Tartaro emetico.
+#P ſerve, trazida no braço junto à carne, para defenſivo dos bichos peçonhentos, & preparada
+em azeyte ſem ſal, ferve para curar inflammações, & boſtelas da cabeça.
+
+##  	Coco de Maldiva, & ſuas virtudes.
+
+Eſte coco naſce no fundo do mar, tem a fórma de rim, & naſcem na arvore dous pegados, a caſca negra, & o miolo com a caſquinha parda; he branco como o coco que ſe
+come, ou de branco para pardo; da caſca se fazem pucaros como barquinhas, com pès, &
+azas de prata para beber, porque he grande contraveneno; & os Mouros, & Gentios da
+Aſia fazem delles grande eſtimação: a onça deſte coco tem mais de dobrado valor da pedra
+Bazar.
+#P ſerve, preparado em agua, & bebido, contra todo o veneno, & para as febres, & para ventoſidades melancolicas, & para as obſtrucções; & he admiravel cordeal para as bexigas.
+#P  Tem virtude para abſorver os humores venenoſos, & circular o sangue, usando delle; &
+tambem faz grandes effeytos nas febres malignas, & nas febres procedidas de Pleurizes.
+
+## 		Coquinho de Melinde. ou Macoma, & ſuas virtudes.
+
+He fruto de huma arvore chamada Macomeyra, & tem huma caſca muyto dura: que
+ſe não corta ſenão com ſerra, he muyto felpuda, & dentro tem o coquinho, como coco
+de comer.
+#P  Applica-ſe contra as ventoſidades bebido em agua. Tambem ſe usa delle na meſma fórma
+contra os flatos, & para abater a colera, & confortar o eſtomago reſfriado, ou relaxado.
+
+## 		Raiz de Milhomẽs, & ſuas virtudes.
+
+Cria-ſe eſta raiz no interior do Certão do Braſil, & ſe applica contra toda a eſpecie
+de veneno, & ſendo os bichos peçonhentos, bebendo-a preparada em agua, & pondo
+os pos da raiz na ferida.
+ſerve
+
+||
+
+#P  ſerve, bebida na meſma fórma, contra febres malignas, & contra inflammações do figado,
+& bofe; os pòs preparados , & lançados nas chagas da grangrena, he remedio excelente,
+& curativo, poſta tambem a raiz da parte para onde querem que naõ corra a gangrena;
+uſa-ſe della para toda a enfermidade; & por ſer univerſal a ſua virtude, lhe deraõ o
+nome de Mil-homens.
+#P  Dado o pò deſta raiz em huma onça de agua ardente cura preſentaneamente as dores de colica, tem virtude vomitiva, & por eſta razão cura muytas doenças cõ grande felicidade.
+#P  Provoca vomitos, & por eſte caminho aproveyta em muitas enfermidades.
+
+## 		Raiz de Tambuape, & ſuas virtudes.
+
+Naſce na Bahia, & tem grande virtude contra veneno; preparada, & bebida em agua
+ſerve contra as dores de eſtomago, & lombrigas.
+
+## 		Batatas do Campo, & ſuas virtudes.
+
+Eſtas Batatas não ſe achão ſenão no interior do Certão do Braſil, aonde também ſe criaõ
+a Tambuape, & Mil-homẽs, & ſão raras.
+#P  A ſua virtude naõ he outra mais que hum finiſſimo contraveneno para as mordeduras de bichos peçonhentos, tomando a batata preparada com agua, & pondo-a na ferida.
+
+## 		Fava de Melinde, & ,ſuas virtudes.
+
+He excellente remedio (preparada em agua, ou em vinho, & bebida) contra mordexim,
+& contra dores do eſtomago, & do ventre. Tambem ſe applica para ventoſidades, & para quartans.
+
+## 		Raiz do Queijo, & ſuas virtudes.
+
+
+He eſta raiz muyto quente, & por iſto ſe applica às enfermidades; que procedem de trio. Eſta raiz se há de moer em pò ſubtiliſſimo, ou roçar em huma pedra com çumo
+de limão gallego, ou com qualquer outro, de forte que fique hum polme muyto liquido,
+& deſte polme ſe deytaõ cinco, ou ſeis gottas nos lagrimaes dos olhos: o qual remedio obra
+maravilhoſos effeytos nos accidentes de gotta coral, porque repentinamente tira o accidente
+& entra o enfermo em ſeu perfeyto juizo, como certamente me comſta.
+#P  ſerve o pò deſta raiz, miſturado com humas gottas de çumo de limaõ azedo, para o ar;
+mas há de deytarse dentro nos olhos, no meſmo dia que der o accidente, porque deſta forte
+nem irá o mal por diante, nem tornará a dar mais vezes.
+#P  Do meſmo modo ſe applica o pò da dita raiz para todo o genero de peçonha, affim como
+mordedura de cobra, ou de outros quaeſquer bichos peçonhentos, untando com o
+polme de tal raiz a parte onde o bicho mordeo; ſendo que o principal remedio he, tomar o tal pò pela boca miſturado com meyo quartilho de agua roſada, ou de eſcorcioneyra: & ſe
+a peſſoa, a quem mordèraõ os taes bichos, eſtiver tam deſacordada que pareça morta, façaõ-lhe
+tres, ou quatro ſarrafaçaduras entre as ſobrancelhas, ou na moleyra; & ſe deytar
+ſangue, untem-o muyto bem ſobre a mordedura, & com o favor Divino tornará em ſi, & vivirà.
+#P  ſerve mais para aſſombrados, & endemoninhados, & a eſtes se applica para que ſe và o
+Demonio, porque não há de eſperar que ſe lhe deyte em olhos quatro vezes.
+#P  ſerve o polme deſta raiz, feyto com çumo de limão azedo, & deytado nos lagrimaes, para
+deſpertar os bebados.
+#P  ſerve tambem para madurar, & fazer vira furo os apoſtemas, untando-ſe aquella parte
+que quizerem que arrebente, com o polme da dita raiz.
+#P  ſerve para a dor de enxaqueca, feyta a raiz em pò, & tomada pela venta contraria onde eſta a dor, como ſe toma o tabaco.
+#P  ſerve para fazer vir a regra ás mulheres, & para os accidentes da madre, chamados uterinos,
+a que as mulheres ignorantemente dizem que lhes ſubio a madre á garganta, & que
+as afoga.
+ſe com
+
+||
+
+#P  ſe com o pò deſta raiz miſturarem outro tanto pò de gengibre, & meterem huma p onça
+deſta miſtura pelas ventas do doente que tem modorra, infallivelmẽte acordará do ſomno,
+& eſpirrará; & ſe nem acordar, nem eſpirrar, he final de morte.
+#P  ſocorre grandemente àquellas peſſoas, a quem ſe deo algum veneno, pondolhe o pò da
+tal raiz nos olhos com çumo de limão, & darlhe tambem a beber huma pouca quantidade
+della.
+#P  Aproveyta muyto aos camarentos, com tal condição, que não ſe applique nos primeyros dias das camaras, porque as pòde eſtancar logo, & não he ſegura reprezar logo os humores,
+mas convem deyxar deſcarregar a natureza.
+#P  ſobre todas as virtudes da raiz do Queijo, a que leva a palma, he que acorda aos doentes,
+que tem modorra, ou ſomno tão profundo, que não ſentem as ventoſas farjadas; no qual calo o pó ſubtil da raiz do Queijo, miſturado com tantas gottas de limão azedo, que fique
+hum polme, deytado eſte nos lagrimaes dos olhos, os acorda de ſorte que ficão capazes de
+ſe confessar, & fazer reſtamento; mas porque nem em todas as terras ſe acharà a raiz do
+Queijo, quero, em ſocorro dos que tiverem ſomnos peſadiſſimos, enſinarlhes outro remedio
+facil, com que certa, & infallivelmente acordaraõ, & não poderaõ tornar a dormir,
+ſem tomarem amendoadas. O remedio he, dar ao doente por tres dias em jejum quatro onças
+de infuſão dos trociſcos de Alandal, coada por papel mataborraõ. Os que quizerem
+certificarſe da quaſi milagroſa virtude que eſte remedio tem para vender todas as modorras,
+& affeɛtos ſoporoſos, vejaõ a minha Polyanthea da terceyra impreſſão trat. 2 cap. 15.
+pag. 105. num. 14. aonde acharaõ nomeados os doentes, que depois de eſtarem ungidos, &
+pranteados por cauſa de modorras invenciveis, livrey da morte com o ſobredito remedio.
+#P  Peço pelas chagas de Chriſto a todos os Medicos que não deſprezem a eſte remedio,
+que no diſcurſo de cincoenta & oito annos ainda não achey outro taõ efficaz para vencer as
+modorras como he a dita infuſaõ.
+
+## 		Raiz de Ginsão, & ſuas Virtudes
+
+Eſta raiz vem da China, & ſe faz della grande eſtimação; tem virtude contra febres agudas,
+& querem que ſeja tomada cozida com frangão, para aquelles enfermos que
+eſtão nos últimos paroxiſmos.
+#P  Mas a razão diz, que tomada pequena porção em agua da fonte, & bebida no meſmo caldo
+de frangão, ou franga, he admiravel remedio para qualquer enfermo proſtrado, deſfalecido,
+ou eſtalfado. Ajuda muyto aos faſtientos, porque lhes excita o appetite de comer.
+
+## 		Raiz de Moçuaquim, & ſuas virtudes.
+
+Eſta raiz ſe cria na coſta de Moçambique defronte das Ilhas de Querimba; he ſingular,
+porque as ſuas virtudes ſão de contacto.
+#P  Trazida ao peſcoço cahida ſobre a carne, preſerva de toda a eryſipela na cara, & de todo
+o genero de maleficios, & do ar; & ſulprende a eryſipela, poſta da parte para onde não querem
+que corra.
+
+## 		Aranhas do Peru, & ſuas virtudes.
+
+No Peru, ou Indias de Caſtella há humas aranhas muyto grandes, taõ venenoſas, &
+peçonhentas, que em breves horas matão as peſſoas a quem mordem. O remedio
+mais certo, & infallivel, que ſe tem achado contra hum veneno taõ preſentaneo, he untar
+a mordedura cinco, ou ſeis vezes cada dia com o leyte que deytar de ſi huma folha de figueyra
+daquellas terras, cortando-a com huma faca. Digo, figueyra daquellas terras; porque
+tendo as taes figueyras muy ſemelhantes, & parecidas com as de Portugal, differem
+com tudo, em que as de Portugal perdem as folhas tanto que chega o Inverno; mas as do
+Peru as comſervão verdes todo o anno; o que tem duvida foy altiſſima providencia de
+Deos; porque como o leyte das ſuas folhas he o total remedio das taes mordeduras, quiz
+Deos que todo o anno as ouveſſe para ſoccorro dos homens, & remedio das ditas mordeduras.
+Pào
+
+||
+
+## 		Páo de Angariani, ſua ſemente, & ſuas virtudes.
+
+Eſta arvore ſe cria em o Reyno de Angola: o páo da dita arvore, & os frutos; que ſaõ
+hũs caroços compridos como caroços de tamaras, tem grandiſſima virtude para provocar
+a ourina, & para deſfazer a pedra dos rins, & da bexiga; alimpa todas as difficuldades,
+& humores feculentos, que ſe criaõ nas ſobreditas partes, deytando-os pelas ourinas. Tem
+muyta virtude na cura das hydropeſias, de qualquer caſta, & confição que ſejão.
+#P  O modo de uſar deſte páo ou frutos, para que façaõ o bem que ſe pertende, he o seguinte.
+Duas oytavas deſte páo limado, ou feyto laſquinhas miudas, ſe deytaráõ em huma panela
+de barro com huma canada de agua da fonte, & ſe deyxaráõ eſtar de infuſaõ por tempo
+de vinte & quatro horas, no fim das quaes ſe ferverá de modo, que de quatro quartilhos
+fiquem tres, & deſta agua coada daráõ ao doente meyo quartilho em jejum, & outro ao ſol
+poſto, não comendo nem bebendo couſa alguma, menos que tenhaõ paſſado tres horas;
+advertindo, que para eſte remedio fazer os grandes proveytos que coſtuma nas ſuppreſſões
+de ourina, deve o doente ter tomado primeyro dous vomitorios de Tartaro emetico, ou de
+caparroſa branca, ſangrando-ſe no ſeguinte dia quatro vezes, & no terceyro tres; porque
+eſte caſo he taõ perigoſo, & ſummario, que ſe lhe não acodem com grande preſſa, mata
+dentro de oyto, ou nove dias. Eu tenho huma tam grande crença, & experiencia dos vomitorios
+de Tartaro emetico, ou de vitriolo branco para remedio das ſupreſſoens, ou tejaõ
+altas, ou bayxas, que os anteponho, & uſo primeyro que as ſangrias. Advirto que ſe
+eſte remedio falhar, que eu tenho hum ſegredo taõ maravilhoſo, que tornarey o dinheyro,
+que me derem por elle, ſe dentro de quatro dias não fizer o effeyto deſejado; mas com
+tal condição, que o doente tome primeyro que tudo os vomitorios de Tartaro emetico,
+ou de Quintilo, & oyto ſangrias nos braços; os que quizerem certificarſe da verdade, &
+virtude do dito remedio, vejão a minha Polyanthea da terceyra impreſſão trat. 2. cap. 83, fol.
+488. de num. 37. atè 49. aonde acharàõ nomeadas as peſſoas que eſtando ungidas, & tidas
+por incuraveis, livrey de ſuppreſſoes altas por mercè de Deos, & beneficio do meu ſegredo.
+
+ 
+24
+
+
+##  Do Unicorne que a Ave Inbuma, ou Anbuma tem na reſta, e do eſporaõ triangular que tem no encontro das azas, e ſuas virtudes.
+
+Nas lagoas, e Rio de Saõ Franciſco das capitanias do Braſil andaõ humas aves, a
+quem os Naturaes chamam Anhuma, ou Inhuma, tem as ditas aves na reſta hum
+corno delgado, da groſſura de hum bordel de arpa, e do comprimento de quaſi hum pal
+mo; e nos encontros das azas tem hum eſporaõ triangular do comprimento de hum dedo
+taõ duro como ſe fora hum oſſo: eſtes eſporoens, e corno da reſta da dita ave tem maravilhoſa virtude bezoartica contra todo o veneno, e contra toda a malignidade dos humores, chamando-os por ſuor de dentro para fòra, com tanto, que te deve dar hum eſcrupulo do dito eſporaõ, ou corno feito em pó, miſturado com quatro, ou cinco onças de agua
+de cardo ſanto, ou de eſcorcioneira.
+
+
+He remedio muito celebrado naõ ſó contra todos os venenos, mas he infallivel remedio para os mordidos da cobra de Caſcavel, cujo veneno he tam refinado, e activo, que
+no meſmo inſtante em que a dita cobra mordeo em qualquer parte, faz ſahir todo o ſangue do corpo, aſſim pela boca, como pelos olhos, pelos ouvidos, pelo cano da ourina, pelo
+nariz, pelas unhas, e pelo trazeiro; aſſim o moſtraõ as experiencias de Guilherme Piſaõ
+Llib.3.hiſtor.natur.ſect.2.de Avibus 𝑓ol.9I.Soube.ſe da grande virtude do unicorne da ave
+Inhuma, porque bebendo naquellas lagoas varios bichos venenoſos, o inſtincto natural
+enſinou aos animais que vivem naquelles contornos, que ſe ajuntaſſem todos ao pè daquelle rio, e naõ bebeſſem tem que a ave Inhuma meteſſe primeiro a ſua ponta, e eſporaõ das azas na dita lagoa, mas depois que a mete, bebem todos confiadamente, ſem
+que corraõ perigo.
+
+
+E ſe algum dia acontecer que a cobra de Caſcavel(que he venenoſiſſima) morder algúa
+peſſoa, e naõ tiver o unicorne, ou eſporaõ das azas da ſobredita ave Inhuma, pode tomar
+hum pouco de pò da raiz da ſerpentaria virginiana, que na opiniaõ de Roberto Boile, e
+de outros Authores graves, he o mayor de todos os antidotos contra eſtas, morde-
+
+
+duras
+||
+25
+
+
+ duras venenoſas; e na falta de qualquer deſtes dous antidotos, ſe pòde tomar hum pouco
+de eſterco da meſma peſſoa mordida, porque ſem embargo de que he remedio horroroſo , he admiravel , como tem moſtrado a experiencia dos que foram mordidos da dita
+cobra , ou de qualquer outro bicho peçonhento.
+
+
+
+
+##   Famvarandim, e ſuas virtudes:
+
+ Na Bahia; ou em Pernambuco naſcem humas raizes delgadas; ē compridas; que ōs
+naturaes daquellas terras chamam Jamvarandim, cuja virtude he milagroſiſſima
+contra todas as mordeduras de animais venenoſos, pisando-a, ou verde, ou ſeca, e pondoa ſobre a parte mordida; provoca muchiſſimo as ourinas; faz cuſpir muito maſcando-as
+he grande contraveneno, e tem outras infinitas virtudes, que pouco a pouco ſe vaõ deſcobrindo com o tempo.
+
+##    Da tinta negra, que vem da China, chamada Dolanquim, que roçando-a
+levemente com agua commua, faz huma tinta muito mais excellemnte
+que aquella, com que eſcrevemos em Portugal.
+
+
+ Da China vem para a India humas talhadinhas negras, eſtreitas, e chatas, do compriMmento de hum dedo, das quaes huma ſa-o douradas, e outras naõ; cujo preſtimo
+ordinariamente he para ſervirem de tinta para eſcrever; porèm tem outra ſerventia taõ admiravel, que todo o dinheiro do Mundo he pouco para ſe pagar; porque quando os
+olhos ſe esbugalhaõ, de ſorte que parece querem rebenrar, e ſaltar fora do roſto, faz a tal
+ainda hum  effeito tam eſtupendo, e milagroſo, como eu vi em huma filha de Caetano de
+Mello de Caſto Viſo-Rey da India. Deu a eſta menina huma dor tam repentina em o
+olho direito, que de improviſo inchou, e ſe fez tamanho como huma laranja, e quando
+todos temiaõ que o olho rebentaſſe, pela grandeza a que tinha creſcido a inchaçaõ, ſe
+ſulou huma migalha da dita talhadinha em hum didal de agua da fonte, e com eſta agua;
+ou polme negro ſe untou a palpebra de cima, e de baixo; e foy couſa como de encanto
+porque em duas horas ſe desfez a inchaçaõ, e a vermelhidaõ, e ſarou por modo de milagre. He ſuperior remedio para eſtancar todos os fluxos de ſangue do peito, miſturando-a
+em agua de ſanchagem, de ſorte que fique a agua bem preta, e groſſa como polme. Eu
+fuy teſtemunha deſte ſuccedeo na inchaçaõ do olho.
+
+
+
+##   Raiz da Maranga, e pao da meſma arvore, que tem ſemelhante virtude como tem a ſua caſca.
+
+
+Serve para curar todas as feridas penetrantes, ou ſejaõ de armas, ou de balas; applicada na fórma ſeguinte.
+
+
+Farſeha em pò ſe formará huma mecha, como ſe uſa na Cirurgia, e molhada eſta com a ſaliva, ſe pulverizarà deſtes pòs, e ſe meterá nas feridas; porèm a advirta-ſe que a mecha ha de ſer do tamanho, e comprimento da meſma ferida, para que a penetre toda, e pelo contrario ſe ſolaparà, porque tem tal virtude, que logo fecha; e em cada cura ſe irà diminuindo a mecha, dandio lugar a que creſça a carne; e com
+eſta cura ſe eſcuſaõ outros medicamentos; e ainda que a ferida tenha ſangue pizado, não
+ha miſter mais medicamento que os meſmos pòs, os quaes conſomem, e eſpalhaõ todo
+o ſangue pizado que tiver a ferida; e ainda que ſeja penetrante, e no peito, depois della
+fechada naõ ha miſter lambedores, nem mais remedios.
+
+
+ Serve mais para curar toda a chaga velha, e rebelde, ainda que haja miſter cauterizada, applicando-ſe à chaga os pòs da dita caſca, e todas as vezes que ſe curar, ſe lavarà a chaga com agua morna, e depois pulverizarà muito bem com os ditos pòs; e
+também cortaõ todos os labios da chaga, e carne podre, que fica como cauterizada
+dando alguma moleſtia com o ardor, que naõ dura mais que meya hora.
+
+
+He tambem efficaz remedio com ella, e ſem ſal, nem tempero algum, ſe darà o caldo a beber ao
+enfermo pela manhãa em jejum, e de tarde, e brevemente ſararà.
+
+
+C     Tam-
+||
+26
+
+
+Tambem he proveitoſa a dita cura para dor de olhos; e ainda que ſeja com grande
+detrimento do enfermo pelo grande ardor que cauſa, aproveita muito applicada na
+fórma seguinte. Mandaraõ maſtigar a caſca por qualquer peſſoa de manhãa em jejum antes de lavar a boca, e depois de bem maſtigada, a peſſoa que maſtigou, baſejará com
+a ſua boca nos olhos do enfermo repetidas vezes, e continuando todos os dias com eſta
+ccura , brevemente ſentirá melhoria.
+
+
+Tem propriedade a raiz, e pao deſta arvore para affuguentar todas as cobras, e viboras, e quem a trouxer comſigo eſtá iſento de que o offendaõ os taes bichos, porque em
+lhes dando o faro, ou cheiro daquella arvore, logo fogem.
+
+
+Para as cutiladas abertas ſe applicaõ os meſmos pòs com a cautela que fica dito, calcando bem a ferida, para que os pòs cheguem ao fundo della; porque ficando alguma
+parte a que os pòs naõ cheguem, ſolapará logo de tal maneira que ſerá neceſſario tornar
+a abrir a ferida, por ſer tal a ſua virtude, que logo cria carne nova, com que ſe une, e
+fecha a ferida.
+
+##   Raiz das febres, que vem do Canará, e ſuas virtudes.
+
+
+
+Chamaõ os Portuguezes a eſta raiz, Raiz Preſta, e hoje por devoçaõ ſe chama Raiz
+de Noſſa Senhora das Febres, e aſſim ſerve para todo o genero dellas, que padece
+o corpo humano, mas para a maligna tem mais eſſicacia, e a ſara em breve tempo ſem
+algum outro medicamento; porèm ſe ha de advertir, que ſe o enfermo e eſtiver abundanre de ſangue, depois de tomada a dita raiz tres vezes, fica huma febreſinha lenta, ſinal
+de haver ſangue demaſiado nas veas, e aſſim depois de tomada por tres dias cononuos:
+he bom tomar algumas ſangrias, e depois alguma purga conforme o temperamento do
+ſogeito; e ſe a quizer eſcuſar, continue com a meſma raiz, e terá perfeita ſaude; mas
+ſe a febre proceder de abundancia ſó de humores, ſem duvida ſe deſpede ſó com a primeira vez que ſe toma a dita raiz; mas ſempre he neceſſario tomalla tres vezes ao menos ; e aſſim tendo malignas, ou terçãs ſimplices, ou dobres, ou continuas, ou quartãs;
+infallivelmente ſe deſpediraõ; advertindo, que ſe houver obſtrucçoens grandes, coBres, depois he neceſſario preparar ao doente com xaropes aperientes, e depois diſſo
+algumas apozemas de raizes freſcas com couſas purgativas, a fim de ficar o ſogeiro com
+mais perfeita ſaude, e mais iſento de tornar a adoecer.
+
+
+Advirta-ſe, que ſe eſta raiz ſe der para quartans, deve ſer depois dellas continuarem
+dous, ou tres mezes, que he quando o humor de que ellas procedem, eſtará já cozido:
+e ſe as quartans forem dobres, ou vierem todos os dias, que he ſinal de muita carga de
+humor corrupto, neſte ſe dará a raiz repetidas vezes em varios dias, porque deſte modo
+ſe tem viſto com ella admiraveis effeitos.
+
+
+A quantidade que ſe dá de cada vez, he hum pedaço como meyo palmo; naõ ſendo a
+raiz muito groſſa, nem muito delgada; eſta he a quantidade ordinaria para qualquer ſogeito, que virá a pezar oitava e meya; e eſtando o doente no principio da enfermidade
+em o qual tempo naõ faltaõ forças, ainda que pareça aop doente eſtar fraquiſſimo, como
+ſuccede nas malignas, em que ſe poſtraõ, ao que parece, as forças, havendo-as em o
+corpo baſtantes, ſe podem dar atè duas oitavas por cada vez, para obrar bem.
+
+
+Moe-te a dita raiz muito bem em pedra, eſtando primeiro por algum tempo de molho em outra agua, e aſſim ſe moa em água de beber; ou ſe o ſogeito eſtiver muito facil em evacuar, ſe moa em terceira agua, em que lavaõ arroz, e aſſim moida, e muito
+bem encorporada ſe desfarà em quatro onças de agua; mas havendo ſede, ſeja a ſuffiCiente, com que a natureza ſe ſatisfça, e depois de lançada a raiz moida com eſta agua,
+ſe paſſará manſamente para outra porçolana duas, ou tres vezes, para que ſe bote fóra
+alguma parte da raiz que naõ ficou bem moida.
+
+
+O tempo ordinario he dalla pela manhãa, como outra qualquer medicina; mas a experiencia tem moſtrado que dada quando a cezaõ quer começar a declinar, em tanta
+agua como eſta dito, conforme a ſede do enfermo, faz prodigioſos effeitos; eſte he o
+melhor tempo para o ſeu bom ſucceſſo.
+
+
+Tambem ſe pòde dar eſta raiz, e ſangrar no meſmo dia, ſendo neceſſario; com advertencia, q [-] dando-ſe a raiz pela manhã, terà a ſangria às nove horas, ou de tarde; advertindo tambem, que ſe a raiz tiver obrado muito, neſte caſo naõ convem a ſangria no meſmo
+
+
+dia,
+||
+27
+
+dia; porque he final de muito humor; mas deſcançando o doente, ſe tornarà a dar a
+meſma raiz em menos quantidade, e ſempre da primeira vez ſe darà mais, que he atè
+duas oitavas, e as mais vezes ſe dà huma oitava.
+
+
+O regimento de quem toma eſta raiz, he o commum em todas as doenças: nos principios dietas commuas: e os Portugueses podem comer frangrãos pequenos cozidos.
+  He tambem excellente eſta raiz para aquella doença, em que a lingua ſe faz negra,
+ou amarella.
+
+
+
+##   Raiz dos Apoſtemas, e ſuas virtudes.
+
+
+
+Serve para reſolver toda a ſorte de apoſtemas, aſſim ſimplices; como compoſtos, interiores, e exteriores, e para toda parte a ſorte de naſcidas, mulas, e carbunculos; ſerve
+tambem para pizaduras de ſangue, por cauſa de quedas, ou pancadas.
+
+
+Serve para Pleuriz, e toda a ſorte de pontadas de ſangue, e para todos eſtes achaques
+ſe applica na fórma ſeguinte. Tomar-tcha eſta raiz, e ſe farà em migalhas quantidade
+ de duas onças pouco mais, ou menos, e ſe botarà a cozer em huma panelinha nova,
+que naõ tenha azeite, ou gordura alguma, e ficando a agua deſte cozimento da cor de
+vinho tinto, ſe deitarà huma pouca de farinha de arroz, e ſe cozerà atè que fique em
+ponto de amendoada, e ſe darà a beber ao enfermo, que padecer qualquer dos achaques
+acima apontados, tres vezes no dia, pela manhãa, ao meyo dia, e de tarde ; e eſta farinha ſe manda deitar a reſpeito do muito aſco que tem a raiz; e quem puder beber o cozimento aſſim meſmo, ſe pòde eſcuſar a farinha; e na agua que o enfermo beber, ſe deitaraõ humas migalhas deſta raiz a modo de infuſaõ: e ſe o apoſtema, ou outra qualquer
+naſcida eſtiver ainda em ſangue, ſe reſolverá em termo de vinte e quatro horas, e ſe
+eſtiver na materia feita, ſe reſolvera em termo de tres, ou quatro dias; e ainda que ſe
+reſolva com eſta brevidade, bom he continuar dous annos, quando menos hum , e  a razaõ he, porque naõ torne a acudir o humor ao meſmo lugar, ou a outra parte: e advirta-ſe tambem que depois de ſe reſolver o apoſtema, ou outra qualquer naſcida, daraõ
+duas ſangrias nos pès ao enfermo, e huma purga refreſcativa, para que deſpeça todo o
+humor, e malignidade, que a raiz tiver arrancado da parte donde tinha o apoſtema.
+ Serve tambem para o baço, dado na fórma ſobredita.
+
+
+
+##   Raiz’ do Ar, e ſuas virtudes.
+
+
+
+Moida com agua, e depois de morna ſe untará o corpo da peſſoa que tiver o ar;
+e tambem ſe farà huma manilha, ou braçal de alguns pedaços, e ſe atarà no braço, ou em outra qualquer parte do corpo, e trazendo-a comſigo tira a tortura que o ar
+faz na peſſoa..
+
+
+Serve tambem para febres, moida com tanta quantidade de agua; que baſte para lavar todo o corpo na fórma de esfregaçaõ, e depois de bem lavado ſe cubrirá muito bem
+com roupa baſtante, e ſuando deſpede logo a febre.
+
+
+##   Arvore Quiriato,  e ſuas virtudes.
+
+
+Esta arvore, a qual chamaõ Quiriato, ou por outro nome Fucamena, he pequena,
+as ſuas folhas ſaõ do tamanho de hum palmo, de mediana largura, e creſpas a modo de folhas de Cajueiro: a raiz deſta arvore tem particular virtude para tirar dores de
+cabeça, ou ao menos para as moderar; dela ſulada com agua ſe faz hum polme, que
+applicado ſobre a reſta, e fontes da cabeça faz bem ao que tem dores de cabeça, com
+tal condiçaõ, que eſte polme ſe repetirà muitas vezes, naõ conſentindo que ſe ſeque.
+ 
+
+
+##  Oleo de Alambre, e Suas virtudes.
+
+COm razaõ ſe pòde chamar eſte oleo o mais excellente opobalſamo por toda a Eu -
+ropa, porque leva vantagem a todas as outras medicinas no curar o mal do ar, e
+outros grandes achaques: chamava-te no tempo antigo o Oleo Santo.
+
+Tomado o dito oleo no tempo de peſte, todas as manhãas, e noites, ſeis gotas, e un
+||
+
+tando as ventas do nariz com elle, naõ conſente pegarſe veneno dos ares maos; e ao
+que eſtiver já tocado deſte mal, ſe lhe de a beber em agua de cardo ſanto, de hum até
+dous eſcrupulos.
+
+Quem ſe ſentir com grandes fraquezas perigoſas da cabeça, como he o ar, paralyſia,
+gotta coral, &c. tome pelas manhãas em jejum oito gotas deſte oleo em agua cozida
+com betonica, ou com alfazema, ou mangerona. Tambem feitos huns bolinhos de aſſu -­
+car, miſturado com humas pingas deſte oleo, tem a meſma virtude. E tendo caſo que
+huma peſſoa eſteja jà tocada deſtes males do ar, de paralyſia, ou de outras grandes enfer-­
+midades, naõ ha remedio melhor que tomar duas pingas deſte oleo. Untando com elle
+as ventas, fontes da cabeça, e ajunta do cachaço tira logo os ditos males, e ſe cobra o
+brazas, e tomar eſte fumo pelos narizes, livra aos que eſtaõ jà tocados do dito mal.
+
+Tomadas algumas pingas deste oleo em agua de ſalſa, alimpa a via das ourinas como de pedra e outras imunducias.
+
+Sara os membros encolhidos, as veas, e membros apoderados da cambra, untando-os
+com eſte oleo, miſturando alguns unguentos pertencentes a iſſo.
+
+Hum eſcrupulo, ou meyo deſte oleo, tomado em agua de artemiſia, applica o parto
+às prenhadas.
+
+Tambem cura os corrimentos frios da cabeça, e alenta as ourinas.
+Untando com eſte oleo as ventas, e o coração, tira as grandes dores da madre; co-­
+mo tambem feitos huns bolinhos de aſſucar miſturado com eſte oleo, e tomado algu­-
+mas vezes.
+
+Tambem he bom para grandes fraquezas, e ancias do coração.
+
+Naõ fortifica ſó as forças do coração, ſenaõ tambem as aguas; e o figado, e tem
+grandes forças para fazer digerir o comer do eſtomago.
+
+Tomadas tres pingas deſte oleo em agua de cardo ſanto, logo pouco antes que dè o­
+paroxismo, ou antes que queiraõ vir as maleitas, e ſuando muito bem ſobre iſto, ſara,
+e as tira logo.
+
+He bom para catarro, e corrimentos.
+
+He bom para dor de dentes cauſadas de corrimentos, tomado em agua de tanchaª
+gem, e gargarejando com elle.
+
+He bom para tericia, tomado em agua cozida com folhas de morangos, ou com raiz
+de grama.
+
+He bom para a colica, tomado hum eſcrupulo, ou meyo em caldo de gallinha.
+Para dores da madre, tomadas ſete, ou oito pingas em agua de herva cidreira, ou de
+flor de laranja.
+
+Para fazer deitar as pareas, quando naõ querem ſahir, tomar ſete, ou oito pingas em
+agua de artemiſia, ou de ſabina.
+
+Para o menſtruo que naõ quer vir, tomar ſete, ou oito pingas em agua de herva ci-­
+dreira, ou em agua cozida com artemiſia, ou com herva montã.
+
+Serve para os que coſpem, ou vomitam ſangue, tomando tres pingas em agua cozi-­
+da com folhas de ſalſa bem pizada.
+
+Serve aos que lhes foge o lume dos olhos; e ficam como atordoado, e tira o empa-­
+chamento das aguas.
+
+Fortifica muito a viſta, tomando por muitos dias em jejum huma chicara de agua
+cozida a fogo lento com meya onça de raizes de valeriana, deitando quatro pingas do
+dito oleo em cada chicara da dita agua. A quantidade que ſe da por cada vez deſte oleo,
+he de quatro, ſeis, ſete, ou dez gotas, conforme a compreiçaõ, e forças do doente.
+
+Eſtes ſaõ os remedios, que mais ordinariamente nos mandaõ da India, e de outras
+terras do Mundo, e de que temos algumas noticias; mas porque todas ſaõ em confuſo,
+e pouco seguras, trabalhey por examinar os verdadeiros preſtimos dos ditos ſimplices,
+para que com melhor ſegurança pudeſſemos uſar delles; queira Deos que os effeitos ſejaõ taõ bõns, como he o deſejo que tenho do geral aproveitamento.
+
+||
+
+##  Oleo Tranquillo, Suas virtudes, e qualidades.
+
+HE hum eſpecifico remedio para todas as eſquinencias, e toda a dor; e inflamaçaõ de garganta, e as faz abrandar dentro de hum quarto de hora, fomentando a
+garganta com elle morno. Abranda, e applaca as dores, e todos os tumores, que cauſaõ
+inflamaçaõ. He maravilhoſo para a inflamaçaõ dos olhos, pondo-ſe com tiras de pano
+á noite quando ſe vay deitar; he muito bom para toda a caſta de chagas, applicado
+ſobre fios de pano: he ſingular, e incita a quem naõ póde dormir applicado nas fontes
+he maravilhoſo para as almorreimas, e faz aplacar as dores d’ellas, e deſeca as ſuas humidades, eſfregando com hum bocadinho de algodaõ molhado no dito oleo morno: he
+tambem ſoberano para todas as colicas ventoſas, e beliolas, ou enchimento do eſtomago,
+e para toda a caſta de dor de ventre, applicando-o morno ſobre o ventre, fazendo huma
+fomentaçaõ como nas eſquinencias, e tomando huma ajuda purgativa, e carminativa,
+ajuntandolhe meya onça do dito oleo: tambem o louvarão para os Pleurizes, e fluxo de
+ſangue, e do ventre, fazendo huma ajuda de caldo de gallinha, ou de cabeça de carneiro,
+lançandolhe dentro huma onça do dito oleo. He admiravel para as dores de cabeça, fazendo huma liga, a qual enchereis de miolo de paõ de centeio amaçado, ou miſturado
+com o dito oleo, e poſta ſobre a teſta: tem outras muitas mais virtudes, que não publico por não ſer enfadonho aos leitores.
+
+##  Ponta da Abbada, e Suas virtudes.
+
+SErve o pò para deſta ponta tomado em quantidade de meya oitava para matar lombrigas,
+com tal condição, que ſe tome cinco dias em jejum deſfeito com agua cozida de
+grama, ou de codeço: a agua em que eſta ponta eſtiver metida hum quarto de hora, e bebida alegra o coração, e modera a ſede: para eſquinencias, e para parotidas, he grande
+remedio untar as taes partes com o polme que ſe fizer com eſta ponta, e repetindo eſta diligencia muitos dias: aos que padecem palpitações de coraçaõ, conhecem grande alivio
+bebendo a agua que eſtiver hú quarti de hora dentro de hum copo da ponta da Abbada.
+
+##  Raiz da Minhaminha, ou Quiminha, e suas virtudes.
+
+TEm eſta raiz tão preſtençante virtude contra veneno, que iguala, ou excede o paõ
+Cobra, o que experimentou hu Cirurgião eſtrangeiro, chamado Monſieur Eſtruque: deu roſolgar a duas galinhas, e depois que tiverão roſolgar no eſtomago, cahiraõ como mortas, e dando a huma dellas a Minhaminha miſturada com agua, e dando a
+outra o paõ Cobra com animo de experimentar qual deſtas raizes tinham mais virtude
+contra o veneno, oſervou ver que ambas eſcaparão da morte.
+
+Outro Cirurgião Flamengo, chamado Alexandre, quiz examinar a virtude da Minhaminha, e para iſſo deu ſolimaõ a hum cachorro Cobra, e depois de cahido deu
+a beber ao caõ a agua em que ſulado a Minhaminha, e ſe levantou, como ſe não
+tivera tomado a tal peçonha. Eſtas arvore naſce nas partes da Embaça, he huma mata
+pequena, que não faz tronco; mas cria umas vergotinhas, delgadas que naſcem da
+raiz, do comprimento de hum covado pouco mais, ou menos; a folha he pequena, e faz
+tres pontas: tem eſta raiz huma qualidade  taõ rara, que ſe com ella lhe miſturarem outras raizes, ficaõ ſem força, nem virtude alguma, porque a Minhaminha lha chupa toda,
+e por iſſo lhe chamaõ Minhaminha, porque na lingua de Angola Minhaminha, quer
+dizer engole, porque engole a virtude das outras: ou porque engole o veneno que acha
+no eſtomago, e o faz deitar fóra, e ſe o naõ acha, naõ faz mal.
+
+##  Raiz de Mutututu e as Suas virtudea
+
+NAs terras de Angola ha huas arvores a que os Gentios chamaõ Mutututu, ſaõ ditas arvores muito parecidas com o noſſo Medronheiro, aſſim nas folhas, como nos
+frutos, ſem embargo que os taes frutos, nem ſe comem, nem tem goſto; porém a raiz deſta
+arvore tem grandiſſima virtude para eryfipelas, e inflammaçoens dos teſticulos, e de
+outras.
+
+||
+
+noras partes: fulada em pedra com água ordinaria até fazer polmé, e applicado morno
+ſobre a eryfipela, e parte inflammada, ou doloroſa, lhe faz grandiſſimo proveito, com
+tal condiçaõ, que não ſe deixe ſecar o dito polme, antes continue o dito remedio em
+quanto a doença o pedir: muitos uſão deſte polme para moderar as dores de gotta quente: do polme ſobredito ſe fazem ajudas maravilhoſas para as camaras de ſangue, ou outras muito quentes.
+
+##  Búcho da Ema,suas virtudes.
+
+No matos do Maranhaaõ, e no grão Pará ſe criaõ, e vivem humas aves, a que chamão Ema, cujo corpo, e grandeza he mayor que o mayor Perum: a tunica, ou
+membrana interior do bucho deſta ave tem grande virtude para contornar o eſtomago,
+e deſfazer a pedra da bexiga, e fazer ourinar, dando huma oitava do tal bucho feito em
+pò, miſturado com meyo quartilho de vinho do Rhim, ou em meyo quartilho de agua
+cozida com meya onça de Virga aurea, ou de Froca marinha, ou de cerfolio; mas he
+neceſſario que o doente tenha primero que tudo tomado hum vomitorio de ſeis grãos
+de Tartaro emetico, ou de meya oitava de caparrofa branca, e ſe tenha ſangrado nos
+braços noves vezes dentro de tres dias: os que com eſta preciſa preparaçaõ derem eſte
+remedio, conſeguiraõ maravilhoſos proveitos nas supreſſoens da ourina.
+
+##  Pao do Muhamgo, e Suas virtudes.
+
+O Mubamgo he huma arvore agreſte, cuja caſca he branca, a folha de huma parte
+he branca, e de outra verde como a folha do alemo, he comprimidinha, e quaſi de
+tres dedos de largo; cheira eſte pao muito, ja quando eſtà florido, e alguem entra pelo
+mato onde eſta a dita arvore, deita ſi de hum cheiro delicioſiſſimo: o pao deſta arvore
+he branco; a raiz roçada de forte que faça hum polme, tem grande preſtimo para as partes paraliticas offendidas do ar, untando-as com elle quente, bebendo tambem deſte
+polme couſa de meya colher; tambem ſe dà a beber aos que tem camaras de frio, e ſe
+deitaõ ajudas delle para o meſmo intento.
+
+Feita eſta raiz em pó, e tomada como tabaco faz eſpirrar tanto, ou mais que a fevadiliha, e uſado deſte modo aproveita muito às mulheres, quando eſtão affaltadas com
+com os accidentes da madre. Eſte pão naõ falta no mato da Embaça, de Cafange, e em outras partes.
+
+##  Linguas de S. Paulo, e Suas virtudes
+
+EStas pedras, que verdadeiramente tem o feitio de huma lingua de paſſaro, eſaõ
+pardas de cor de azeitonas de Elvas, achão-ſe nas terras de Maltas, tem grande
+virtude contra as febres malignas, e qualquer outras porque feitas em pó ſubtiliſſimo
+mitigaõ muito o demaſiado calor das febres, aliviaõ as ancias, e algumas vezes provocaõ ſuor; atribuem-lhe muitas peſſoas grande virtude contra o veneno, porque conſta
+de algumas experiencias, que dando-ſe veneno em certa iguaria de que comeraõ quatro.
+peſſoas, eſtiveraõ todas quaſi mortas, e acodindolhes com o pò deſtas pedras, eſcaparaõ:
+o que eu poſſo certificar como teſtemunha de viſta, he, que eſtando huma mulher ungida por occaſiaõ de huma febre maligniſſima, taõ viſinha da morte, e taõ deſacordada, que deitando-ſelhe ventoſas forjadas com golpes bem profundos, naõ as ſentio; neſte aperto lhe dey o meu cordeal, a que ajuntey o pò de duas lignuas deſtas, que lhe
+mandey de minha caſa, en o meſmo dia eſcapou da morte. Eſta mulher eſtava em caſa
+do ſeu cunhado Manoel Pereira, morador a Boa Viſta, junto ao pateo das galegas. Eſtas pedras feachaõ tambem na praya de Cafondama no Reyno de Angola: tambem ſe
+achaõ outras pedras na meſma praya redondas do tamanho dos grãos de bico de Portugal, eſtas ſão pretas, como ſão as pedras da cobra de Dio, e tem a mesma virtude
+que as de Dio, porque as poſtas ſobre as mordeduras de qualquer bicho venenoſo chupaõ em ſi o veneno: chamaõ-ſe eſtas taes pedras, Olho de vibora.
+
+||
+
+##  Pao QuieSeco, e Suas virtudes.
+
+Do Reyno de Banguela vem hum paõ, chamado Quieſco, o polme deſte pão ap
+plicado ſobre a teſta abranda muito as dores de cabeça: a meſma Virtude tem o
+pao chamado Quicongo.
+
+##  Herva Quitumbata, e Suas virtudes.
+
+A Raiz deſta herva tem virtude tão eficaz para ſuſpender as camas; que havendo
+alguns doentes que eſtiverão cinco, e ſeis mezes, ſem haver remedio com que ſe
+eſtancaſſem, ſó com o pó deſta raiz tomado huma, ou duas veze[ pararaõ foi tanto
+foy neceſſario deitarlhes ajudas para ſararem; o modo com que ſe uſa deſta raiz he ſulando-a em huma pedra com agua até fazer polme de mediana groſſura, e então ſe dà huma
+colher deſte polme miſturado com Matete frio. Eſta herva he muito conhecida naquellas terras, e ha tanta abundancia della, que a comem os porcos, he alaſtrada pelo chaõ,
+a ſua folha he pequena, e redonda, deita huma flor pequena, e branca.
+
+##  Orelha de Onça, e Suas virtudes.
+
+Na Bahia em huma terra chamada Cachoeira naſce huma herva, a que os Naturaes
+chamaõ Orelha de Onça, a raiz deſta herva he chea de nòs, como he a raiz do Cypò, com a differença, que os nos ſaõ mayores, e mais groſſos que os do Cypò: certificaraõ-me algumas peſſoas dignas de credito, que a tal raiz, Orelha de Onça, tem grandiſſima virtude para ſoccorer aos toſſigofos, e impiematicos, com tal condiçaõ, que ſe
+tome muitos dias feita em pó ſubtiliſſimo, miſturado com duas onças de ass]ucar roſado
+velho, ou com cremor de cevada: na aſthma faz grande proveito, como tenho obſervado em hum menino, morador na Rua Nova, que eſtava jà deſamparado.
+
+ 
+
+||
+
+##  Peço muito aos leitores que iraõ ponderar as seguintes razoens com animo
+deſapaixonado, porque entendo daraõ ſentença a meu favor.
+
+
+He coſtume muito uſado na corte de Pariz, e em outras cortes, Cidades grandes do Mundo, que todas as pessoas que ſabem algum remedio efficaz para curar
+alguma doença rebelde, mandaoõ fixar varios papeis nas ruas, e praças mais publicas das
+ditas Cidades, dando nelles noticias, que fulano morador em tal rua tem eſte, ou aquelle remedio para curar tal doença, e não contentes com eſta diligencia, mandaõ imprimir muitos, em que daõ conta dos remedios que tem, e os repartem com as pessoas que
+encontraõ pelas ruas, pertendendo deſte modo que em poucos dias ſaibaõ todos aonde
+podem achar ſoccorro para as doenças taõ rebeldes, que ſenão rendem aos remedios
+ordinarios.
+
+
+Eſte arbitrio taõ proveitoſo para o bem commum deſejey muitas vezes por em execução, e dar noticia a toda eſta Corte, e Reyno dos particulares remedios, que com
+incanſavel eſtudo alcancey no diſcurſo de cincoenta e oito annos, para que os doentes
+ſe aproveitaſſem delles; reprimi porém o tal deſejo até eſte tempo, por ſaber que nelle
+ſe não faz obra alguma, por mais boa, e proveitoſa que ſeja, que a malicia, e o amargoſo fel da inveja o não converta em veneno, julgando a ſniſtramente: agora porém que
+nem as detracçoens, nem os varios juízos, que ſe haõ de fazer ſobre eſte meu intento,
+poderaõ encender em mim o fogo da colera, porque naõ tenho jà mais que cinzas a que
+me reduziraõ os meus oitenta e oito annos, me reſolvo a manifeſtar ao Mundo que eu
+preparo alguns remedios, com que tenho livrado da morte e muitos doentes, que eſtavaõ desamparados, e deixados ao arbítrio da natureza; e porque me conſta que muitas
+pessoas padecem doenças, que ou tiraõ a vida, ou duraõ muitos annos, ſe poderiaõ curar, ſe tiveſſem noticia que em minha ca ſa tenho para ellas remedio, e segredos particulares, quero apontallos aqui para que os senhores Medicos, com quem puder mais
+o amor Divino, que a delaſteicaõ humana, uſſem delles, quando as medicinais ordinarias naõ aproveitarem.
+
+||
+
+
+##  As doenças para quem ſervem os taes remedios, ſaõ as seguintes.
+
+
+Para alporcas, para febres malignas, ou bexigas, para gotta coral, para fluxos de
+ſangue, suppressoens altas da ourina, para cezoens intermitentes, para accidentes uterinos, para almorreimas, para ſeccar o leite, para vágados, para lombrigas,
+e finalmente preparo huma maſſa, chamada Curviana, de grande virtude para as doenças abaixo declaradas.
+
+
+E começando pelo remedio das lombrigas, digo, que rarissimas vezes deixa de deitar
+fóra toda a bicharia, que houver no corpo, tomando dous eferupulos do dito remedio
+três dias successivos, ou em ſubſtancia, ou em infuſaõ de duas onças de agua commua.
+
+
+A maſſa Cruviana ſe dá em fórma de pílulas em quantidade de huma oitava. Provoca
+efficazmente a conjunção menſal, com tal condição, que ſe toma doze dias alternados,
+bebendolhe, passadas duas horas, meyo quartilho de caldo de grãos pardos, temperado
+com dez rais de açafrão, e quinze grãos de pò de ſemente de ſalſa, ou meyo quartilho
+de agua cozida com herva montão.
+
+
+A dita maſſa de fopila muito as veis, com condição, que a cada oitava della ajuntem
+hum eſcrupulo de crocus martis aperitivo, e ſe continue quinze dias. A dita maſſa alivia
+muito aos asthmaticos, com tal condição, que passadas duas horas, beba o doente huma
+chicara de agua bem quente, cozida com cabeças de herva hyſſopo; ou três onças de
+agua chamada de mil flores deſtilada em Mayo: toma-ſe seis vezes em dias alternados.
+A limpa o eſtomago de cruezas, e humores vilcolos, e ſe toma seis vezes em dias alternados. Cura melhor que algum outro remedio as durezas, e opilaçoens do baço, os caroços dos peitos das mulheres, e as alporcas, com tanto que ſe tomem da tal maſſa quatro
+escrupulos, ſegundo a ordem, que enſino na Polyanthea trat. 3. cap. 4, pag. 752. num. 84.
+
+
+Para as dores de cabeça que procederem por cauſa do eſtomago, como muitas vezes
+procedem, obra a dita maſſa maravilhosos proveitos, com tanto que ſe tome cinco vezes em dias alternados, bebendolhe em cima quatro onças de agua cozida com folhas
+de cardo ſanto.
+
+
+Os que quiſerem ſaber ſe os sobreditos remédios ſaõ taõ proveitosos como eu digo,
+podem informarte das mesmas pessoas a quem curey com elles, e ficaraõ desenganados,
+que na inculca que faço delles, tem mais parte a compaixão dos males alheyos, que o
+deſvanecimento, ou ambição da fama, ou intereſſe próprio.
+
+
+Os doentes que curey de alporcas antidas, ſe acharaõ nomeados no livro das minha
+Observaçoens Portuguezas na Obſver. 7. pag. 53 e na Obſver. 82, pag. 480. e na Obſver;
+83. pag. 485. e ſe acharaõ tambem outros nomeados no meu Peculio, quando fallo nas
+alporcas.
+
+
+Os que curey de febres malignas com o meu Benzoartico Curviano, ſaõ tantos, que
+não tem numero, fallo ſomente em trinta doentes, para os quaes me chamaraõ depois
+de eſtarem ungidos, e desamparados, e todos livraraõ da morte por mercê de Deos, e
+Beneficio do dito Bezoartico, e ſe acharaõ nomeados na Polyanthea da terceira impreſſaõ no trat. 2. cap. 105. pag. 571. do num. 7. até o num. 44.
+
+
+Os que curey de acidentes de gorta coral, em que entrou hum que os tinha hereditarios, ſe acharaõ nomeados na Polyanthea trat. 2. cap. 9. pag. 68. até 70.
+
+
+Os que curey de fluxos de ſangue ſe acharaõ nomeados no trat. 3. cap.4. p. 478. até 751.
+
+
+Os que curey de suppressoens altas da ourina, ſe acharaõ no dito livro cap. 83. pag.
+448. do num. 37. Até 49.
+
+
+Aos senhores Medicos, a que parecer que fiz ſerviço à Republica em lhe dar noticia
+de alguns remédios secretos, de que os doentes ſe não aproveitavaõ, por lhes faltar o
+conhecimento delles, peço queiraõ fazer o meſmo, dando noticia dos grandes remédios
+que ſouberem, e faraõ niſſo huma obra de muito merecimento para com Deos. Não digo que revelem a manufactura dos seus segredos, em quanto forem vivos, que tambem
+eu naõ revelo a manufactura dos meus; mas digo que dem noticia delles para utilidade
+Publica, que iſſo he o que eu faço, e devem fazer todos em favor dos enfermos.
+
+
+Finis, Laus Deo, Virginique Matri.
+
+||
