@@ -14,7 +14,7 @@ Mestrado em **Humanidades Digitais** | Universidade do Minho
 - [Projeto 4 - Curandeiro de Mirian](#projeto-4--curandeiro-de-mirian)
 - [Projeto 5 - Edição de Livros Antigos de Medicina](#projeto-5---edição-de-livros-antigos-de-medicina)
 - [Projeto 6 - Processamento do *Memorial de Varios Simplices*](#projeto-6---processamento-do-memorial-de-varios-simplices)
-- [Projeto 7 - DTD e XML do *Memorial de Varios Simplices*](#projeto-7--dtd-e-xml-do-memorial-de-varios-simplices)
+- [Projeto 7 - DTD e XML](#projeto-7--dtd-e-xml-do-memorial-de-varios-simplices)
 - [Projeto 8 - Desenvolvimento de Websites para Conferências](#projeto-8--desenvolvimento-de-websites-para-conferências)
 - [Projeto 9 - Mockup de Aplicação Interativa para o Memorial de Varios Simplices](#projeto-9---mockup-de-aplicação-interativa-para-o-memorial-de-varios-simplices)
 
