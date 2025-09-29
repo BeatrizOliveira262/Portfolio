@@ -8,11 +8,11 @@ Mestrado em **Humanidades Digitais** | Universidade do Minho
 
 ## Índice
 
-- [Projeto 1 - Baú de Família](#projeto-1---baú-de-família)
+- [Projeto 1 - Baú de Família (PLN)](#projeto-1---baú-de-família)
 - [Projeto 2 - Corpora nas Humanidades Digitais](#projeto-2---corpora-nas-humanidades-digitais)
-- [Projeto 3 - Edição de Vídeo em DaVinci Resolve](#projeto-3---edição-de-vídeo-em-davinci-resolve)
-- [Projeto 4 - Curandeiro de Mirian](#projeto-4--curandeiro-de-mirian)
-- [Projeto 5 - Edição de Livros Antigos de Medicina](#projeto-5---edição-de-livros-antigos-de-medicina)
+- [Projeto 3 - Edição de Vídeo](#projeto-3---edição-de-vídeo-em-davinci-resolve)
+- [Projeto 4 - Jogo - Curandeiro de Mirian](#projeto-4--curandeiro-de-mirian)
+- [Projeto 5 - Edição de Manuscritos](#projeto-5---edição-de-livros-antigos-de-medicina)
 - [Projeto 6 - Processamento do *Memorial de Varios Simplices*](#projeto-6---processamento-do-memorial-de-varios-simplices)
 - [Projeto 7 - DTD e XML](#projeto-7--dtd-e-xml-do-memorial-de-varios-simplices)
 - [Projeto 8 - Desenvolvimento de Websites para Conferências](#projeto-8--desenvolvimento-de-websites-para-conferências)
@@ -20,7 +20,7 @@ Mestrado em **Humanidades Digitais** | Universidade do Minho
 
 ---
 
-##  Projeto 1 - Baú de Família
+##  Projeto 1 - Baú de Família (PLN)
 
 Neste projeto analisei entrevistas sobre memórias de infância, aplicando técnicas de **Processamento de Linguagem Natural (PLN)** em Python.  
 Este trabalho incluiu:
@@ -57,7 +57,7 @@ Este estudo permitiu compreender como diferentes métricas podem quantificar o i
 
 ---
 
-## Projeto 3 - Edição de Vídeo em DaVinci Resolve  
+## Projeto 3 - Edição de Vídeo  
 
 Este projeto foi desenvolvido no âmbito do curso **O Mais Digital – Curso de Aprofundamento em Edição de Vídeo para Ambientes Digitais**, com foco em técnicas de filmagem e pós-produção.  
 O trabalho incluiu:  
@@ -74,7 +74,7 @@ Este projeto permitiu aplicar conhecimentos técnicos de filmagem e edição, re
 
 ---
 
-## Projeto 4 – *Curandeiro de Mirian*
+## Projeto 4 – Jogo - *Curandeiro de Mirian*
 
 ### Introdução
 Este projeto consistiu no desenvolvimento de um jogo digital utilizando a biblioteca **Phaser 3**.  
@@ -143,7 +143,7 @@ No futuro, seria possível expandir este projeto com **níveis adicionais, novos
 
 ---
 
-## Projeto 5 - Edição de Livros Antigos de Medicina  
+## Projeto 5 - Edição de Manuscritos 
 
 Este projeto consistiu na **edição e estudo de manuscritos antigos de medicina**, de autor não identificado, preservados em arquivos históricos.  
 A atividade incluiu:  
