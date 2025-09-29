@@ -81,7 +81,8 @@ Este projeto consistiu no desenvolvimento de um jogo digital utilizando a biblio
 O jogador assume o papel de um curandeiro na vila fictícia de **Mirian**, cuja missão é recolher ingredientes mágicos e preparar curas para os habitantes que sofrem de várias doenças misteriosas.  
 
 O jogo mistura elementos narrativos, de plataforma e de recolha de recursos, oferecendo uma experiência imersiva com história, música e interatividade.  
-
+O jogo está disponível na pasta correspondente ao projeto, caso deseje fazer o download.
+Importa referir que este trabalho foi desenvolvido sem qualquer conhecimento prévio na área, o que reforça o seu valor como experiência de aprendizagem.
 
 ### Objetivos
 - Explorar a criação de jogos em **JavaScript** com o **Phaser 3**.  
