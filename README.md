@@ -269,4 +269,3 @@ Este projeto permitiu aplicar de forma avançada competências de programação 
 ##  Contacto
 - Email: [Email](mailto:beatrizoliveira262@email.com)  
 - LinkedIn: [linkedin](https://www.linkedin.com/in/beatriz-oliveira-12166b206/)  
-- GitHub: [GitHub](https://github.com/BeatrizOliveira262)
