@@ -1,9 +1,8 @@
 # Portfolio De Beatriz Oliveira
 
 
-Mestrado em **Humanidades Digitais** | Universidade do Minho  
-Áreas de interesse: NLP, análise de dados, desenvolvimento web.  
-
+Mestre em **Humanidades Digitais** | Universidade do Minho  
+Áreas de interesse: NLP, análise de dados, inteligência artificial, vigilância tecnológica, desenvolvimento web.
 ---
 
 ## Índice
@@ -17,7 +16,7 @@ Mestrado em **Humanidades Digitais** | Universidade do Minho
 - [Projeto 7 - DTD e XML](#projeto-7--dtd-e-xml-do-memorial-de-varios-simplices)
 - [Projeto 8 - Desenvolvimento de Websites para Conferências](#projeto-8--desenvolvimento-de-websites-para-conferências)
 - [Projeto 9 - Mockup de Aplicação Interativa para o Memorial de Varios Simplices](#projeto-9---mockup-de-aplicação-interativa-para-o-memorial-de-varios-simplices)
-
+- [Projeto 10 - SemanticPatent: Plataforma de Vigilância Tecnológica Automatizada (Estágio TecMinho)](#projeto-10---semanticpatent-plataforma-de-vigilância-tecnológica-automatizada)
 ---
 
 ##  Projeto 1 - Baú de Família (PLN)
@@ -245,6 +244,25 @@ Este mockup demonstra a capacidade de:
 - Aplicar boas práticas de **UX/UI** para tornar conteúdos históricos mais acessíveis e envolventes.  
 
 
+
+## Projeto 10 - SemanticPatent: Plataforma de Vigilância Tecnológica Automatizada
+
+Este projeto foi desenvolvido no âmbito do meu estágio de investigação no **TecMinho**, consistindo na criação de uma plataforma automatizada de vigilância tecnológica de patentes.
+
+> *Nota: Por motivos de confidencialidade institucional, a interface completa da aplicação não se encontra publicamente acessível.*
+
+O trabalho incluiu:
+- **Pipelines de Dados:** Integração de APIs (EPO OPS) e Modelos de Linguagem de Grande Escala (LLMs) para o processamento estruturado de patentes.
+- **Automação de Queries:** Desenvolvimento de um tradutor semântico baseado em *Contextual Query Language* (CQL) e análise de polaridade para triagem eficiente de documentos de propriedade intelectual.
+- **Data Visualization:** Construção de dashboards estatísticos para suporte à decisão estratégica e análise de tendências de inovação.
+- **Estratégia Digital e Comunicação:** Colaboração complementar na estratégia de redes sociais e definição do posicionamento digital da aplicação face ao público-alvo.
+
+### Pré-visualização da Arquitetura / Esquemático
+*(Insere aqui uma imagem genérica, um fluxograma ou o logótipo para ilustrar o projeto sem expor a interface restrita)*
+
+![Esquema do SemanticPatent](images/semantic_patent_placeholder.png)
+
+Este projeto permitiu aplicar de forma avançada competências de programação em Python, processamento de linguagem natural (PLN) e engenharia de *prompts* a desafios reais de inovação tecnológica e ciência de dados.
 ##  Contacto
 - Email: [Email](mailto:beatrizoliveira262@email.com)  
 - LinkedIn: [linkedin](https://www.linkedin.com/in/beatriz-oliveira-12166b206/)  
