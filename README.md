@@ -260,7 +260,12 @@ O trabalho incluiu:
 ### Pré-visualização da Arquitetura / Esquemático
 *(Insere aqui uma imagem genérica, um fluxograma ou o logótipo para ilustrar o projeto sem expor a interface restrita)*
 
-![Esquema do SemanticPatent](images/semantic_patent_placeholder.png)
+![Esquema do SemanticPatent](Project/Project_10/1.png)
+![Esquema do SemanticPatent](Project/Project_10/2.png)
+![Esquema do SemanticPatent](Project/Project_10/3.png)
+![Esquema do SemanticPatent](Project/Project_10/4.png)
+![Esquema do SemanticPatent](Project/Project_10/5.png)
+
 
 Este projeto permitiu aplicar de forma avançada competências de programação em Python, processamento de linguagem natural (PLN) e engenharia de *prompts* a desafios reais de inovação tecnológica e ciência de dados.
 ##  Contacto
